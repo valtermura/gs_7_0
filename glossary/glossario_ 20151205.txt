@@ -1,0 +1,97 @@
+﻿LibreOffice	LibreOffice
+Slide Sorter	Ordine diapositive
+context menu	menu contestuale
+options	Opzioni
+User Data	Dati utente
+Colors	Colori
+color table	tabella colori
+Grid points	Punti griglia
+Drawing/Presentation	Disegno/Presentazione
+down arrow	freccia a discesa
+Save scheme dialog	Finestra di dialogo Salva lo schema	Intestazione finestra di dialogo
+Draw	Draw
+expansion marker	indicatore di espansione
+Text objects	Oggetti di testo
+Allow quick editing	Permetti modifica rapida
+text editing mode 	modalità di modifica testo
+text object	oggetto di testo
+View	Visualizza	Menu
+Only text area selectable	Solo area di testo selezionata	Voce UI
+Start with Wizard	Inizia con la procedura guidata	Voce UI
+Presentation Wizard	Presentazione guidata	Voce UI
+Use background cache	Utilizza la cache per lo sfondo	Voce UI
+Copy when moving	Copia durante lo spostamento	Voce UI
+Objects always movable	Oggetti sempre spostabili	Voce UI
+Tab stops	Tabulazioni	Voce UI
+Start presentation	Presentazione	Voce UI
+Always with current page	Sempre con la pagina corrente	Voce UI
+Figure	Figura
+Rulers visible	Righelli visibili	Voce UI
+Helplines When Moving	Linee guida durante lo spostamento	Tooltip pulsante
+All control points in Bézier editor	Tutti i punti di controllo nell'editor Bézier	Voce UI
+contour line	profilo
+Synchronize axes	Sincronizza assi	Voce UI
+To snap lines	Alle linee di cattura	Voce UI
+Snap to Snap Lines	Cattura alle linee	Voce UI
+To the page margins	Ai bordi pagina	Voce UI
+Snap to Page Margins	Cattura ai bordi pagina	Voce UI
+To object frame	Alla cornice dell'oggetto	Voce UI
+Snap to Object Points	Cattura ai punti oggetto	Voce UI
+When creating or moving objects	Nella creazione e nel movimento	Voce UI
+When rotating	Nella rotazione	Voce UI
+actions	operazioni
+Customize	Personalizza	Voce UI - Finestra dialogo
+New Menu	Nuovo menu	Voce UI - finestra dialogo
+Menu name	Nome del menu	Voce UI
+Menu Content	Contenuto menu	Voce UI
+Add Commands	Aggiungi comandi	Voce UI - fin. dialogo
+Customize Toolbar	Personalizza barra degli strumenti	Voce UI
+LibreOffice Impress Toolbars	Barre degli strumenti LibreOffice Impress	Voce UI
+Change Icon	Cambia icona	Voce UI
+Save Keyboard Configuration	Salva configurazione della tastiera	Voce UI
+AutoAbstract	Abstract automatico
+slide master	master di diapositiva
+automatic layout 	layout automatico
+layout	layout
+thumbnails	miniature
+right-click	clic con il pulsante destro del mouse
+Outline	Struttura	Voce UI
+main menu bar	barra principale dei menu
+Slides pane	Riquadro Diapositive	Voce UI
+file browser	finestra di esplorazione file
+click	fare clic
+triangular icon	indicatore di espansione (triangolo)
+slides	diapositive
+Workspace pane	riquadro Area di lavoro
+Insert > Duplicate Slide	Inserisci > Duplica_diapositiva	Voce UI
+main menu	menu principale
+Rename Slide	Rinomina diapositiva	Voce UI
+Edit	Modifica	Voce UI
+Delete Slide	Elimina diapositiva	Voce UI
+auto-abstract	abstract automatico	Voce UI
+outline	struttura
+Send	Invia	Voce UI
+Slides pane	Riquadro diapositive
+right click	fare clic con il pulsante secondario del mouse	fare clic con il pulsante secondario del mouse
+Promote	Un livello più alto	Voce UI
+Demote	Un livello più basso	Voce UI
+Text Formatting toolbar	barra strumenti Formattazione del testo	Voce UI
+Style and Formatting window	finestra Stile e formattazione	Voce UI
+Page Setup dialog	finestra di dialogo Impostazione pagina	Voce UI
+Notes	Note	Voce UI
+orientation	orientamento	Voce UI
+Page Setup	Impostazione pagina	Voce UI
+ with 4:3 ratio	con rapporto d'aspetto pari a 4:3
+transparencies	lucidi
+Master Pages	Pagine master	Voce UI
+pop-up menu	menu contestuale
+Notes Master	Master per annotazioni	Voce UI
+Notes Presentation style	Stile di presentazione Note	Voce UI
+checkboxes	caselle di controllo
+Export as PDF	Esporta nel formato PDF	Voce UI
+Export notes pages	Esporta annotazioni	Voce UI
+Handout Page	Pagina stampato	Voce UI
+undock	disancorare
+Task Pane	Pannello delle attività	Voce UI
+Range and copies	Intervallo e copie	Voce UI
+Promote/Demote	Un livello più alto/Un livello più basso	Voce UI

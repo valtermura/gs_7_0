@@ -1,0 +1,14 @@
+12/10/21, 01:19
+Statistiche del progetto
+
+                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
+Totali:          	   11269	132428	                 640328	               760236	    1	
+Restanti:        	   11269	132428	                 640328	               760236	    1	
+Univoci:         	    9948	129189	                 622568	               740563	    1	
+Univoci restanti:	    9948	129189	                 622568	               740563	    1	
+
+
+Statistiche file singoli:
+
+Nome del file          	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
+GS70-GettingStarted.odt	          11269	            11269	            9948	                     9948	       132428	         132428	         129189	                  129189	                        640328	                          640328	                         622568	                                  622568	                      760236	                        760236	                       740563	                                740563	

@@ -1,0 +1,5 @@
+Settlement	Liquidazione
+Chart Wizard	Creazione guidata grafico
+increase	aumentare, accrescere
+check mark	segno di spunta
+fine-tuning	regolazione accurata, precisa

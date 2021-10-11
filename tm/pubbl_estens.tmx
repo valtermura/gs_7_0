@@ -1,0 +1,1928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.3.0_1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Expected) Release Date</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T160839Z" changeid="luke">
+        <seg>Data di Rilascio (presunta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;It is not recommended to use special characters like &quot;&gt;&gt;&quot;, &quot;&lt;&lt;&quot;, &quot;&amp;&quot;, &quot;ç&quot;, &quot;é&quot; or anything similar in the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Title&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195213Z" changeid="luke">
+        <seg>&lt;f0&gt;Si consiglia di non utilizzare caratteri speciali come &quot;&gt;&gt;&quot;, &quot;&lt;&lt;&quot;, &quot;&amp;&quot;, &quot;ç&quot;, &quot;é&quot; o simili nel campo del&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Titolo&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;It is not recommended to use special characters like &quot;&gt;&gt;&quot;, &quot;&lt;&lt;&quot;, &quot;&amp;&quot;,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;&quot;ç&quot;, &quot;é&quot; or anything similar in the&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Title&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T162923Z" changeid="NTATC\ldaghino">
+        <seg>&lt;f0&gt;Si consiglia di non utilizzare caratteri speciali come &quot;&gt;&gt;&quot;, &quot;&lt;&lt;&quot;, &quot;&amp;&quot;,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt; &quot;ç&quot;, &quot;é&quot; o simili nel campo del&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Titolo&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Leave the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;File Description&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;field empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T144636Z" changeid="sara">
+        <seg>&lt;f0&gt;Lasciate &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Descrizione file&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;come campo vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Leave the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;File Description&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;field&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T171226Z" changeid="luke">
+        <seg>&lt;f0&gt;Lasciate il campo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Descrizione File&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;LibreOffice&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;→&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Preferences&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T162619Z" changeid="sara">
+        <seg>&lt;f0&gt;LibreOffice&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;→&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Preferenze&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Pl&lt;/f0&gt;&lt;f1&gt;ease make sure that the&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;Language&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;field on the&lt;s6/&gt;&lt;/f4&gt;&lt;f7&gt;Metadata&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;page of your &lt;s10/&gt;downloadable file is&lt;s11/&gt;&lt;/f8&gt;&lt;f12&gt;Language neutral&lt;/f12&gt;&lt;f13&gt;!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T173312Z" changeid="luke">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;&lt;f1&gt;ssicuratevi che il campo&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;Lingua&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;sulla pagina&lt;s6/&gt;&lt;/f4&gt;&lt;f7&gt;Metadati&lt;/f7&gt;&lt;f8&gt;&lt;s9/&gt;del vostro &lt;s10/&gt;file scaricabile sia&lt;s11/&gt;&lt;/f8&gt;&lt;f12&gt;Lingua neutra&lt;/f12&gt;&lt;f13&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Please make sure that the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Language&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;field on the&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadata&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;page of your externally-hosted file is&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;Language neutral&lt;/f11&gt;&lt;f12&gt;!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T200409Z" changeid="luke">
+        <seg>&lt;f0&gt;Assicuratevi che il campo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Lingua&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;sulla pagina&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadati&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;&lt;/f7&gt;&lt;f9&gt;del vostro file ospitato esternamente sia&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;Lingua neutra&lt;/f11&gt;&lt;f12&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Please make sure that the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Language&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;field on the&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadata&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;page of your &lt;s9/&gt;downloadable file is&lt;s10/&gt;&lt;/f7&gt;&lt;f11&gt;Language neutral&lt;/f11&gt;&lt;f12&gt;!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T144522Z" changeid="sara">
+        <seg>&lt;f0&gt;Vi preghiamo di assicurarvi che il campo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Lingua&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;sulla pagina&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadati&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;del vostro file scaricabile sia &lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;Lingua neutra&lt;/f10&gt;&lt;f11&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Please make sure that the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Language&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;field on the&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadata&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;page of your externally-hosted file is&lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;Language neutral&lt;/f10&gt;&lt;f11&gt;!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T151101Z" changeid="sara">
+        <seg>&lt;f0&gt;Vi preghiamo di assicurarvi che il campo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Lingua&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;sulla pagina&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadati&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;del vostro file ospitato esternamente sia &lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;Lingua neutra&lt;/f10&gt;&lt;f11&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Please make sure that the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Language&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;field on the&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadata&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;page of your project is&lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;Language neutral&lt;/f10&gt;&lt;f11&gt;!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T145120Z" changeid="sara">
+        <seg>&lt;f0&gt;Vi preghiamo di assicurarvi che il campo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Lingua&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;sulla pagina&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadati&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;del vostro progetto sia &lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;Lingua neutra&lt;/f10&gt;&lt;f11&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Please make sure that the&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Language&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;field on the&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadata&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;page of your release is&lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;Language neutral&lt;/f10&gt;&lt;f11&gt;!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T200124Z" changeid="luke">
+        <seg>&lt;f0&gt;Vi preghiamo di assicurarvi che il campo&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Lingua&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;sulla pagina&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Metadati&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;del vostro rilascio sia&lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;Lingua neutra&lt;/f10&gt;&lt;f11&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Please make&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;sure that the&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Language&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;field on the&lt;s7/&gt;&lt;/f5&gt;&lt;f8&gt;Metadata&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;page of your project is&lt;s11/&gt;&lt;/f9&gt;&lt;f12&gt;Language neutral&lt;/f12&gt;&lt;f13&gt;!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195643Z" changeid="luke">
+        <seg>&lt;f0&gt;Assicuratevi&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt; che il campo&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Lingua&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt; sulla pagina&lt;s7/&gt;&lt;/f5&gt;&lt;f8&gt;Metadati&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;del vostro progetto sia&lt;s11/&gt;&lt;/f9&gt;&lt;f12&gt;Lingua neutra&lt;/f12&gt;&lt;f13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Shift+&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;+F5&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T155009Z" changeid="NTATC\ldaghino">
+        <seg>&lt;f0&gt;Maiusc+&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;+F5&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T091345Z" changeid="NTATC\ldaghino">
+        <seg>&lt;f0&gt;Alcuni tasti e voci di menu sono diversi su un Mac rispetto a quelli utilizzati in Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Some keystrokes and menu items are different on a Mac from&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T155617Z" changeid="sara">
+        <seg>&lt;f0&gt;Alcune combinazioni di tasti o voci del menu in Mac sono differenti &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;da quelle utilizzate in  Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Tools&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;→&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Options&lt;/f3&gt;&lt;s5/&gt;menu selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T154320Z" changeid="NTATC\ldaghino">
+        <seg>&lt;f0&gt;Strumenti&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;→&lt;/f2&gt;&lt;f3&gt;&lt;s4/&gt;Opzioni&lt;/f3&gt;&lt;s5/&gt;selezione menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;s1/&gt;&lt;f2&gt;(Command)&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T162930Z" changeid="sara">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;s1/&gt;&lt;f2&gt;(Comando)&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A detailed log of what has changed since the previous release.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T114334Z" changeid="luke">
+        <seg>Log dettagliato dei cambiamenti rispetto al rilascio precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A short description of the most important focus of this release.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T113906Z" changeid="luke">
+        <seg>Una breve descrizione dei punti più importanti del rilascio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A short summary of the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T134343Z" changeid="sara">
+        <seg>Breve riepilogo del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A short summary&lt;s0/&gt;of the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T145722Z" changeid="NTATC\ldaghino">
+        <seg>Breve riepilogo&lt;s0/&gt; del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T154608Z" changeid="NTATC\ldaghino">
+        <seg>Accesso alle opzioni di installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a logo for the project (or organization/company) by clicking the 'Browse' button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T151954Z" changeid="NTATC\ldaghino">
+        <seg>Potete aggiungere un logo per il progetto (oppure organizzazione o azienda) facendo clic sul pulsante &quot;Sfoglia&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a screenshot by clicking the 'Browse' button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T155515Z" changeid="NTATC\ldaghino">
+        <seg>Potete aggiungere una schermata facendo clic sul pulsante &quot;Sfoglia&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding a Release section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T155417Z" changeid="NTATC\ldaghino">
+        <seg>Aggiungere una sezione Rilasci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding a downloadable file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T164112Z" changeid="sara">
+        <seg>Aggiungere un file scaricabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding a link for an externally hosted file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T182924Z" changeid="luke">
+        <seg>Aggiungere un collegamento per un file ospitato all'esterno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T164056Z" changeid="sara">
+        <seg>Aggiungere file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After adding a downloadable file or a link for an externally hosted file for the release, you will see the Extension release and the file(s).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T151431Z" changeid="sara">
+        <seg>Prima di aggiungere un file scaricabile o un link esterno ad un file per la versione, potrete vedere la versione dell'estensione e i file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After adding a downloadable file or a link for an externally hosted file for&lt;s0/&gt;the release, you will see the Extension release and the file(s).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T184007Z" changeid="luke">
+        <seg>Dopo aver aggiunto un file scaricabile o un collegamento per un file ospitato esternamente per&lt;s0/&gt;il rilascio, vedrete il rilascio dell'Estensione e i(l) file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After approval, go to&lt;s0/&gt;&lt;f1&gt;Add new &gt; Release section&lt;/f1&gt;&lt;s2/&gt;to create a new workspace for your releases information and files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195753Z" changeid="luke">
+        <seg>Dopo l'approvazione andate su&lt;s0/&gt;&lt;f1&gt;Aggiungi nuovo &gt; Sezione Rilasci&lt;/f1&gt;&lt;s2/&gt;per creare un nuovo spazio di lavoro per le vostre informazioni di rilasci e file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After approval, go to&lt;s0/&gt;&lt;f1&gt;Add new &gt;&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Release section&lt;/f2&gt;&lt;s4/&gt;to create a new workspace for your releases information and files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T153237Z" changeid="sara">
+        <seg>Dopo l'approvazione andate su&lt;s0/&gt;&lt;f1&gt;Aggiungi nuovo &gt;&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;sezione Versioni&lt;/f2&gt;&lt;s4/&gt;per creare un nuovo spazio di lavoro per le vostre informazioni, versioni e file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After approval, the status will be changed to&lt;s0/&gt;&lt;f1&gt;State: Public&lt;/f1&gt;&lt;s2/&gt;and you can add releases, documentation and feature proposals.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195738Z" changeid="luke">
+        <seg>Dopo l'approvazione lo stato cambierà in&lt;s0/&gt;&lt;f1&gt;Stato: Pubblico&lt;/f1&gt;&lt;s2/&gt;e a questo punto potrete aggiungere rilasci, documentazione e proposte di funzionalità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After filling in the form, click&lt;s0/&gt;&lt;f1&gt;Save&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195614Z" changeid="luke">
+        <seg>Dopo aver riempito il modulo, fate clic su&lt;s0/&gt;&lt;f1&gt;Salva&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After filling in the&lt;s0/&gt;&lt;f1&gt;Add Software Release&lt;/f1&gt;&lt;s2/&gt;form, click&lt;s3/&gt;&lt;f4&gt;Save&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T200045Z" changeid="luke">
+        <seg>Dopo aver completato il modulo&lt;s0/&gt;&lt;f1&gt;Aggiungere Rilascio del Software&lt;/f1&gt;&lt;s2/&gt;, fate clic su&lt;s3/&gt;&lt;f4&gt;Salva&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After filling in&lt;s0/&gt;the&lt;s1/&gt;&lt;f2&gt;Add Software Release&lt;/f2&gt;&lt;s3/&gt;form, click&lt;s4/&gt;&lt;f5&gt;Save&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T141909Z" changeid="sara">
+        <seg>Dopo aver completato&lt;s0/&gt;il modulo&lt;s1/&gt;&lt;f2&gt;Aggiungere versione del software&lt;/f2&gt;&lt;s3/&gt;fare clic su&lt;s4/&gt;&lt;f5&gt;Salva&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After this date, you may use the “Forgot your password” link to get a new password.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T092219Z" changeid="NTATC\ldaghino">
+        <seg>Dopo questa data dovrete utilizzare il link &quot;Password dimenticata&quot; per ottenerne una nuova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After your registration process is complete, you will be able to log in and create a new extension project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T201046Z" changeid="luke">
+        <seg>Dopo il completamento del processo di registrazione, potrete accedere e creare un nuovo progetto di estensione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After your registration process&lt;s0/&gt;is complete, you will be able to log in and create a new extension project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T134218Z" changeid="sara">
+        <seg>Dopo che il processo di registrazione &lt;s0/&gt; è stato completato, potrete accedere e creare un nouvo progetto di estensione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After&lt;s0/&gt;filling in the form, click&lt;s1/&gt;&lt;f2&gt;Save&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T144541Z" changeid="sara">
+        <seg>Dopo&lt;s0/&gt;aver riempito il modulo, fate clic su&lt;s1/&gt;&lt;f2&gt;Salva&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All fields of the&lt;s0/&gt;&lt;f1&gt;Add Software Release&lt;/f1&gt;&lt;s2/&gt;form are described on the list below:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T113232Z" changeid="luke">
+        <seg>Tutti i campi del modulo&lt;s0/&gt;&lt;f1&gt;Aggiungere Rilascio software&lt;/f1&gt;&lt;s2/&gt;sono descritti nell'elenco seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All modules</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T144908Z" changeid="sara">
+        <seg>Tutti i moduli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All trademarks within this guide belong to their legitimate owners.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T154344Z" changeid="sara">
+        <seg>Tutti i marchi registrati presenti in questa guida appartengono ai legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also you can create extensions to provide additional Templates, Gallery images and Autotexts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T084804Z" changeid="NTATC\ldaghino">
+        <seg>Potete anche creare estensioni per fornire Modelli addizionali, Galleria di immagini e Testi Automatici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, please do NOT include the alpha, beta, or release candidate state as this is handled by the work flow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T113617Z" changeid="luke">
+        <seg>Inoltre siete pregati di non includere alfa, beta oppure lo stato del candidato al rilascio poiché è curato dal flusso di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, please do NOT include the alpha, beta, or&lt;s0/&gt;release candidate state as this is handled by the work flow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T130246Z" changeid="sara">
+        <seg>Inoltre siete pregati di non includere alfa, beta o&lt;s0/&gt;lo stato della versione candidata poiché è curata dal flusso di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As UNO components, you can provide new implementations of existing functionality or specialized components like Calc Add-Ins, Add-Ons, DataPilots, Chart Add-Ins, or linguistic components: Spellchecker, Hyphenator or Thesaurus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T084213Z" changeid="NTATC\ldaghino">
+        <seg>Come componenti UNO, potete fornire nuove implementazioni per funzionalità già esistenti o componenti specializzati come Add-Ins per Calc, Add-Ons, DataPilots, Chart Add-Ins, oppure componenti linguistici: controllo ortografico, sillabazione, dizionario dei sinonimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Associated feature proposals</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T170345Z" changeid="luke">
+        <seg>Proposte di caratteristiche associate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the form, click&lt;s0/&gt;&lt;f1&gt;Save&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T144424Z" changeid="sara">
+        <seg>In fondo al modulo fate clic su&lt;s0/&gt;&lt;f1&gt;Salva&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the&lt;s0/&gt;&lt;f1&gt;Add Releases Section&lt;/f1&gt;&lt;s2/&gt;form, on the&lt;s3/&gt;&lt;f4&gt;Metadata&lt;/f4&gt;&lt;s5/&gt;tab, you need to set the language to&lt;s6/&gt;&lt;f7&gt;Language neutral&lt;/f7&gt;, to have this section visible for all users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T153618Z" changeid="sara">
+        <seg>Al modello&lt;s0/&gt;&lt;f1&gt;Sezione Aggiungi Versioni&lt;/f1&gt;&lt;s2/&gt;su&lt;s3/&gt;&lt;f4&gt;Metadati&lt;/f4&gt;&lt;s5/&gt;nella scheda dovrete impostare la lingua come &lt;s6/&gt;&lt;f7&gt;Lingua neutra&lt;/f7&gt;, per rendere questa sezione visibile per tutti gli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the&lt;s0/&gt;&lt;f1&gt;Add&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;Releases Section&lt;/f3&gt;&lt;s4/&gt;form, on the&lt;s5/&gt;&lt;f6&gt;Metadata&lt;/f6&gt;&lt;s7/&gt;tab, you need to set the language to&lt;s8/&gt;&lt;f9&gt;Language neutral&lt;/f9&gt;, to have this section visible for all users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T162504Z" changeid="NTATC\ldaghino">
+        <seg>Sul modulo&lt;s0/&gt;&lt;f1&gt;Aggiungi&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;Sezione Rilasci&lt;/f3&gt;&lt;s4/&gt;, sulla scheda&lt;s5/&gt;&lt;f6&gt;Metadati&lt;/f6&gt;&lt;s7/&gt;, dovete impostare la lingua su&lt;s8/&gt;&lt;f9&gt;Lingua neutra&lt;/f9&gt;, per rendere la sezione visibile a tutti gli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on LibreOffice 3.4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T154705Z" changeid="sara">
+        <seg>Basato su LibreOffice 3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on&lt;s0/&gt;LibreOffice 3.4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T194116Z" changeid="luke">
+        <seg>Basato su&lt;s0/&gt;LibreOffice 3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Categories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T144834Z" changeid="sara">
+        <seg>Categorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Categories that this item should appear in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T145647Z" changeid="NTATC\ldaghino">
+        <seg>Categorie in cui dovrebbe apparire l'elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Categories that this&lt;s0/&gt;item should appear in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T134319Z" changeid="sara">
+        <seg>Categorie cioè&lt;s0/&gt;elemento che dovrebbe apparire in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caution</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T142945Z" changeid="sara">
+        <seg>Attenzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on&lt;s0/&gt;&lt;f1&gt;going back to the release page&lt;s2/&gt;&lt;/f1&gt;link to change the release status.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T184109Z" changeid="luke">
+        <seg>Fate clic sul collegamento&lt;s0/&gt;&lt;f1&gt;indietro alla pagina del rilascio&lt;s2/&gt;&lt;/f1&gt;per cambiare lo stato del rilascio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click&lt;s0/&gt;&lt;f1&gt;Save&lt;/f1&gt;&lt;s2/&gt;to finish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T183442Z" changeid="luke">
+        <seg>Fate clic su&lt;s0/&gt;&lt;f1&gt;Salva&lt;/f1&gt;&lt;s2/&gt;per completare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Codename</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130626T102614Z" changeid="sara">
+        <seg>nome in codice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Codename for this release, if you have one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T114016Z" changeid="luke">
+        <seg>Nome in codice per il rilascio, se ne avete uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T170138Z" changeid="luke">
+        <seg>Compatibilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact address</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T134453Z" changeid="sara">
+        <seg>Contatti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact address for the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130626T104023Z" changeid="sara">
+        <seg>Contatti per il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact e-mail for Release Manager.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T114638Z" changeid="luke">
+        <seg>e-mail di contatto per il Gestore del Rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T094639Z" changeid="sara">
+        <seg>Indice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T154508Z" changeid="sara">
+        <seg>Collaboratori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control+click</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T154649Z" changeid="NTATC\ldaghino">
+        <seg>Control+clic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a Software Project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T155358Z" changeid="NTATC\ldaghino">
+        <seg>Creare un Progetto per un Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date after which no more Improvement Proposals will be associated with the release</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T134716Z" changeid="sara">
+        <seg>Data dopo la quale non è più possibile associare proposte di miglioramento alla versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date after which no more&lt;s0/&gt;Improvement Proposals will be associated with the release</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T160702Z" changeid="luke">
+        <seg>Data dopo la quale non verranno più associate&lt;s0/&gt;Proposte di Miglioramento al rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date after which no new features will added to the release</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T160827Z" changeid="luke">
+        <seg>Data oltre la quale non verranno più aggiunte nuove caratteristiche al rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date on which a final release is expected to be made or was made</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T161027Z" changeid="luke">
+        <seg>Data in cui si presume che verrà effettuato o è stato effettuato un rilascio finale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date on&lt;s0/&gt;which a final release is expected to be made or was made</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T135248Z" changeid="sara">
+        <seg>Data in cui&lt;s0/&gt; si presume che una versione definitiva verrà rilasciata o è stata rilasciata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T144843Z" changeid="sara">
+        <seg>Descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dictionaries and similar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T131931Z" changeid="sara">
+        <seg>Dizionari e simili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each one has a short description below the field&lt;s16/&gt;name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T142932Z" changeid="sara">
+        <seg>ciascuno ha una breve descrizione sotto al &lt;s16/&gt;nome del campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each&lt;s16/&gt;one has a short description below the field name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T101641Z" changeid="NTATC\ldaghino">
+        <seg>Ogni campo&lt;s16/&gt; ha una breve descrizione sotto il nome del campo stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T162152Z" changeid="sara">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T144853Z" changeid="sara">
+        <seg>Esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: '0.1'.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T113629Z" changeid="luke">
+        <seg>Esempio: '0.1'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions for Base</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T133032Z" changeid="sara">
+        <seg>Estensioni per Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions for Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T132606Z" changeid="sara">
+        <seg>Estensioni per Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions for Draw</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T132913Z" changeid="sara">
+        <seg>Estensioni per Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions for Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T132737Z" changeid="sara">
+        <seg>Estensioni per Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions for Math</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T133055Z" changeid="sara">
+        <seg>Estensioni per Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions for Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T131958Z" changeid="sara">
+        <seg>Estensioni per Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions for all program modules</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T102037Z" changeid="NTATC\ldaghino">
+        <seg>Estensioni per tutti i moduli del programma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used to extend the database module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T133043Z" changeid="sara">
+        <seg>Estensioni da utilizzare per ampliare il modulo di database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used to extend the drawing module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T133021Z" changeid="sara">
+        <seg>Estensioni da utilizzare per ampliare il modulo di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used to extend the module for formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T132736Z" changeid="NTATC\ldaghino">
+        <seg>Estensioni da utilizzare per ampliare il modulo per le formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used to extend the presentation module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T132633Z" changeid="NTATC\ldaghino">
+        <seg>Estensioni da utilizzare per ampliare il modulo di presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used to extend the spreadsheet module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T132626Z" changeid="NTATC\ldaghino">
+        <seg>Estensioni da utilizzare per ampliare il modulo del foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used to extend the word processor module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130726T075905Z" changeid="NTATC\ldaghino">
+        <seg>Estensioni da utilizzare per ampliare il modulo di elaborazione testi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used to extend the&lt;s0/&gt;drawing module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195319Z" changeid="luke">
+        <seg>Estensioni da utilizzare per ampliare il&lt;s0/&gt;modulo di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used to extend&lt;s0/&gt;the word processor module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T132541Z" changeid="sara">
+        <seg>Estensioni da utilizzare per ampliare&lt;s0/&gt;il modulo di videoscrittura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used with any program module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T132606Z" changeid="NTATC\ldaghino">
+        <seg>Estensioni da utilizzare con qualsiasi modulo del programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions that could be used with any&lt;s0/&gt;program module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T131747Z" changeid="sara">
+        <seg>Estensioni che possono essere utilizzate con qualsiasi&lt;s0/&gt;unità di programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&lt;f6&gt;or externally hosted files,&lt;s7/&gt;&lt;/f6&gt;only the&lt;s8/&gt;&lt;f9&gt;Platform&lt;/f9&gt;&lt;s10/&gt;and&lt;s11/&gt;&lt;f12&gt;URL&lt;/f12&gt;&lt;s13/&gt;fields are mandatory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T150242Z" changeid="sara">
+        <seg>F&lt;f6&gt;o file ospitato esternamente,&lt;s7/&gt;&lt;/f6&gt;solo la &lt;s8/&gt;&lt;f9&gt;Piattaforma&lt;/f9&gt;&lt;s10/&gt;e&lt;s11/&gt;&lt;f12&gt;URL&lt;/f12&gt;&lt;s13/&gt;sono campi obbligatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&lt;f8&gt;or externally hosted files,&lt;s9/&gt;&lt;/f8&gt;only the&lt;s10/&gt;&lt;f11&gt;Platform&lt;/f11&gt;&lt;s12/&gt;and&lt;s13/&gt;&lt;f14&gt;URL&lt;/f14&gt;&lt;s15/&gt;fields are mandatory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T183421Z" changeid="luke">
+        <seg>P&lt;f8&gt;er i file ospitati esternamente,&lt;s9/&gt;&lt;/f8&gt;solo i campi&lt;s10/&gt;&lt;f11&gt;Piattaforma&lt;/f11&gt;&lt;s12/&gt;e&lt;s13/&gt;&lt;f14&gt;URL&lt;/f14&gt;&lt;s15/&gt; sono obbligatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feature freeze date</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130626T102817Z" changeid="sara">
+        <seg>Freeze date per caratteristiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feedback</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T093754Z" changeid="sara">
+        <seg>Commenti e suggerimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T133715Z" changeid="NTATC\ldaghino">
+        <seg>Campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill the&lt;s3/&gt;&lt;f4&gt;Registrati&lt;/f4&gt;&lt;f5&gt;on form&lt;/f5&gt;&lt;s6/&gt;and click&lt;s7/&gt;&lt;f8&gt;Register&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195039Z" changeid="luke">
+        <seg>Completate il&lt;s3/&gt;&lt;f4&gt;Modulo di Registrazione&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;s6/&gt;e fate clic su&lt;s7/&gt;&lt;f8&gt;Registra&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill the&lt;s4/&gt;&lt;f5&gt;Registration form&lt;/f5&gt;&lt;s6/&gt;and click&lt;s7/&gt;&lt;f8&gt;Register&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T101608Z" changeid="sara">
+        <seg>Completate il&lt;s4/&gt;&lt;f5&gt;modulo di Registrazione&lt;/f5&gt;&lt;s6/&gt;e fate clic su&lt;s7/&gt;&lt;f8&gt;Registra&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, log out and go to the new extension page to see your extension published!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T184500Z" changeid="luke">
+        <seg>Infine, eseguite il log out e andate sulla nuova pagina dell'estensione per vedere la vostra estensione pubblicata!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First of all, you need to register yourself at the Extensions website.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T091451Z" changeid="NTATC\ldaghino">
+        <seg>Prima di tutto dovete registrarvi sul sito delle Estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a higher level of integrity and functionality you can use the C++, Python and Java languages to develop UNO complement-based extensions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T160416Z" changeid="NTATC\ldaghino">
+        <seg>Per un maggiore livello di integrità e funzionalità potete utilizzare i linguaggi C++, Python e Java per sviluppare estensioni basate su complementi UNO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a more detailed list, see the applicat&lt;/f0&gt;&lt;f1&gt;ion Help.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T154221Z" changeid="NTATC\ldaghino">
+        <seg>Per una lista più dettagliata vedere l'&lt;/f0&gt;&lt;f1&gt;Aiuto dell'applicazione.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a more detailed list, see the application Help.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T160543Z" changeid="sara">
+        <seg>Per una lista più dettagliata vedere l'applicazione Aiuto.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the first option, click&lt;s0/&gt;&lt;f1&gt;Add new &gt;&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Downloadable File&lt;/f2&gt;&lt;s4/&gt;on the green bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T171822Z" changeid="luke">
+        <seg>Per la prima opzione, fate clic su&lt;s0/&gt;&lt;f1&gt;Aggiungere nuovo &gt;&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;File scaricabile&lt;/f2&gt;&lt;s4/&gt;sulla barra verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the first option, click&lt;s0/&gt;&lt;f1&gt;Add new&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&gt; Downloadable File&lt;/f2&gt;&lt;s4/&gt;on the green bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T144015Z" changeid="sara">
+        <seg>Per la prima opzione, fate clic su&lt;s0/&gt;&lt;f1&gt;Add new&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;&gt; File scaricabile&lt;/f2&gt;&lt;s4/&gt;sulla barra verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full Project Description</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T150241Z" changeid="NTATC\ldaghino">
+        <seg>Descrizione dell'intero progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full Release Description</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T114043Z" changeid="luke">
+        <seg>Descrizione completa del Rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gallery Contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T131812Z" changeid="sara">
+        <seg>Galleria dei contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gallery&lt;s0/&gt;Contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195256Z" changeid="luke">
+        <seg>Contenuti della&lt;s0/&gt; Gallery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, at this time, you can not add releases, documentation or feature proposals.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T160116Z" changeid="NTATC\ldaghino">
+        <seg>Tuttavia, a questo punto, non potete aggiungere rilasci, documentazione o proposte di funzionalità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the project has a code repository, enter its URL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T150811Z" changeid="NTATC\ldaghino">
+        <seg>Se il progetto ha un repository per il codice, inseritene l'URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the project has an external home page, enter its URL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T150522Z" changeid="NTATC\ldaghino">
+        <seg>Se il progetto ha una home page esterna inseritene l'URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the project has an external issue tracker, enter its URL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T140314Z" changeid="sara">
+        <seg>TSe il prgetto ha un tracciatore esterno, inserite questo URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the project has an external issue&lt;s0/&gt;tracker, enter its URL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195538Z" changeid="luke">
+        <seg>Se il progetto ha un&lt;s0/&gt;tracciatore di errori esterno inseritene l'URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the project has externally hosted documentation, enter its URL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T150632Z" changeid="NTATC\ldaghino">
+        <seg>Se il progetto contiene una parte di documentazione ospitata esternamente, inseritene l'URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are an extension developer, you can use several languages to develop LibreOffice extensions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T165022Z" changeid="sara">
+        <seg>se siete programmatori, potete utilizzare varie lingue per sviluppare le estensioni di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are an extension developer, you can use several languages&lt;s0/&gt;to develop LibreOffice extensions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T160059Z" changeid="NTATC\ldaghino">
+        <seg>Se siete uno sviluppatore di estensioni, potete utilizzare diversi linguaggi&lt;s0/&gt;per sviluppare estensioni di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the next table, the&lt;s0/&gt;&lt;f1&gt;Add Software Project&lt;/f1&gt;&lt;s2/&gt;form fields are listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195426Z" changeid="luke">
+        <seg>Nella tabella seguente, sono elencati i campi del modulo&lt;s0/&gt;&lt;f1&gt;Aggiungere il Progetto Software&lt;/f1&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the right upper corner, click on&lt;s0/&gt;&lt;f1&gt;Log in&lt;/f1&gt;&lt;s2/&gt;to start.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T092542Z" changeid="NTATC\ldaghino">
+        <seg>Nell'angolo in alto a destra fate clic su&lt;s0/&gt;&lt;f1&gt;Fatti riconoscere&lt;/f1&gt;&lt;s2/&gt;per cominciare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the&lt;s0/&gt;&lt;f1&gt;Add Downloadable File&lt;/f1&gt;&lt;s2/&gt;form shown below, you have just chosen your extension file in the&lt;s3/&gt;&lt;f4&gt;File&lt;/f4&gt;&lt;s5/&gt;field and need to define the&lt;s6/&gt;&lt;bs7/&gt;&lt;be8/&gt;&lt;f9&gt;operating system in&lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;Platform&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;field.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T172955Z" changeid="luke">
+        <seg>Nel modulo&lt;s0/&gt;&lt;f1&gt;Aggiungere file scaricabile&lt;/f1&gt;&lt;s2/&gt;mostrato qui di seguito, dovete scegliere soltanto il file dell'estensione nel campo&lt;s3/&gt;&lt;f4&gt;File&lt;/f4&gt;&lt;s5/&gt;e definire il&lt;s6/&gt;&lt;bs7/&gt;&lt;be8/&gt;&lt;f9&gt;sistema operativo nel campo &lt;s10/&gt;&lt;/f9&gt;&lt;f11&gt;Piattaforma&lt;/f11&gt;&lt;f12&gt;&lt;s13/&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this form, you have some mandatory fields in the&lt;s0/&gt;&lt;f1&gt;Default&lt;/f1&gt;&lt;s2/&gt;tab:&lt;s3/&gt;&lt;f4&gt;Title&lt;/f4&gt;,&lt;s5/&gt;&lt;f6&gt;Categories&lt;/f6&gt;,&lt;s7/&gt;&lt;f8&gt;Project&lt;/f8&gt;&lt;s9/&gt;&lt;f10&gt;Summary&lt;/f10&gt;,&lt;s11/&gt;&lt;f12&gt;Full Project Description&lt;/f12&gt;&lt;s13/&gt;and&lt;s14/&gt;&lt;f15&gt;Contact address&lt;/f15&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195155Z" changeid="luke">
+        <seg>In questo modulo ci sono alcuni campi obbligatori nella scheda&lt;s0/&gt;&lt;f1&gt;Predefinita&lt;/f1&gt;&lt;s2/&gt;:&lt;s3/&gt;&lt;f4&gt;Titolo&lt;/f4&gt;,&lt;s5/&gt;&lt;f6&gt;Categorie&lt;/f6&gt;,&lt;s7/&gt;&lt;f8&gt;Progetto&lt;/f8&gt;&lt;s9/&gt;&lt;f10&gt;Riepilogo&lt;/f10&gt;,&lt;s11/&gt;&lt;f12&gt;Descrizione dell'intero progetto&lt;/f12&gt;&lt;s13/&gt;e&lt;s14/&gt;&lt;f15&gt;Contatti&lt;/f15&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In&lt;s0/&gt;&lt;f1&gt;Categories&lt;/f1&gt;, you can select more than one option by pressing&lt;s2/&gt;&lt;f3&gt;Ctrl&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195247Z" changeid="luke">
+        <seg>Nel campo&lt;s0/&gt;&lt;f1&gt;Categorie&lt;/f1&gt;potete selezionare più di un'opzione premendo&lt;s2/&gt;&lt;f3&gt;Ctrl&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In&lt;s0/&gt;&lt;f1&gt;Contact address&lt;/f1&gt;, Use&lt;s2/&gt;&lt;f3&gt;mailto:&lt;/f3&gt;&lt;s4/&gt;prefix for e-mail contact or&lt;s5/&gt;&lt;f6&gt;http://&lt;/f6&gt;&lt;s7/&gt;prefix for a external web site.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T134051Z" changeid="sara">
+        <seg>In&lt;s0/&gt;&lt;f1&gt;Contatti&lt;/f1&gt;, Use&lt;s2/&gt;&lt;f3&gt;inviare una e-mail a:&lt;/f3&gt;&lt;s4/&gt;prefisso per contatto e-mail o&lt;s5/&gt;&lt;f6&gt;http://&lt;/f6&gt;&lt;s7/&gt;prefisso per un sito internet esterno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In&lt;s0/&gt;&lt;f1&gt;Contact address&lt;/f1&gt;, Use&lt;s2/&gt;&lt;f3&gt;mailto:&lt;/f3&gt;&lt;s4/&gt;prefix for e-mail contact&lt;s5/&gt;or&lt;s6/&gt;&lt;f7&gt;http://&lt;/f7&gt;&lt;s8/&gt;prefix for a external web site.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195404Z" changeid="luke">
+        <seg>In&lt;s0/&gt;&lt;f1&gt;Contatti&lt;/f1&gt;, utilizzate&lt;s2/&gt;&lt;f3&gt;mailto:&lt;/f3&gt;&lt;s4/&gt;prefisso per il contatto e-mail&lt;s5/&gt;oppure&lt;s6/&gt;&lt;f7&gt;http://&lt;/f7&gt;&lt;s8/&gt;prefisso per un sito web esterno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T163755Z" changeid="sara">
+        <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Issue tracker URL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T150847Z" changeid="NTATC\ldaghino">
+        <seg> URL per un tracciatore di errori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is possible that the approval will take a few days.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T150726Z" changeid="sara">
+        <seg>Per l'approvazione potrebbero essere necessari alcuni giorni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just install these small programs into LibreOffice and, after restarting the office suit, you can enjoy the new facilities.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T155817Z" changeid="NTATC\ldaghino">
+        <seg>È sufficiente installare questi piccoli programmi in LibreOffice e, dopo aver riavviato il programma, potrete usufruire dei nuovi servizi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LGPL - GNU Lesser General Public License</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T161456Z" changeid="luke">
+        <seg>LGPL - GNU Lesser General Public License </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language Tools</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T131907Z" changeid="sara">
+        <seg>Strumenti per la lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice remains committed to providing users with quality software authored under&lt;s0/&gt;&lt;a1&gt;free software licenses&lt;/a1&gt;, and, as such, our catalog of extensions and templates is published under&lt;s2/&gt;&lt;a3&gt;free software licenses&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T095513Z" changeid="sara">
+        <seg>LibreOffice si impegna a fornire agli utenti software di qualità realizzati&lt;s0/&gt;&lt;a1&gt;con licenza di free software&lt;/a1&gt;e anche il nostro catalogo di estensioni e modelli e pubblicato sotto &lt;s2/&gt;&lt;a3&gt;licenza di free software&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice remains committed to providing users with quality software authored under&lt;s0/&gt;&lt;a1&gt;free software licenses&lt;/a1&gt;, and, as such, our catalog of&lt;s2/&gt;extensions and templates is published under&lt;s3/&gt;&lt;a4&gt;free software licenses&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T194917Z" changeid="luke">
+        <seg>LibreOffice si impegna a fornire agli utenti software di qualità realizzati&lt;s0/&gt;&lt;a1&gt;con licenze di free software&lt;/a1&gt;e, come tale, il nostro catalogo di&lt;s2/&gt;estensioni e modelli è pubblicato sotto&lt;s3/&gt;&lt;a4&gt;licenze di free software&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130626T104709Z" changeid="sara">
+        <seg>Licenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logo link</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195559Z" changeid="luke">
+        <seg>Collegamento del logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mac equivalent</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T162134Z" changeid="sara">
+        <seg>Equivalente in Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max 150x75 pixels (will be resized if bigger).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T155518Z" changeid="NTATC\ldaghino">
+        <seg>Massimo 150x75 pixels (se più grande verrà ridimensionato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max 800x600 (will be resized if bigger).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T155531Z" changeid="NTATC\ldaghino">
+        <seg>Massimo 800x600 (se più grande verrà ridimensionata).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next, click on&lt;s0/&gt;&lt;f1&gt;Extension Center&lt;/f1&gt;&lt;s2/&gt;and, after that, on&lt;s3/&gt;&lt;f4&gt;Submit your Extension&lt;/f4&gt;, on the green block&lt;s5/&gt;to the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T140019Z" changeid="sara">
+        <seg>In seguito, fate clic su&lt;s0/&gt;&lt;f1&gt;Centro Estensioni&lt;/f1&gt;&lt;s2/&gt;e successivamente su&lt;s3/&gt;&lt;f4&gt;Presentare un'estensione&lt;/f4&gt;, nella zona verde&lt;s5/&gt;sulla destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next, click on&lt;s0/&gt;&lt;f1&gt;Extension Center&lt;/f1&gt;&lt;s2/&gt;and, after that,&lt;s3/&gt;on&lt;s4/&gt;&lt;f5&gt;Submit your Extension&lt;/f5&gt;, on the green block to the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195116Z" changeid="luke">
+        <seg>In seguito, fate clic su&lt;s0/&gt;&lt;f1&gt;Centro Estensioni&lt;/f1&gt;&lt;s2/&gt; e, successivamente,&lt;s3/&gt;su&lt;s4/&gt;&lt;f5&gt;Invia la tua Estensione&lt;/f5&gt;, nella zona verde sulla destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not a version history, but in plain text what the main benefit of this release is.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T113956Z" changeid="luke">
+        <seg>Non uno storico della versione, ma in modo semplice spiegare quali sono i principali vantaggi del rilascio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T151154Z" changeid="sara">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note for Mac users</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T113159Z" changeid="NTATC\ldaghino">
+        <seg>Nota per gli utenti Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note&lt;s0/&gt;for Mac users</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T163634Z" changeid="sara">
+        <seg>Avvertenze&lt;s0/&gt;per gli utilizzatori di Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now you need to fill in the&lt;s0/&gt;&lt;f1&gt;Add Software Release&lt;/f1&gt;&lt;s2/&gt;form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T164352Z" changeid="NTATC\ldaghino">
+        <seg>Dovrete quindi compilare il modulo&lt;s0/&gt;&lt;f1&gt;Aggiungere Rilascio Software&lt;/f1&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, after creating the Release folder, you have two options for the files of the release: add a downloadable file or add a&lt;s0/&gt;link for an externally hosted file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T200151Z" changeid="luke">
+        <seg>Ora, dopo aver creato la cartella Rilasci, avete due opzioni per i file del rilascio: aggiungere un file scaricabile o aggiungere un&lt;s0/&gt;collegamento per un file ospitato esternamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, after creating&lt;s0/&gt;the Release folder, you have two options for the files of the release: add a downloadable file or add a link for an externally hosted file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T143200Z" changeid="sara">
+        <seg>Ora, dopo aver creato &lt;s0/&gt;la Cartella verisoni, avete due opzioni per i file di rilascio: aggiungere un file scaricabile o aggiungere un link per un file ospitato esternamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the Extensions web site in your browser and click on the&lt;s0/&gt;&lt;f1&gt;Register&lt;/f1&gt;&lt;s2/&gt;button, in the right upper corner.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195025Z" changeid="luke">
+        <seg>Aprite il sito delle Estensioni nel vostro browser, e fate clic sul pulsante&lt;s0/&gt;&lt;f1&gt;Registra&lt;/f1&gt;&lt;s2/&gt;nell'angolo in alto a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the Extensions web site in your browser and click on the&lt;s0/&gt;&lt;f1&gt;Register&lt;/f1&gt;&lt;s2/&gt;button,&lt;s3/&gt;in the right upper corner.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T101513Z" changeid="sara">
+        <seg>Aprite, nel vostro browser, il sito delle Estensioni e fate clic sul bottone &lt;s0/&gt;&lt;f1&gt;Registra&lt;/f1&gt;&lt;s3/&gt;nell'angolo in alto a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a context menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T154702Z" changeid="NTATC\ldaghino">
+        <seg>Apre un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T094734Z" changeid="sara">
+        <seg>Apre il Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the Styles &amp; Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T155322Z" changeid="NTATC\ldaghino">
+        <seg>Apre la finestra Stili e Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other OSI Approved</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T161604Z" changeid="luke">
+        <seg>Altre approvate dall'OSI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise the file will have this field for its name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130626T110635Z" changeid="sara">
+        <seg>Altrimenti il file avrà questo campo come nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise the project will not be visible to users with another language setting in their browser.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T145330Z" changeid="sara">
+        <seg>Altrimenti il progetto non sarà visibile per gli utenti che hanno impostate sul browser altre lingue.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise the project will not be visible to users with another language setting in their browser.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T144605Z" changeid="sara">
+        <seg>Altrimenti il progetto non sarà visibile per gli utenti che hanno impostate sul browser altre lingue.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise the project will not be visible to users with another language setting in their browser.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T160008Z" changeid="NTATC\ldaghino">
+        <seg>Altrimenti il progetto non sarà visibile per gli utenti che hanno impostato sul browser altre lingue.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise the release will not be visible to users with another language setting in their browser.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T171050Z" changeid="luke">
+        <seg>Altrimenti il rilascio non sarà visibile per gli utenti che hanno altre linuge impostate sul loro browser.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pictures, Backgrounds, ...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T102311Z" changeid="NTATC\ldaghino">
+        <seg>Foto, Sfondi, ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please direct any comments or suggestions about this document to:&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;documentation@libreoffice.org&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T112841Z" changeid="NTATC\ldaghino">
+        <seg>Per commenti o suggerimenti su questo documento rivolgersi a:&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;a2&gt;documentation@libreoffice.org&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please use only plain English text.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T101908Z" changeid="NTATC\ldaghino">
+        <seg>Vi preghiamo di utilizzare solo testo in italiano standard.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please use only plain English text.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T162944Z" changeid="NTATC\ldaghino">
+        <seg>Vi preghiamo di utilizzare solo testo in italiano standard.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Summary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T134331Z" changeid="sara">
+        <seg>Riepilogo del progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proposals freeze date</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T160442Z" changeid="luke">
+        <seg>Freeze date per proposte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T113112Z" changeid="NTATC\ldaghino">
+        <seg>Data di pubblicazione e versione del software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Published 26 September 2011.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T154650Z" changeid="sara">
+        <seg>Pubblicato il 26 Settembre 2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publishing Extensions for LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T110852Z" changeid="NTATC\ldaghino">
+        <seg>Pubblicare Estensioni per LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publishing Extensions in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T110846Z" changeid="NTATC\ldaghino">
+        <seg>Pubblicare Estensioni per LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publishing a release</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T155527Z" changeid="NTATC\ldaghino">
+        <seg>Pubblicare un rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publishing a&lt;s0/&gt;release</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T151133Z" changeid="sara">
+        <seg>Pubblicare &lt;s0/&gt;una versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Related improvement proposals for features going into this release.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T140931Z" changeid="sara">
+        <seg>Proposte di miglioramento per caratteristiche da inserire in questa versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Related improvement proposals for features&lt;s0/&gt;going into this release.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T200022Z" changeid="luke">
+        <seg>Proposte di miglioramento per caratteristiche&lt;s0/&gt;da inserire in questa versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release License: Please examine carefully which license you choose for your contribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T135505Z" changeid="sara">
+        <seg>Licensa della versione: Vi preghiamo di esaminare con attenzione il tipo di licenza che sceglierete per il vostro contributo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release License:&lt;s0/&gt;Please examine carefully which license you choose for your contribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T161132Z" changeid="luke">
+        <seg>Licenza del Rilascio:&lt;s0/&gt; Vi preghiamo di esaminare con attenzione il tipo di licenza che scegliete per il vostro contributo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release Manager</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T114416Z" changeid="luke">
+        <seg>Gestore del Rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release Manager Contact E-mail</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T114548Z" changeid="luke">
+        <seg>Contatto E-mail del Gestore del Rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release Summary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T113646Z" changeid="luke">
+        <seg>Riepilogo Rilasci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release manager for this release.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T114451Z" changeid="luke">
+        <seg>Gestore del rilascio per questo rilascio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repository branch</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T170459Z" changeid="luke">
+        <seg>Ramo del repository</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T154641Z" changeid="NTATC\ldaghino">
+        <seg>Clic destro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screenshot</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T144147Z" changeid="sara">
+        <seg>Schermata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some fields on the&lt;s0/&gt;&lt;f1&gt;Default&lt;/f1&gt;&lt;s2/&gt;tab are mandatory:&lt;s3/&gt;&lt;f4&gt;Version&lt;/f4&gt;,&lt;s5/&gt;&lt;f6&gt;Release Summary&lt;/f6&gt;,&lt;s7/&gt;&lt;f8&gt;License&lt;s9/&gt;&lt;/f8&gt;and&lt;s10/&gt;&lt;f11&gt;Compatibility&lt;/f11&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T113143Z" changeid="luke">
+        <seg>Alcuni campi della scheda&lt;s0/&gt;&lt;f1&gt;Predefinito&lt;/f1&gt;&lt;s2/&gt;sono obbligatori:&lt;s3/&gt;&lt;f4&gt;Versione&lt;/f4&gt;,&lt;s5/&gt;&lt;f6&gt;Riepilogo Rilasci&lt;/f6&gt;,&lt;s7/&gt;&lt;f8&gt;Licenza&lt;s9/&gt;&lt;/f8&gt;e&lt;s10/&gt;&lt;f11&gt;Compatibilità&lt;/f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support mailing list or forum URL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T151516Z" changeid="NTATC\ldaghino">
+        <seg>URL di mailing list o forum di supporto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supported programming languages are Basic, Python, JavaScript and Java.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T165137Z" changeid="sara">
+        <seg>I linguaggi di programmazione supportati sono Basic, Python, JavaScript e Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tested and working with the selected versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T140800Z" changeid="sara">
+        <seg>Testato e funzionante con le versioni selezionate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The URL the logo should link to, if applicable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T144056Z" changeid="sara">
+        <seg>URL al quale il logo dovrebbe collegarsi, se pertinente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The complete project description.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T134443Z" changeid="sara">
+        <seg>Descrizione completa del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The complete release text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T131712Z" changeid="sara">
+        <seg>Testo completo della versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The complete&lt;s0/&gt;release text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195935Z" changeid="luke">
+        <seg>Testo completo&lt;s0/&gt; del rilascio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The options are:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T135656Z" changeid="sara">
+        <seg>Le opzioni sono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The status of your project will be changed to&lt;s0/&gt;&lt;f1&gt;State: Pending approval&lt;/f1&gt;, until it is approved by a reviewer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195727Z" changeid="luke">
+        <seg>Lo stato del vostro progetto cambierà in&lt;s0/&gt;&lt;f1&gt;Stato: in attesa di approvazione&lt;/f1&gt;, finché non sarà approvato da un revisore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The table below gives some common substitutions for the instructions in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T160131Z" changeid="sara">
+        <seg>La tabella seguente fornisce le sostituzioni più comuni per le istruzioni di questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;s0/&gt;&lt;f1&gt;Add Software Project&lt;/f1&gt;&lt;s2/&gt;form will appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T101047Z" changeid="NTATC\ldaghino">
+        <seg>Apparirà quindi il modulo&lt;s0/&gt;&lt;f1&gt;Aggiungi Progetto di Software&lt;/f1&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;s0/&gt;&lt;f1&gt;Releases&lt;/f1&gt;&lt;s2/&gt;folder will be created and you can add a new release clicking on&lt;s3/&gt;&lt;f4&gt;Add new &gt; Software Release&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T154201Z" changeid="sara">
+        <seg>La cartella&lt;s0/&gt;&lt;f1&gt;Versioni&lt;/f1&gt;&lt;s2/&gt;sarà creata e potrete aggingere nuove versioni facendo clic su&lt;s3/&gt;&lt;f4&gt;Aggiungi nuovo&gt; Versioni Software&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;s0/&gt;&lt;f1&gt;Releases&lt;/f1&gt;&lt;s2/&gt;folder will be created and you can add a new release clicking on&lt;s3/&gt;&lt;f4&gt;Add new &gt;&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;Software Release&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T164248Z" changeid="NTATC\ldaghino">
+        <seg>La cartella&lt;s0/&gt;&lt;f1&gt;Rilasci&lt;/f1&gt;&lt;s2/&gt;sarà creata e potrete aggiungere un nuovo rilascio facendo clic su &lt;s3/&gt;&lt;f4&gt;Aggiungi nuovo &gt;&lt;/f4&gt;&lt;f5&gt;&lt;s6/&gt;Rilascio Software&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then just click on&lt;f10&gt;&lt;s11/&gt;the Save&lt;s12/&gt;&lt;/f10&gt;button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T162547Z" changeid="NTATC\ldaghino">
+        <seg>Quindi fate clic sul pulsante &lt;f10&gt;&lt;s11/&gt;Salva&lt;s12/&gt;&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then just click on&lt;f8&gt;&lt;s9/&gt;t&lt;/f8&gt;&lt;f10&gt;he Save&lt;s11/&gt;&lt;/f10&gt;button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T153707Z" changeid="sara">
+        <seg>Quindi fare clic su&lt;f8&gt;&lt;s9/&gt;t&lt;/f8&gt;&lt;f10&gt;Salva&lt;s11/&gt;&lt;/f10&gt;per completare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These extensions are free of charge.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T095730Z" changeid="sara">
+        <seg>Queste estensioni sono gratuite .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These options are detailed in the next two sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T143454Z" changeid="sara">
+        <seg>Queste opzioni sono spiegate in dettaglio nelle due sezioni seguenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document is Copyright&lt;s0/&gt;&lt;f1&gt;©&lt;/f1&gt;&lt;s2/&gt;2011 by its contributors as listed below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T111111Z" changeid="NTATC\ldaghino">
+        <seg>Il presente documento è rilasciato sotto Copyright&lt;s0/&gt;&lt;f1&gt;©&lt;/f1&gt;&lt;s2/&gt;2011 dei collaboratori di seguito elencati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This field is also used in the URL of the item, so please don't use spaces and special characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T130016Z" changeid="sara">
+        <seg>Questo campo è utilizzato anche nell'URL dell'elemento, quindi non utilizzate spazi o caratteri speciali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This manual describes the basic steps for publishing an extension in the LibreOffice official extension repository, located at&lt;s0/&gt;&lt;a1&gt;http://extensions.libreoffice.org/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T091317Z" changeid="NTATC\ldaghino">
+        <seg>Questo manuale descrive i passi basilari necessari alla pubblicazione di un'estensione nel repository ufficiale delle estensioni per LibreOffice, che potete trovare all'indirizzo&lt;s0/&gt;&lt;a1&gt;http://extensions.libreoffice.org/&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T134211Z" changeid="sara">
+        <seg>Titolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title of the software project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T134235Z" changeid="sara">
+        <seg>Titolo del progetto di software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To achieve that, you need to submit your project for approval.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T160448Z" changeid="NTATC\ldaghino">
+        <seg>Per ottenere ciò, dovete presentare il vostro progetto per l'approvazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add an externally hosted file, just click&lt;s0/&gt;&lt;f1&gt;Add new &gt; Externally Hosted File&lt;/f1&gt;&lt;s2/&gt;on the green bar and fill the&lt;s3/&gt;&lt;f4&gt;Add Externally Hosted File&lt;/f4&gt;&lt;s5/&gt;form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T150150Z" changeid="sara">
+        <seg>Per aggiungere un file ospitato esternamente, basta fare clic su&lt;s0/&gt;&lt;f1&gt;Aggiungere nuovo &gt; File ospitato esternamente&lt;/f1&gt;&lt;s2/&gt;sulla barra verde e compilare il modulo&lt;s3/&gt;&lt;f4&gt;Aggiungere file ospitato esternamente&lt;/f4&gt;&lt;s5/&gt;relativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add an externally hosted file, just click&lt;s0/&gt;&lt;f1&gt;Add new &gt;&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;Externally Hosted File&lt;/f2&gt;&lt;s4/&gt;on the green bar and fill the&lt;s5/&gt;&lt;f6&gt;Add Externally Hosted File&lt;/f6&gt;&lt;s7/&gt;form.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T183152Z" changeid="luke">
+        <seg>Per aggiungere un file ospitato esternamente, basta fare clic su&lt;s0/&gt;&lt;f1&gt;Aggiungere nuovo &gt;&lt;/f1&gt;&lt;f2&gt;&lt;s3/&gt;File ospitato esternamente&lt;/f2&gt;&lt;s4/&gt;sulla barra verde e compilare il modulo&lt;s5/&gt;&lt;f6&gt;Aggiungere file ospitato esternamente&lt;/f6&gt;&lt;s7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this, click on&lt;s0/&gt;&lt;f1&gt;State:&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;Submit for approval&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;link, in the right side of the green bar.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195716Z" changeid="luke">
+        <seg>Per farlo, fate clic sul collegamento&lt;s0/&gt;&lt;f1&gt;Stato:&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;Invia per approvazione&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;, sul lato destro della barra verde.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this, click on&lt;s0/&gt;&lt;f1&gt;State:&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;Submit for approval&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;link, in the right side of the&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;green bar.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T150525Z" changeid="sara">
+        <seg>per farlo, fate clic su&lt;s0/&gt;&lt;f1&gt;Stato:&lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;presentare per approvazione&lt;s4/&gt;&lt;/f3&gt;&lt;f5&gt;link, sul lato destro della&lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;barra verde.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To publish the release, go to&lt;s3/&gt;&lt;f4&gt;State: Unreleased&lt;/f4&gt;&lt;s5/&gt;menu and define the new state, for example,&lt;s6/&gt;&lt;f7&gt;Release final release&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T184418Z" changeid="luke">
+        <seg>Pe pubblicare il rilascio, andate al menu&lt;s3/&gt;&lt;f4&gt;Stato: Non rilasciato&lt;/f4&gt;&lt;s5/&gt;e definite il nuovo stato, per esempio&lt;s6/&gt;&lt;f7&gt;Rilascia rilascio finale&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL of documentation repository</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T150611Z" changeid="NTATC\ldaghino">
+        <seg>URL del repository della documentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL of mailing list information page/archives or support forum, if the project has one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T151851Z" changeid="NTATC\ldaghino">
+        <seg>URL della pagina di informazioni/archivi della mailing list o del forum di supporto, se il progetto ne ha uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL of version control repository</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T150719Z" changeid="NTATC\ldaghino">
+        <seg>URL del repository di controllo della versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL of version control repository branch for this release.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T170553Z" changeid="luke">
+        <seg>URL del ramo del repository di controllo di versione per il rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use mailto: or http:// prefix depending on what contact method you prefer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T195513Z" changeid="luke">
+        <seg>Utilizzate il prefisso mailto: oppure http:// a seconda del metodo di contatto che preferite usare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T154947Z" changeid="NTATC\ldaghino">
+        <seg>Usato in combinazione con altri tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T155250Z" changeid="sara">
+        <seg>Versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend reading this document before you start to publish your extension, especially to gather the basic information you will need to fill the mandatory fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T091425Z" changeid="NTATC\ldaghino">
+        <seg>Vi invitiamo a leggere questo documento prima di iniziare la pubblicazione di un'estensione, soprattutto per raccogliere le informazioni di base che vi serviranno per compilare i campi obbligatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can enhance the functionality of LibreOffice with extensions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130627T155637Z" changeid="NTATC\ldaghino">
+        <seg>Potete incrementare le funzionalità di LibreOffice con le estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can see a list of categories and their explanation in the table below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T102019Z" changeid="NTATC\ldaghino">
+        <seg>Potete vedere una lista di categorie e la loro spiegazione nella tabella seguente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can see&lt;s0/&gt;a list of categories and their explanation in the table below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130618T144828Z" changeid="sara">
+        <seg>Potrete vedere&lt;s0/&gt;una lista di categorie e la loro spiegazione nella tabella seguente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can't change it after the release.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T135636Z" changeid="sara">
+        <seg>Non potrà essere cambiata dopo il rilascio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a3&gt;http://www.gnu.org/licenses/gpl.html&lt;/a3&gt;), version 3 or later, or&lt;s4/&gt;the Creative Commons Attribution License (&lt;a5&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a5&gt;), version 3.0 or later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130614T154119Z" changeid="sara">
+        <seg>chiunque può distribuire e/o modificare, secondo i termini sia della GNU General Public License (&lt;a3&gt;http://www.gnu.org/licenses/gpl.html&lt;/a3&gt;), la versione 3 o successive, or&lt;s4/&gt; sia della Creative Commons Attribution License (&lt;a5&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a5&gt;), versione 3 o successive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may distribute it and/or modify it under the terms&lt;s3/&gt;of either the GNU General Public License (&lt;a4&gt;http://www.gnu.org/licenses/gpl.html&lt;/a4&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a5&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a5&gt;), version 3.0 or later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T194042Z" changeid="luke">
+        <seg>È possibile distribuire e/o modificare il documento rispettando i termini della&lt;s3/&gt;GNU General Public License (&lt;a4&gt;http://www.gnu.org/licenses/gpl.html&lt;/a4&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a5&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a5&gt;), versione 3.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may set the file description afterwards on the&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;Contents&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;tab of the release, with the&lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;Rename&lt;/f10&gt;&lt;f11&gt;&lt;s12/&gt;button:&lt;s13/&gt;&lt;/f11&gt;&lt;f14&gt;New Short Name&lt;/f14&gt;&lt;f15&gt;&lt;s16/&gt;stands for the name of the file whereas&lt;s17/&gt;&lt;/f15&gt;&lt;f18&gt;New Title&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;stands for the desc&lt;/f19&gt;&lt;f21&gt;ription of the file.&lt;/f21&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130620T150009Z" changeid="sara">
+        <seg>Potrete inserire la descrizione del file più avanti in&lt;s5/&gt;&lt;/f3&gt;&lt;f6&gt;contenuti&lt;/f6&gt;&lt;f7&gt;&lt;s8/&gt;nella tabella della versione con&lt;s9/&gt;&lt;/f7&gt;&lt;f10&gt;Rinomina&lt;/f10&gt;&lt;f11&gt;&lt;s12/&gt;e relativo bottone:&lt;s13/&gt;&lt;/f11&gt;&lt;f14&gt;Nuovo nome breve&lt;/f14&gt;&lt;f15&gt;&lt;s16/&gt;sta per il nome del file mentre&lt;s17/&gt;&lt;/f15&gt;&lt;f18&gt;Nuovo titolo&lt;/f18&gt;&lt;f19&gt;&lt;s20/&gt;sta per la descri&lt;/f19&gt;&lt;f21&gt;zione del file.&lt;/f21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may set the file description afterwards on the&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;Contents&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;tab of the release, with the&lt;s11/&gt;&lt;/f9&gt;&lt;f12&gt;Rename&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;button:&lt;s15/&gt;&lt;/f13&gt;&lt;f16&gt;New Short Name&lt;/f16&gt;&lt;f17&gt;&lt;s18/&gt;stands for the name of the file whereas&lt;s19/&gt;&lt;/f17&gt;&lt;f20&gt;New Title&lt;/f20&gt;&lt;f21&gt;&lt;s22/&gt;stands for the description&lt;/f21&gt;&lt;f23&gt;&lt;s24/&gt;of the file.&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T182855Z" changeid="luke">
+        <seg>Potete inserire la descrizione del file in seguito sulla scheda del rilascio&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;Contenuti&lt;/f8&gt;&lt;f9&gt;&lt;s10/&gt;, con il pulsante&lt;s11/&gt;&lt;/f9&gt;&lt;f12&gt;Rinomina&lt;/f12&gt;&lt;f13&gt;&lt;s14/&gt;:&lt;s15/&gt;&lt;/f13&gt;&lt;f16&gt;Nuovo Nome Breve&lt;/f16&gt;&lt;f17&gt;&lt;s18/&gt;sta per il nome del file mentre&lt;s19/&gt;&lt;/f17&gt;&lt;f20&gt;Nuovo Titolo&lt;/f20&gt;&lt;f21&gt;&lt;s22/&gt;sta per la descrizione&lt;/f21&gt;&lt;f23&gt;&lt;s24/&gt;del file.&lt;/f23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may set the password before the&lt;s0/&gt;&lt;bs1/&gt;&lt;be2/&gt;deadline date indicated in the e-mail.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T092154Z" changeid="NTATC\ldaghino">
+        <seg>Dovrete impostare una password prima della&lt;s0/&gt;&lt;bs1/&gt;&lt;be2/&gt;data di scadenza indicata nella e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to select at least one licence, but you can choose up to three.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130629T161622Z" changeid="luke">
+        <seg>Dovete selezionare almeno una licenza, ma potete sceglierne fino a tre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should receive an e-mail containing a link to set your password and complete your registration process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T092111Z" changeid="NTATC\ldaghino">
+        <seg>Riceverete una e-mail contenente un link che vi permetterà di impostare la vostra password e completare il processo di registrazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should verify the project status at the website.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T151518Z" changeid="sara">
+        <seg>Dovrete verificarne lo stato sul sito web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will not be notified about the project approval.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130619T151446Z" changeid="sara">
+        <seg>Non riceverete nessuna notifica per l'approvazione del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Extension project will be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changedate="20130628T160029Z" changeid="NTATC\ldaghino">
+        <seg>Il progetto della vostra Estensione verrà quindi creato.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
