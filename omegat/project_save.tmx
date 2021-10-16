@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T103454Z" creationid="valter" creationdate="20211016T103454Z">
+        <seg>&lt;/f0&gt;Per ottenere dei suggerimenti rapidi quando la barra degli strumenti è visibile, posizionando il cursore del mouse sull'icona di un qualsiasi strumento verrà visualizzata una breve descrizione della sua funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Getting Started&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100826Z" creationid="valter" creationdate="20211016T100826Z">
@@ -102,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on LibreOffice &lt;ud2&gt;7.0&lt;/ud2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102840Z" creationid="valter" creationdate="20211016T102840Z">
+        <seg>Basato su LibreOffice &lt;ud2&gt;7.0&lt;/ud2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bernard Siaud</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101905Z" creationid="valter" creationdate="20211016T101905Z">
@@ -150,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102858Z" creationid="valter" creationdate="20211016T102858Z">
+        <seg>Contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101632Z" creationid="valter" creationdate="20211016T101632Z">
@@ -194,6 +218,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092103Z" creationid="valter" creationdate="20211016T092103Z">
         <seg>Draw (grafica vettoriale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102754Z" creationid="valter" creationdate="20211016T102754Z">
+        <seg>Qualsiasi cosa invierete a una mailing list, incluso il vostro indirizzo di posta elettronica e qualsiasi altra informazione personale presente all'interno del messaggio, sarà archiviata pubblicamente e non potrà essere eliminata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +482,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091629Z" creationid="valter" creationdate="20211016T091629Z">
         <seg>Prefazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102802Z" creationid="valter" creationdate="20211016T102802Z">
+        <seg>Data di pubblicazione e versione del software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Published &lt;f0&gt;February&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102833Z" creationid="valter" creationdate="20211016T102833Z">
+        <seg>Pubblicato nel &lt;f0&gt;febbraio&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
