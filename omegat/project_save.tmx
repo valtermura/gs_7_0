@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102527Z" creationid="valter" creationdate="20211016T102527Z">
+        <seg>Per commenti o suggerimenti su questo documento rivolgersi alla mailing list del Documentation Team: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091629Z" creationid="valter" creationdate="20211016T091629Z">
