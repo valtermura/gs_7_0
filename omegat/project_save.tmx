@@ -62,6 +62,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amanda Labby</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101829Z" creationid="valter" creationdate="20211016T101829Z">
+        <seg>Amanda Labby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Andrew Jensen</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101827Z" creationid="valter" creationdate="20211016T101827Z">
+        <seg>Andrew Jensen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Andrew Pitonyak</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101908Z" creationid="valter" creationdate="20211016T101908Z">
+        <seg>Andrew Pitonyak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this &lt;f0&gt;Getting Started Guide&lt;/f0&gt; valuable.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091925Z" creationid="valter" creationdate="20211016T091925Z">
@@ -78,10 +102,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bernard Siaud</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101905Z" creationid="valter" creationdate="20211016T101905Z">
+        <seg>Bernard Siaud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc (spreadsheets)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092055Z" creationid="valter" creationdate="20211016T092055Z">
         <seg>Calc (fogli elettronici)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cathy Crumbley</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101831Z" creationid="valter" creationdate="20211016T101831Z">
+        <seg>Cathy Crumbley</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Christian Kühl</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101858Z" creationid="valter" creationdate="20211016T101858Z">
+        <seg>Christian Kühl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Claire Wood</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101910Z" creationid="valter" creationdate="20211016T101910Z">
+        <seg>Claire Wood</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dan Lewis</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101832Z" creationid="valter" creationdate="20211016T101832Z">
+        <seg>Dan Lewis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dave Barton</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101731Z" creationid="valter" creationdate="20211016T101731Z">
@@ -134,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feedback</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101928Z" creationid="valter" creationdate="20211016T101928Z">
+        <seg>Commenti e suggerimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Felipe Viggiano</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101748Z" creationid="valter" creationdate="20211016T101748Z">
         <seg>Felipe Viggiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Florian Reisinger</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101859Z" creationid="valter" creationdate="20211016T101859Z">
+        <seg>Florian Reisinger</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +230,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Frédéric Parrenin</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101903Z" creationid="valter" creationdate="20211016T101903Z">
+        <seg>Frédéric Parrenin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gisbert Friege (Dmaths)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101900Z" creationid="valter" creationdate="20211016T101900Z">
+        <seg>Gisbert Friege (Dmaths)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hazel Russman</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101846Z" creationid="valter" creationdate="20211016T101846Z">
+        <seg>Hazel Russman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Help system</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092303Z" creationid="valter" creationdate="20211016T092303Z">
         <seg>Sistema di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Iain Roberts</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101851Z" creationid="valter" creationdate="20211016T101851Z">
+        <seg>Iain Roberts</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +302,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JiHui Choi</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101853Z" creationid="valter" creationdate="20211016T101853Z">
+        <seg>JiHui Choi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jochen Schiffers</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101902Z" creationid="valter" creationdate="20211016T101902Z">
+        <seg>Jochen Schiffers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>John A Smith</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101841Z" creationid="valter" creationdate="20211016T101841Z">
+        <seg>John A Smith</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jorge Rodriguez</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101835Z" creationid="valter" creationdate="20211016T101835Z">
+        <seg>Jorge Rodriguez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Kees Kriek</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101724Z" creationid="valter" creationdate="20211016T101724Z">
         <seg>Kees Kriek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kevin O’Brien</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101849Z" creationid="valter" creationdate="20211016T101849Z">
+        <seg>Kevin O’Brien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Laurent Balland-Poirier</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101855Z" creationid="valter" creationdate="20211016T101855Z">
+        <seg>Laurent Balland-Poirier</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +374,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Magnus Adielsson</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101850Z" creationid="valter" creationdate="20211016T101850Z">
+        <seg>Magnus Adielsson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Martin Saffron</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101842Z" creationid="valter" creationdate="20211016T101842Z">
+        <seg>Martin Saffron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Math (equation editor)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092121Z" creationid="valter" creationdate="20211016T092121Z">
@@ -222,10 +398,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Miklos Vajna</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101906Z" creationid="valter" creationdate="20211016T101906Z">
+        <seg>Miklos Vajna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093843Z" creationid="valter" creationdate="20211016T093843Z">
         <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Olivier Hallot</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101837Z" creationid="valter" creationdate="20211016T101837Z">
+        <seg>Olivier Hallot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paul Figueiredo</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101838Z" creationid="valter" creationdate="20211016T101838Z">
+        <seg>Paul Figueiredo</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pulkit Krishna</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101911Z" creationid="valter" creationdate="20211016T101911Z">
+        <seg>Pulkit Krishna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rafael Lima</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101750Z" creationid="valter" creationdate="20211016T101750Z">
@@ -254,10 +462,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Regina Henschel</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101854Z" creationid="valter" creationdate="20211016T101854Z">
+        <seg>Regina Henschel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rob Westein</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101754Z" creationid="valter" creationdate="20211016T101754Z">
         <seg>Rob Westein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Roman Kuznetsov</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101912Z" creationid="valter" creationdate="20211016T101912Z">
+        <seg>Roman Kuznetsov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ron Faile Jr.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101847Z" creationid="valter" creationdate="20211016T101847Z">
+        <seg>Ron Faile Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Steve Fanning</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101914Z" creationid="valter" creationdate="20211016T101914Z">
+        <seg>Steve Fanning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Steve Schwettman</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101844Z" creationid="valter" creationdate="20211016T101844Z">
+        <seg>Steve Schwettman</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +554,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093552Z" creationid="valter" creationdate="20211016T093552Z">
         <seg>Per visualizzare la Guida in linea, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; &lt;f2&gt;dal&lt;/f2&gt; menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Valerii Goncharuk</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101907Z" creationid="valter" creationdate="20211016T101907Z">
+        <seg>Valerii Goncharuk</seg>
       </tuv>
     </tu>
     <tu>
