@@ -30,10 +30,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Get Involved&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Get Involved page of the LibreOffice website, &lt;a2&gt;https://www.libreoffice.org/community/get-involved/&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T105110Z" creationid="valter" creationdate="20211016T105110Z">
+        <seg>&lt;f0&gt;Partecipa&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Apre il browser predefinito alla pagina Get Involved del sito web di LibreOffice, &lt;a2&gt;https://www.libreoffice.org/community/get-involved/&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Getting Started&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100826Z" creationid="valter" creationdate="20211016T100826Z">
         <seg>&lt;f0&gt;Guida introduttiva&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice and reset the software to its default settings.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T105019Z" creationid="valter" creationdate="20211016T105019Z">
+        <seg>&lt;f0&gt;Riavvia in modalità provvisoria&lt;/f0&gt; Apre una finestra di dialogo contenente le opzioni per riavviare LibreOffice e ripristinare il programma alle sue impostazioni predefinite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +314,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092140Z" creationid="valter" creationdate="20211016T092140Z">
         <seg>Per ulteriori dettagli, guardate le guide utente per i singoli componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From there you can report bugs, suggest new features and communicate with others in the LibreOffice community.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T104858Z" creationid="valter" creationdate="20211016T104858Z">
+        <seg>Da questa pagina puoi segnalare errori, suggerire nuove funzionalità e comunicare gli altri membri della comunità di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +642,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093949Z" creationid="valter" creationdate="20211016T093949Z">
         <seg>Il menu Aiuto include anche collegamenti ad altre informazioni su LibreOffice e strumenti di supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There you can choose a topic of interest to help improve the program.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T105215Z" creationid="valter" creationdate="20211016T105215Z">
+        <seg>Qui è possibile scegliere un argomento di vostro interesse per aiutare a migliorare il programma.</seg>
       </tuv>
     </tu>
     <tu>
