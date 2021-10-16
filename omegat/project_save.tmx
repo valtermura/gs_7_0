@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_203361b5" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;f2&gt;with&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T100841Z" creationid="valter" creationdate="20211016T100841Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;di&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Getting Started&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T100826Z" creationid="valter" creationdate="20211016T100826Z">
+        <seg>&lt;f0&gt;Guida introduttiva&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;The options &lt;/f0&gt;&lt;f1&gt;follow&lt;/f1&gt;&lt;f2&gt;ed by a &lt;/f2&gt;&lt;f3&gt;‡&lt;/f3&gt;&lt;f4&gt; sign &lt;/f4&gt;&lt;f5&gt;in the list below &lt;/f5&gt;&lt;f6&gt;are only accessible if your computer is connected to the Internet.&lt;/f6&gt;</seg>
@@ -42,6 +58,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092055Z" creationid="valter" creationdate="20211016T092055Z">
         <seg>Calc (fogli elettronici)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contributors are listed below.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101011Z" creationid="valter" creationdate="20211016T101011Z">
+        <seg>I collaboratori sono elencati di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T100853Z" creationid="valter" creationdate="20211016T100853Z">
+        <seg>Copyright</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;&lt;s2/&gt;by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T100937Z" creationid="valter" creationdate="20211016T100937Z">
+        <seg>Il presente documento è rilasciato sotto Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;&lt;s2/&gt;del LibreOffice Documentation Team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the first line of support for using LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092438Z" creationid="valter" creationdate="20211016T092438Z">
@@ -210,6 +250,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091958Z" creationid="valter" creationdate="20211016T091958Z">
         <seg>Sia che siate principianti, sia che abbiate familiarità con altre suite per ufficio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a3&gt;&lt;f4&gt;https://www.gnu.org/licenses/gpl.html&lt;/f4&gt;&lt;/a3&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101558Z" creationid="valter" creationdate="20211016T101558Z">
+        <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (GPL) (&lt;a3&gt;&lt;f4&gt;https://www.gnu.org/licenses/gpl.html&lt;/f4&gt;&lt;/a3&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), versione 4.0 o successiva.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
