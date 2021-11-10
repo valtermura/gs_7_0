@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slides that contain text use styles to determine the appearance of that text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T150958Z" creationid="Elisabetta Manuele" creationdate="20211110T150958Z">
+        <seg>Le diapositive contenenti testo utilizzano gli stili per determinare l'aspetto del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steve Fanning</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101914Z" creationid="valter" creationdate="20211016T101914Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T093552Z" creationid="valter" creationdate="20211016T093552Z">
         <seg>Per visualizzare la Guida in linea, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; &lt;f2&gt;dal&lt;/f2&gt; menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use Impress for more than very simple slide shows requires some knowledge of the elements which the slides contain.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T150935Z" creationid="Elisabetta Manuele" creationdate="20211110T150935Z">
+        <seg>L'uso di Impress per una presentazione che non sia di livello estremamente semplice richiede la conoscenza degli elementi contenuti nelle diapositive.</seg>
       </tuv>
     </tu>
     <tu>
