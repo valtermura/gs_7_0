@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T151745Z" creationid="Elisabetta Manuele" creationdate="20211110T151745Z">
+        <seg>Avviare Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steve Fanning</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101914Z" creationid="valter" creationdate="20211016T101914Z">
