@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating drawings in Impress is similar to the Draw component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T151204Z" creationid="Elisabetta Manuele" creationdate="20211110T151204Z">
+        <seg>La creazione di disegni in Impress è simile a quella relativa al componente Draw di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dan Lewis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101832Z" creationid="valter" creationdate="20211016T101832Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101859Z" creationid="valter" creationdate="20211016T101859Z">
         <seg>Florian Reisinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For &lt;f0&gt;more information&lt;/f0&gt;, &lt;f1&gt;refer to&lt;/f1&gt; Chapter 3, Using Styles and Templates, and Chapter 7, Getting Started with Draw, in this guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T151531Z" creationid="Elisabetta Manuele" creationdate="20211110T151531Z">
+        <seg>Per &lt;f0&gt;ulteriori informazioni&lt;/f0&gt; &lt;f1&gt;consultate il&lt;/f1&gt; Capitolo 3, Uso di stili e modelli e il Capitolo 7, Guida introduttiva a Draw, di questa guida.</seg>
       </tuv>
     </tu>
     <tu>
