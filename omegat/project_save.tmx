@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Getting Started with Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T142753Z" creationid="Elisabetta Manuele" creationdate="20211110T142753Z">
+        <seg>Guida introduttiva a Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gisbert Friege (Dmaths)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101900Z" creationid="valter" creationdate="20211016T101900Z">
