@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter &lt;f0&gt;6&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143050Z" creationid="Elisabetta Manuele" creationdate="20211110T143050Z">
+        <seg>Capitolo &lt;f0&gt;6&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Christian Kühl</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101858Z" creationid="valter" creationdate="20211016T101858Z">
