@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter includes instructions to guide you through the Impress environment while designing your presentations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T144113Z" creationid="Elisabetta Manuele" creationdate="20211110T144113Z">
+        <seg>Questo capitolo comprende istruzioni, schermate e consigli utili per guidarvi nell'ambiente di Impress nel corso della progettazione delle vostre presentazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;&lt;s2/&gt;by the LibreOffice Documentation Team.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T100937Z" creationid="valter" creationdate="20211016T100937Z">
