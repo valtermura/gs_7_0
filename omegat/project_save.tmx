@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may also wish to consult the &lt;f2&gt;Draw Guide&lt;/f2&gt; for more details on how to use the drawing tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T151653Z" creationid="Elisabetta Manuele" creationdate="20211110T151653Z">
+        <seg>Potete inoltre fare riferimento alla &lt;f2&gt;Guida a Draw&lt;/f2&gt; per maggiori dettagli sull'uso degli strumenti di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may be new to office software, or you may be familiar with another office suite.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T091958Z" creationid="valter" creationdate="20211016T091958Z">
