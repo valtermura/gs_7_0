@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although more difficult designs are mentioned in this chapter, explanations for creating them are in the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T144153Z" creationid="Elisabetta Manuele" creationdate="20211110T144153Z">
+        <seg>Sebbene nel capitolo si faccia più volte riferimento a progetti impegnativi, le spiegazioni per crearli si trovano nella &lt;f0&gt;Guida a Impress&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amanda Labby</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101829Z" creationid="valter" creationdate="20211016T101829Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T093834Z" creationid="valter" creationdate="20211016T093834Z">
         <seg>Sela guida locale non è installata nel vostro computer e siete collegati a Internet, il vostro browser predefinito aprirà le pagine della Guida in linea che si trovano nel sito web di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have a working knowledge of how to create slide shows, we recommend you use the &lt;f1&gt;Impress Guide&lt;/f1&gt; for your source of information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T145046Z" creationid="Elisabetta Manuele" creationdate="20211110T145046Z">
+        <seg>Se avete già una certa esperienza sulla realizzazione di una presentazione, consigliamo di utilizzare la &lt;f1&gt;Guida a Impress&lt;/f1&gt; come fonte di informazioni.</seg>
       </tuv>
     </tu>
     <tu>
