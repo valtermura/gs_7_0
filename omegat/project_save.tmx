@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting rows and columns in a database table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
+        <seg>Selezionare righe e colonne in una tabella di database (aperta con F4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steve Fanning</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101914Z" creationid="valter" creationdate="20211016T101914Z">
@@ -722,6 +730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101907Z" creationid="valter" creationdate="20211016T101907Z">
         <seg>Valerii Goncharuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is Impress?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T142243Z" creationid="Elisabetta Manuele" creationdate="20211110T142243Z">
+        <seg>Introduzione a Impress</seg>
       </tuv>
     </tu>
     <tu>
