@@ -406,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress also includes a spelling checker, a thesaurus, and styles for drawings, text, and backgrounds.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143611Z" creationid="Elisabetta Manuele" creationdate="20211110T143611Z">
+        <seg>Inoltre Impress include il controllo ortografico, i sinonimi, gli stili di testo, e gli stili di sfondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress is the presentation (slide show) program included in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143127Z" creationid="Elisabetta Manuele" creationdate="20211110T143127Z">
+        <seg>Impress è il programma di presentazioni (presentazioni di diapositive) incluso in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, you can choose whether to activate Extended Tips using &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T103801Z" creationid="valter" creationdate="20211016T103801Z">
@@ -578,6 +594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T091629Z" creationid="valter" creationdate="20211016T091629Z">
         <seg>Prefazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Presentations in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143110Z" creationid="Elisabetta Manuele" creationdate="20211110T143110Z">
+        <seg>Presentazioni con LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T092051Z" creationid="valter" creationdate="20211016T092051Z">
         <seg>Writer (elaborazione di testi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create slides that contain many different elements, including text, bulleted and numbered lists, tables, charts, and a wide range of graphic objects such as clipart, drawings, and photographs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143207Z" creationid="Elisabetta Manuele" creationdate="20211110T143207Z">
+        <seg>Con Impress potete creare diapositive contenenti molti elementi diversi, come testo, elenchi puntati e numerati, tabelle, diagrammi e un'ampia varietà di oggetti grafici come clip art, disegni e fotografie.</seg>
       </tuv>
     </tu>
     <tu>
