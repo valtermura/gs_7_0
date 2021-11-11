@@ -1,998 +1,1006 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_203361b5" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f2&gt;with&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T100841Z" creationid="valter" creationdate="20211016T100841Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T100841Z" creationid="valter" creationdate="20211016T100841Z">
         <seg>&lt;/f0&gt;&lt;f2&gt;di&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T103454Z" creationid="valter" creationdate="20211016T103454Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T103454Z" creationid="valter" creationdate="20211016T103454Z">
         <seg>&lt;/f0&gt;Per ottenere dei suggerimenti rapidi quando la barra degli strumenti è visibile, posizionando il cursore del mouse sull'icona di un qualsiasi strumento verrà visualizzata una breve descrizione della sua funzione.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153118Z" creationid="Elisabetta Manuele" creationdate="20211111T153118Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153118Z" creationid="Elisabetta Manuele" creationdate="20211111T153118Z">
         <seg>&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Get Help Online&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Ask LibreOffice&lt;f2&gt; &lt;/f2&gt;forum of questions and answers from the LibreOffice community, &lt;a3&gt;https://ask.libreoffice.org/en/questions/&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T104430Z" creationid="valter" creationdate="20211016T104430Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T104430Z" creationid="valter" creationdate="20211016T104430Z">
         <seg>&lt;f0&gt;Ottieni aiuto in linea&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Apre il browser predefinito nel forum Ask di LibreOffice&lt;f2&gt; &lt;/f2&gt;relativo a domande e risposte della comunità di LibreOffice, &lt;a3&gt;https://ask.libreoffice.org/en/questions/&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Get Involved&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Get Involved page of the LibreOffice website, &lt;a2&gt;https://www.libreoffice.org/community/get-involved/&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T105110Z" creationid="valter" creationdate="20211016T105110Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T105110Z" creationid="valter" creationdate="20211016T105110Z">
         <seg>&lt;f0&gt;Partecipa&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Apre il browser predefinito alla pagina Get Involved del sito web di LibreOffice, &lt;a2&gt;https://www.libreoffice.org/community/get-involved/&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Getting Started&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T100826Z" creationid="valter" creationdate="20211016T100826Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T100826Z" creationid="valter" creationdate="20211016T100826Z">
         <seg>&lt;f0&gt;Guida introduttiva&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice and reset the software to its default settings.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T105019Z" creationid="valter" creationdate="20211016T105019Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T105019Z" creationid="valter" creationdate="20211016T105019Z">
         <seg>&lt;f0&gt;Riavvia in modalità provvisoria&lt;/f0&gt; Apre una finestra di dialogo contenente le opzioni per riavviare LibreOffice e ripristinare il programma alle sue impostazioni predefinite.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Send Feedback&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Feedback page of the LibreOffice website, &lt;a3&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T104739Z" creationid="valter" creationdate="20211016T104739Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T104739Z" creationid="valter" creationdate="20211016T104739Z">
         <seg>&lt;f0&gt;Invia commenti&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Apre il browser predefinito alla pagina Feedback del sito web di LibreOffice, &lt;a3&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Show Tip-of-the-Day&lt;/f0&gt; Opens a small window with a random tip on how to use LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T104656Z" creationid="valter" creationdate="20211016T104656Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T104656Z" creationid="valter" creationdate="20211016T104656Z">
         <seg>&lt;f0&gt;Mostra suggerimento del giorno&lt;/f0&gt; Apre una finestrella con un suggerimento a caso sull'uso di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Templates included with Impress are designed to fit the two standard sizes of presentation slides: 4:3 and 16:9 ratios.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153211Z" creationid="Elisabetta Manuele" creationdate="20211111T153211Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153211Z" creationid="Elisabetta Manuele" creationdate="20211111T153211Z">
         <seg>&lt;f0&gt;I modelli inclusi in Impress sono progettati per adattarsi alle due dimensioni standard delle diapositive di presentazione: 4:3 e 16:9.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The options &lt;/f0&gt;&lt;f1&gt;follow&lt;/f1&gt;&lt;f2&gt;ed by a &lt;/f2&gt;&lt;f3&gt;‡&lt;/f3&gt;&lt;f4&gt; sign &lt;/f4&gt;&lt;f5&gt;in the list below &lt;/f5&gt;&lt;f6&gt;are only accessible if your computer is connected to the Internet.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T094458Z" creationid="valter" creationdate="20211016T094458Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T094458Z" creationid="valter" creationdate="20211016T094458Z">
         <seg>&lt;f0&gt;Le opzioni &lt;/f0&gt;&lt;f1&gt;seguite&lt;/f1&gt;&lt;f2&gt; da un segno &lt;/f2&gt;&lt;f3&gt;‡&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;nell'elenco sotto riportato &lt;/f5&gt;&lt;f6&gt;sono accessibili solo se il vostro computer è collegato a Internet.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;To &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;p&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;revious &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;e&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ditions&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101826Z" creationid="valter" creationdate="20211016T101826Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101826Z" creationid="valter" creationdate="20211016T101826Z">
         <seg>&lt;f0&gt;Nelle &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;edizioni &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;precedenti&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;To &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;t&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;his &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;e&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;dition&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101713Z" creationid="valter" creationdate="20211016T101713Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101713Z" creationid="valter" creationdate="20211016T101713Z">
         <seg>&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;questa &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;edizione&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;User Guides&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Documentation page of the LibreOffice website, &lt;a2&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T103927Z" creationid="valter" creationdate="20211016T103927Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T103927Z" creationid="valter" creationdate="20211016T103927Z">
         <seg>&lt;f0&gt;Guide utente&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Apre il browser predefinito alla pagina della Documentazione nel sito web di LibreOffice, &lt;a2&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;What's This?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T094013Z" creationid="valter" creationdate="20211016T094013Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T094013Z" creationid="valter" creationdate="20211016T094013Z">
         <seg>&lt;f0&gt;Cos'è questo?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;When you start Impress for the first time, the &lt;/f0&gt;&lt;f1&gt;main &lt;/f1&gt;&lt;f2&gt;Impress window opens, as default, with the Select a Template dialog displayed (Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;124&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153056Z" creationid="Elisabetta Manuele" creationdate="20211111T153056Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153056Z" creationid="Elisabetta Manuele" creationdate="20211111T153056Z">
         <seg>&lt;f0&gt;Al primo avvio di Impress la finestra &lt;/f0&gt;&lt;f1&gt;principale &lt;/f1&gt;&lt;f2&gt; si apre, per impostazione predefinita, con la finestra di dialogo Seleziona un modello illustrata nella figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;124&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101626Z" creationid="valter" creationdate="20211016T101626Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101626Z" creationid="valter" creationdate="20211016T101626Z">
         <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Although more difficult designs are mentioned in this chapter, explanations for creating them are in the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T144153Z" creationid="Elisabetta Manuele" creationdate="20211110T144153Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T144153Z" creationid="Elisabetta Manuele" creationdate="20211110T144153Z">
         <seg>Sebbene nel capitolo si faccia più volte riferimento a progetti impegnativi, le spiegazioni per crearli si trovano nella &lt;f0&gt;Guida a Impress&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Amanda Labby</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101829Z" creationid="valter" creationdate="20211016T101829Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101829Z" creationid="valter" creationdate="20211016T101829Z">
         <seg>Amanda Labby</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Andrew Jensen</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101827Z" creationid="valter" creationdate="20211016T101827Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101827Z" creationid="valter" creationdate="20211016T101827Z">
         <seg>Andrew Jensen</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Andrew Pitonyak</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101908Z" creationid="valter" creationdate="20211016T101908Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101908Z" creationid="valter" creationdate="20211016T101908Z">
         <seg>Andrew Pitonyak</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this &lt;f0&gt;Getting Started Guide&lt;/f0&gt; valuable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T091925Z" creationid="valter" creationdate="20211016T091925Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T091925Z" creationid="valter" creationdate="20211016T091925Z">
         <seg>Chiunque desideri imparare velocemente a utilizzare LibreOffice troverà questa &lt;f0&gt;Guida introduttiva&lt;/f0&gt; preziosa.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Base (database)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092111Z" creationid="valter" creationdate="20211016T092111Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092111Z" creationid="valter" creationdate="20211016T092111Z">
         <seg>Base (database)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Based on LibreOffice &lt;ud2&gt;7.0&lt;/ud2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T102840Z" creationid="valter" creationdate="20211016T102840Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102840Z" creationid="valter" creationdate="20211016T102840Z">
         <seg>Basato su LibreOffice &lt;ud2&gt;7.0&lt;/ud2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Bernard Siaud</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101905Z" creationid="valter" creationdate="20211016T101905Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101905Z" creationid="valter" creationdate="20211016T101905Z">
         <seg>Bernard Siaud</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Calc (spreadsheets)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092055Z" creationid="valter" creationdate="20211016T092055Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092055Z" creationid="valter" creationdate="20211016T092055Z">
         <seg>Calc (fogli elettronici)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Cathy Crumbley</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101831Z" creationid="valter" creationdate="20211016T101831Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101831Z" creationid="valter" creationdate="20211016T101831Z">
         <seg>Cathy Crumbley</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Chapter 6 Getting Started with Impress</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T141825Z" creationid="Elisabetta Manuele" creationdate="20211110T141825Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141825Z" creationid="Elisabetta Manuele" creationdate="20211110T141825Z">
         <seg>Guida introduttiva a Impress</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Chapter &lt;f0&gt;6&lt;/f0&gt; &lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143050Z" creationid="Elisabetta Manuele" creationdate="20211110T143050Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143050Z" creationid="Elisabetta Manuele" creationdate="20211110T143050Z">
         <seg>Capitolo &lt;f0&gt;6&lt;/f0&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Christian Kühl</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101858Z" creationid="valter" creationdate="20211016T101858Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101858Z" creationid="valter" creationdate="20211016T101858Z">
         <seg>Christian Kühl</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Claire Wood</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101910Z" creationid="valter" creationdate="20211016T101910Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101910Z" creationid="valter" creationdate="20211016T101910Z">
         <seg>Claire Wood</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Colleen Hayes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101752Z" creationid="valter" creationdate="20211016T101752Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101752Z" creationid="valter" creationdate="20211016T101752Z">
         <seg>Colleen Hayes</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Contents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T102858Z" creationid="valter" creationdate="20211016T102858Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102858Z" creationid="valter" creationdate="20211016T102858Z">
         <seg>Contenuti</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Contributors</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101632Z" creationid="valter" creationdate="20211016T101632Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101632Z" creationid="valter" creationdate="20211016T101632Z">
         <seg>Collaboratori</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Contributors are listed below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101011Z" creationid="valter" creationdate="20211016T101011Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101011Z" creationid="valter" creationdate="20211016T101011Z">
         <seg>I collaboratori sono elencati di seguito.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Copyright</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T100853Z" creationid="valter" creationdate="20211016T100853Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T100853Z" creationid="valter" creationdate="20211016T100853Z">
         <seg>Copyright</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Creating drawings in Impress is similar to the Draw component of LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T151204Z" creationid="Elisabetta Manuele" creationdate="20211110T151204Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151204Z" creationid="Elisabetta Manuele" creationdate="20211110T151204Z">
         <seg>La creazione di disegni in Impress è simile a quella relativa al componente Draw di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Dan Lewis</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101832Z" creationid="valter" creationdate="20211016T101832Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101832Z" creationid="valter" creationdate="20211016T101832Z">
         <seg>Dan Lewis</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Dave Barton</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101731Z" creationid="valter" creationdate="20211016T101731Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101731Z" creationid="valter" creationdate="20211016T101731Z">
         <seg>Dave Barton</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Draw (vector graphics)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092103Z" creationid="valter" creationdate="20211016T092103Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092103Z" creationid="valter" creationdate="20211016T092103Z">
         <seg>Draw (grafica vettoriale)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T102754Z" creationid="valter" creationdate="20211016T102754Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102754Z" creationid="valter" creationdate="20211016T102754Z">
         <seg>Qualsiasi cosa invierete a una mailing list, incluso il vostro indirizzo di posta elettronica e qualsiasi altra informazione personale presente all'interno del messaggio, sarà archiviata pubblicamente e non potrà essere eliminata.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Feedback</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101928Z" creationid="valter" creationdate="20211016T101928Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101928Z" creationid="valter" creationdate="20211016T101928Z">
         <seg>Commenti e suggerimenti</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Felipe Viggiano</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101748Z" creationid="valter" creationdate="20211016T101748Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101748Z" creationid="valter" creationdate="20211016T101748Z">
         <seg>Felipe Viggiano</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;124&lt;/seq0&gt;: Select a Template dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153914Z" creationid="Elisabetta Manuele" creationdate="20211111T153914Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153914Z" creationid="Elisabetta Manuele" creationdate="20211111T153914Z">
         <seg>Figura &lt;seq0&gt;124&lt;/seq0&gt;: finestra di dialogo Seleziona un modello</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Florian Reisinger</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101859Z" creationid="valter" creationdate="20211016T101859Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101859Z" creationid="valter" creationdate="20211016T101859Z">
         <seg>Florian Reisinger</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>For &lt;f0&gt;more information&lt;/f0&gt;, &lt;f1&gt;refer to&lt;/f1&gt; Chapter 3, Using Styles and Templates, and Chapter 7, Getting Started with Draw, in this guide.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T151531Z" creationid="Elisabetta Manuele" creationdate="20211110T151531Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151531Z" creationid="Elisabetta Manuele" creationdate="20211110T151531Z">
         <seg>Per &lt;f0&gt;ulteriori informazioni&lt;/f0&gt; &lt;f1&gt;consultate il&lt;/f1&gt; Capitolo 3, Uso di stili e modelli e il Capitolo 7, Guida introduttiva a Draw, di questa guida.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>For a more detailed explanation, select &lt;f1&gt;Help &gt; What's This?&lt;/f1&gt; and hold the pointer over the icon.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T103607Z" creationid="valter" creationdate="20211016T103607Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T103607Z" creationid="valter" creationdate="20211016T103607Z">
         <seg>Per una spiegazione più dettagliata, selezionate &lt;f1&gt;Aiuto &gt; Cos'è questo?&lt;/f1&gt; e tenete il puntatore sopra l'icona.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>For more detail, see the user guides for the individual components.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092140Z" creationid="valter" creationdate="20211016T092140Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092140Z" creationid="valter" creationdate="20211016T092140Z">
         <seg>Per ulteriori dettagli, guardate le guide utente per i singoli componenti.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>From there you can report bugs, suggest new features and communicate with others in the LibreOffice community.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T104858Z" creationid="valter" creationdate="20211016T104858Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T104858Z" creationid="valter" creationdate="20211016T104858Z">
         <seg>Da questa pagina puoi segnalare errori, suggerire nuove funzionalità e comunicare gli altri membri della comunità di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Frédéric Parrenin</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101903Z" creationid="valter" creationdate="20211016T101903Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101903Z" creationid="valter" creationdate="20211016T101903Z">
         <seg>Frédéric Parrenin</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
+        <seg>Getting Started with Calc</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211111T220137Z" creationid="akurery" creationdate="20211111T220137Z">
+        <seg>Guida introduttiva a Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started with Impress</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T142753Z" creationid="Elisabetta Manuele" creationdate="20211110T142753Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T142753Z" creationid="Elisabetta Manuele" creationdate="20211110T142753Z">
         <seg>Guida introduttiva a Impress</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Gisbert Friege (Dmaths)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101900Z" creationid="valter" creationdate="20211016T101900Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101900Z" creationid="valter" creationdate="20211016T101900Z">
         <seg>Gisbert Friege (Dmaths)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Hazel Russman</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101846Z" creationid="valter" creationdate="20211016T101846Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101846Z" creationid="valter" creationdate="20211016T101846Z">
         <seg>Hazel Russman</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Help system</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092303Z" creationid="valter" creationdate="20211016T092303Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092303Z" creationid="valter" creationdate="20211016T092303Z">
         <seg>Sistema di aiuto</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>However, templates will adapt to other &lt;/f0&gt;&lt;f1&gt;available &lt;/f1&gt;&lt;f2&gt;sizes, &lt;/f2&gt;&lt;f3&gt;which &lt;/f3&gt;&lt;f4&gt;can be selected by going to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Slide &gt; Properties &gt; Paper Format&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; on the Menu bar &lt;/f7&gt;&lt;f8&gt;or &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Format&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; in the Slide section in the Properties deck on the Sidebar.&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153837Z" creationid="Elisabetta Manuele" creationdate="20211111T153837Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153837Z" creationid="Elisabetta Manuele" creationdate="20211111T153837Z">
         <seg>Tuttavia i modelli si adattano ad altri formati &lt;/f0&gt;&lt;f1&gt;selezionabili&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;accedendo&lt;/f3&gt;&lt;f4&gt; a &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Diapositiva &gt; Proprietà della diapositiva Formato foglio&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; sulla Barra dei menu &lt;/f7&gt;&lt;f8&gt;o a &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Diapositiva schema&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; nella sezione Diapositiva all'interno del pannello Proprietà della Barra laterale.&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Iain Roberts</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101851Z" creationid="valter" creationdate="20211016T101851Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101851Z" creationid="valter" creationdate="20211016T101851Z">
         <seg>Iain Roberts</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T093834Z" creationid="valter" creationdate="20211016T093834Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T093834Z" creationid="valter" creationdate="20211016T093834Z">
         <seg>Sela guida locale non è installata nel vostro computer e siete collegati a Internet, il vostro browser predefinito aprirà le pagine della Guida in linea che si trovano nel sito web di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>If you have a working knowledge of how to create slide shows, we recommend you use the &lt;f1&gt;Impress Guide&lt;/f1&gt; for your source of information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T145046Z" creationid="Elisabetta Manuele" creationdate="20211110T145046Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T145046Z" creationid="Elisabetta Manuele" creationdate="20211110T145046Z">
         <seg>Se avete già una certa esperienza sulla realizzazione di una presentazione, consigliamo di utilizzare la &lt;f1&gt;Guida a Impress&lt;/f1&gt; come fonte di informazioni.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Impress (presentations)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092058Z" creationid="valter" creationdate="20211016T092058Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092058Z" creationid="valter" creationdate="20211016T092058Z">
         <seg>Impress (presentazioni)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Impress also includes a spelling checker, a thesaurus, and styles for drawings, text, and backgrounds.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143611Z" creationid="Elisabetta Manuele" creationdate="20211110T143611Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143611Z" creationid="Elisabetta Manuele" creationdate="20211110T143611Z">
         <seg>Inoltre Impress include il controllo ortografico, i sinonimi, gli stili di testo, e gli stili di sfondo.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Impress is the presentation (slide show) program included in LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143127Z" creationid="Elisabetta Manuele" creationdate="20211110T143127Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143127Z" creationid="Elisabetta Manuele" creationdate="20211110T143127Z">
         <seg>Impress è il programma di presentazioni (presentazioni di diapositive) incluso in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>In addition, you can choose whether to activate Extended Tips using &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T103801Z" creationid="valter" creationdate="20211016T103801Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T103801Z" creationid="valter" creationdate="20211016T103801Z">
         <seg>Inoltre, è possibile scegliere di attivare la Guida attiva da &lt;f2&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092135Z" creationid="valter" creationdate="20211016T092135Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092135Z" creationid="valter" creationdate="20211016T092135Z">
         <seg>Questo testo tratta anche alcune delle caratteristiche comuni a tutti i componenti, inclusi l'installazione e la personalizzazione, gli stili e i modelli, la registrazione di macro, e la stampa.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Jean Hollis Weber</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101720Z" creationid="valter" creationdate="20211016T101720Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101720Z" creationid="valter" creationdate="20211016T101720Z">
         <seg>Jean Hollis Weber</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>JiHui Choi</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101853Z" creationid="valter" creationdate="20211016T101853Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101853Z" creationid="valter" creationdate="20211016T101853Z">
         <seg>JiHui Choi</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Jochen Schiffers</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101902Z" creationid="valter" creationdate="20211016T101902Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101902Z" creationid="valter" creationdate="20211016T101902Z">
         <seg>Jochen Schiffers</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>John A Smith</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101841Z" creationid="valter" creationdate="20211016T101841Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101841Z" creationid="valter" creationdate="20211016T101841Z">
         <seg>John A Smith</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Jorge Rodriguez</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101835Z" creationid="valter" creationdate="20211016T101835Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101835Z" creationid="valter" creationdate="20211016T101835Z">
         <seg>Jorge Rodriguez</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Kees Kriek</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101724Z" creationid="valter" creationdate="20211016T101724Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101724Z" creationid="valter" creationdate="20211016T101724Z">
         <seg>Kees Kriek</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Kevin O’Brien</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101849Z" creationid="valter" creationdate="20211016T101849Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101849Z" creationid="valter" creationdate="20211016T101849Z">
         <seg>Kevin O’Brien</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Laurent Balland-Poirier</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101855Z" creationid="valter" creationdate="20211016T101855Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101855Z" creationid="valter" creationdate="20211016T101855Z">
         <seg>Laurent Balland-Poirier</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Leo Moons</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101758Z" creationid="valter" creationdate="20211016T101758Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101758Z" creationid="valter" creationdate="20211016T101758Z">
         <seg>Leo Moons</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>LibreOffice comes with an &lt;i0/&gt;extensive Help system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092943Z" creationid="valter" creationdate="20211016T092409Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092943Z" creationid="valter" creationdate="20211016T092409Z">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; offre un &lt;i0/&gt;&gt;sistema di aiuto vasto e articolato.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Magnus Adielsson</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101850Z" creationid="valter" creationdate="20211016T101850Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101850Z" creationid="valter" creationdate="20211016T101850Z">
         <seg>Magnus Adielsson</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Martin Saffron</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101842Z" creationid="valter" creationdate="20211016T101842Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101842Z" creationid="valter" creationdate="20211016T101842Z">
         <seg>Martin Saffron</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Math (equation editor)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092121Z" creationid="valter" creationdate="20211016T092121Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092121Z" creationid="valter" creationdate="20211016T092121Z">
         <seg>Math (editor di equazioni)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Miklos Vajna</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101906Z" creationid="valter" creationdate="20211016T101906Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101906Z" creationid="valter" creationdate="20211016T101906Z">
         <seg>Miklos Vajna</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Navigate to the cell where the page break will begin.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T182259Z" creationid="Elisabetta Manuele" creationdate="20211111T182259Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T182259Z" creationid="Elisabetta Manuele" creationdate="20211111T182259Z">
         <seg>Spostatevi nella cella dove avrà inizio la pagina.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Note</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T093843Z" creationid="valter" creationdate="20211016T093843Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T093843Z" creationid="valter" creationdate="20211016T093843Z">
         <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Olivier Hallot</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101837Z" creationid="valter" creationdate="20211016T101837Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101837Z" creationid="valter" creationdate="20211016T101837Z">
         <seg>Olivier Hallot</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Paul Figueiredo</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101838Z" creationid="valter" creationdate="20211016T101838Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101838Z" creationid="valter" creationdate="20211016T101838Z">
         <seg>Paul Figueiredo</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Peter Schofield</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101728Z" creationid="valter" creationdate="20211016T101728Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101728Z" creationid="valter" creationdate="20211016T101728Z">
         <seg>Peter Schofield</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T102527Z" creationid="valter" creationdate="20211016T102527Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102527Z" creationid="valter" creationdate="20211016T102527Z">
         <seg>Per commenti o suggerimenti su questo documento rivolgersi alla mailing list del Documentation Team: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Preface</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T091629Z" creationid="valter" creationdate="20211016T091629Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T091629Z" creationid="valter" creationdate="20211016T091629Z">
         <seg>Prefazione</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Presentations in LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143110Z" creationid="Elisabetta Manuele" creationdate="20211110T143110Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143110Z" creationid="Elisabetta Manuele" creationdate="20211110T143110Z">
         <seg>Presentazioni con LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Publication date and software version</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T102802Z" creationid="valter" creationdate="20211016T102802Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102802Z" creationid="valter" creationdate="20211016T102802Z">
         <seg>Data di pubblicazione e versione del software</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Published &lt;f0&gt;February&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T102833Z" creationid="valter" creationdate="20211016T102833Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T102833Z" creationid="valter" creationdate="20211016T102833Z">
         <seg>Pubblicato nel &lt;f0&gt;febbraio&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Pulkit Krishna</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101911Z" creationid="valter" creationdate="20211016T101911Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101911Z" creationid="valter" creationdate="20211016T101911Z">
         <seg>Pulkit Krishna</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Rafael Lima</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101750Z" creationid="valter" creationdate="20211016T101750Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101750Z" creationid="valter" creationdate="20211016T101750Z">
         <seg>Rafael Lima</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Regina Henschel</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101854Z" creationid="valter" creationdate="20211016T101854Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101854Z" creationid="valter" creationdate="20211016T101854Z">
         <seg>Regina Henschel</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Rob Westein</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101754Z" creationid="valter" creationdate="20211016T101754Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101754Z" creationid="valter" creationdate="20211016T101754Z">
         <seg>Rob Westein</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Roman Kuznetsov</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101912Z" creationid="valter" creationdate="20211016T101912Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101912Z" creationid="valter" creationdate="20211016T101912Z">
         <seg>Roman Kuznetsov</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Ron Faile Jr.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101847Z" creationid="valter" creationdate="20211016T101847Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101847Z" creationid="valter" creationdate="20211016T101847Z">
         <seg>Ron Faile Jr.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Selecting rows and columns in a database table</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
         <seg>Selezionare righe e colonne in una tabella di database (aperta con F4)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Slides that contain text use styles to determine the appearance of that text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T150958Z" creationid="Elisabetta Manuele" creationdate="20211110T150958Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T150958Z" creationid="Elisabetta Manuele" creationdate="20211110T150958Z">
         <seg>Le diapositive contenenti testo utilizzano gli stili per determinare l'aspetto del testo.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Start Impress using any of the methods described in Chapter 1, Introducing LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T144216Z" creationid="Elisabetta Manuele" creationdate="20211111T144216Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T144216Z" creationid="Elisabetta Manuele" creationdate="20211111T144216Z">
         <seg>Avviate Impress con uno dei metodi descritti nel Capitolo 1, Introduzione a LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Starting Impress</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T151745Z" creationid="Elisabetta Manuele" creationdate="20211110T151745Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151745Z" creationid="Elisabetta Manuele" creationdate="20211110T151745Z">
         <seg>Avviare Impress</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Steve Fanning</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101914Z" creationid="valter" creationdate="20211016T101914Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101914Z" creationid="valter" creationdate="20211016T101914Z">
         <seg>Steve Fanning</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Steve Schwettman</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101844Z" creationid="valter" creationdate="20211016T101844Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101844Z" creationid="valter" creationdate="20211016T101844Z">
         <seg>Steve Schwettman</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>The Help menu also includes links to other LibreOffice information and support facilities.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T093949Z" creationid="valter" creationdate="20211016T093949Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T093949Z" creationid="valter" creationdate="20211016T093949Z">
         <seg>Il menu Aiuto include anche collegamenti ad altre informazioni su LibreOffice e strumenti di supporto.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>There you can choose a topic of interest to help improve the program.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T105215Z" creationid="valter" creationdate="20211016T105215Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T105215Z" creationid="valter" creationdate="20211016T105215Z">
         <seg>Qui è possibile scegliere un argomento di vostro interesse per aiutare a migliorare il programma.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>There you will find copies of User Guides and other useful information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T104124Z" creationid="valter" creationdate="20211016T104124Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T104124Z" creationid="valter" creationdate="20211016T104124Z">
         <seg>Qui sono presenti copie delle Guide utente e altre informazioni utili.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>This book introduces the main components of LibreOffice:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092035Z" creationid="valter" creationdate="20211016T092035Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092035Z" creationid="valter" creationdate="20211016T092035Z">
         <seg>Questo libro introduce i componenti principali di LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>This book, the other LibreOffice user guides, the built-in Help system, and user support systems assume that you are familiar with your computer and basic functions such as starting a program, opening and saving files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092259Z" creationid="valter" creationdate="20211016T092259Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092259Z" creationid="valter" creationdate="20211016T092259Z">
         <seg>Questo libro, le altre guide utente di LibreOffice, il sistema di aiuto integrato, e i sistemi di assistenza agli utilizzatori presuppongono che da parte vostra vi sia un minimo di familiarità con il vostro computer e con funzioni basilari quali l'avvio di un programma, l'apertura e il salvataggio di un file.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>This chapter includes instructions to guide you through the Impress environment while designing your presentations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T144113Z" creationid="Elisabetta Manuele" creationdate="20211110T144113Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T144113Z" creationid="Elisabetta Manuele" creationdate="20211110T144113Z">
         <seg>Questo capitolo comprende istruzioni, schermate e consigli utili per guidarvi nell'ambiente di Impress nel corso della progettazione delle vostre presentazioni.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;&lt;s2/&gt;by the LibreOffice Documentation Team.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T100937Z" creationid="valter" creationdate="20211016T100937Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T100937Z" creationid="valter" creationdate="20211016T100937Z">
         <seg>Il presente documento è rilasciato sotto Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;&lt;s2/&gt;del LibreOffice Documentation Team.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>This is the first line of support for using LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092438Z" creationid="valter" creationdate="20211016T092438Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092438Z" creationid="valter" creationdate="20211016T092438Z">
         <seg>È il primo supporto per l'utilizzo di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Tip</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153916Z" creationid="Elisabetta Manuele" creationdate="20211111T153916Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153916Z" creationid="Elisabetta Manuele" creationdate="20211111T153916Z">
         <seg>Suggerimento</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>To display the Help system, press &lt;f0&gt;F1&lt;/f0&gt; or select &lt;f1&gt;LibreOffice Help&lt;/f1&gt; &lt;f2&gt;in&lt;/f2&gt; the Help menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T093552Z" creationid="valter" creationdate="20211016T093552Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T093552Z" creationid="valter" creationdate="20211016T093552Z">
         <seg>Per visualizzare la Guida in linea, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; &lt;f2&gt;dal&lt;/f2&gt; menu di Aiuto.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>To start Impress without the Select a Template dialog (Figure &lt;t0&gt;124&lt;/t0&gt;), deselect &lt;f1&gt;Show this dialog at startup&lt;/f1&gt; in the lower left of the dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153959Z" creationid="Elisabetta Manuele" creationdate="20211111T153959Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153959Z" creationid="Elisabetta Manuele" creationdate="20211111T153959Z">
         <seg>Per avviare Impress evitando la comparsa della finestra di dialogo Seleziona un modello (Figura &lt;g id="1"&gt;1&lt;/g&gt;), deselezionate &lt;g id="2"&gt;Mostra questa finestra di dialogo all'avvio&lt;/g&gt; nella parte inferiore sinistra della finestra.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>To use Impress for more than very simple slide shows requires some knowledge of the elements which the slides contain.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T150935Z" creationid="Elisabetta Manuele" creationdate="20211110T150935Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T150935Z" creationid="Elisabetta Manuele" creationdate="20211110T150935Z">
         <seg>L'uso di Impress per una presentazione che non sia di livello estremamente semplice richiede la conoscenza degli elementi contenuti nelle diapositive.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Using built-in language tools</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211109T192301Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211109T192301Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
         <seg>Utilizzo degli strumenti per la lingua integrati</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Valerii Goncharuk</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101907Z" creationid="valter" creationdate="20211016T101907Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101907Z" creationid="valter" creationdate="20211016T101907Z">
         <seg>Valerii Goncharuk</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>What is Impress?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T142243Z" creationid="Elisabetta Manuele" creationdate="20211110T142243Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T142243Z" creationid="Elisabetta Manuele" creationdate="20211110T142243Z">
         <seg>Introduzione a Impress</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>What’s in this book?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092027Z" creationid="valter" creationdate="20211016T092027Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092027Z" creationid="valter" creationdate="20211016T092027Z">
         <seg>Contenuto della guida</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Where to get more help</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092157Z" creationid="valter" creationdate="20211016T092157Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092157Z" creationid="valter" creationdate="20211016T092157Z">
         <seg>Dove ottenere ulteriore aiuto</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Who is this book for?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092009Z" creationid="valter" creationdate="20211016T091754Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092009Z" creationid="valter" creationdate="20211016T091754Z">
         <seg>Destinatari della guida</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet; the offline Help is installed with the program on macOS.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T093646Z" creationid="valter" creationdate="20211016T093211Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T093646Z" creationid="valter" creationdate="20211016T093211Z">
         <seg>Gli utenti di Windows e Linux possono scegliere se scaricare e installare la Guida locale da utilizzare quando non sono collegati a Internet; in macOS, la Guida locale viene installata insieme col programma.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Winston Min Tjong</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101756Z" creationid="valter" creationdate="20211016T101756Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101756Z" creationid="valter" creationdate="20211016T101756Z">
         <seg>Winston Min Tjong</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>Writer (word processing)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T092051Z" creationid="valter" creationdate="20211016T092051Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T092051Z" creationid="valter" creationdate="20211016T092051Z">
         <seg>Writer (elaborazione di testi)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>You can create slides that contain many different elements, including text, bulleted and numbered lists, tables, charts, and a wide range of graphic objects such as clipart, drawings, and photographs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T143207Z" creationid="Elisabetta Manuele" creationdate="20211110T143207Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143207Z" creationid="Elisabetta Manuele" creationdate="20211110T143207Z">
         <seg>Con Impress potete creare diapositive contenenti molti elementi diversi, come testo, elenchi puntati e numerati, tabelle, diagrammi e un'ampia varietà di oggetti grafici come clip art, disegni e fotografie.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>You may also wish to consult the &lt;f2&gt;Draw Guide&lt;/f2&gt; for more details on how to use the drawing tools.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T151653Z" creationid="Elisabetta Manuele" creationdate="20211110T151653Z">
+      <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151653Z" creationid="Elisabetta Manuele" creationdate="20211110T151653Z">
         <seg>Potete inoltre fare riferimento alla &lt;f2&gt;Guida a Draw&lt;/f2&gt; per maggiori dettagli sull'uso degli strumenti di disegno.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>You may be new to office software, or you may be familiar with another office suite.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T091958Z" creationid="valter" creationdate="20211016T091958Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T091958Z" creationid="valter" creationdate="20211016T091958Z">
         <seg>Sia che siate principianti, sia che abbiate familiarità con altre suite per ufficio.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a3&gt;&lt;f4&gt;https://www.gnu.org/licenses/gpl.html&lt;/f4&gt;&lt;/a3&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), version 4.0 or later.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20211016T101558Z" creationid="valter" creationdate="20211016T101558Z">
+      <tuv lang="it-IT" changeid="valter" changedate="20211016T101558Z" creationid="valter" creationdate="20211016T101558Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (GPL) (&lt;a3&gt;&lt;f4&gt;https://www.gnu.org/licenses/gpl.html&lt;/f4&gt;&lt;/a3&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), versione 4.0 o successiva.</seg>
       </tuv>
     </tu>
