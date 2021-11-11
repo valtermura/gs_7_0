@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;When you start Impress for the first time, the &lt;/f0&gt;&lt;f1&gt;main &lt;/f1&gt;&lt;f2&gt;Impress window opens, as default, with the Select a Template dialog displayed (Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;124&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153056Z" creationid="Elisabetta Manuele" creationdate="20211111T153056Z">
+        <seg>&lt;f0&gt;Al primo avvio di Impress la finestra &lt;/f0&gt;&lt;f1&gt;principale &lt;/f1&gt;&lt;f2&gt; si apre, per impostazione predefinita, con la finestra di dialogo Seleziona un modello illustrata nella figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;124&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101626Z" creationid="valter" creationdate="20211016T101626Z">
