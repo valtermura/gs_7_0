@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153118Z" creationid="Elisabetta Manuele" creationdate="20211111T153118Z">
+        <seg>&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Get Help Online&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Ask LibreOffice&lt;f2&gt; &lt;/f2&gt;forum of questions and answers from the LibreOffice community, &lt;a3&gt;https://ask.libreoffice.org/en/questions/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T104430Z" creationid="valter" creationdate="20211016T104430Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T104656Z" creationid="valter" creationdate="20211016T104656Z">
         <seg>&lt;f0&gt;Mostra suggerimento del giorno&lt;/f0&gt; Apre una finestrella con un suggerimento a caso sull'uso di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Templates included with Impress are designed to fit the two standard sizes of presentation slides: 4:3 and 16:9 ratios.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153211Z" creationid="Elisabetta Manuele" creationdate="20211111T153211Z">
+        <seg>&lt;f0&gt;I modelli inclusi in Impress sono progettati per adattarsi alle due dimensioni standard delle diapositive di presentazione: 4:3 e 16:9.</seg>
       </tuv>
     </tu>
     <tu>
