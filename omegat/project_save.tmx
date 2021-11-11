@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;124&lt;/seq0&gt;: Select a Template dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153914Z" creationid="Elisabetta Manuele" creationdate="20211111T153914Z">
+        <seg>Figura &lt;seq0&gt;124&lt;/seq0&gt;: finestra di dialogo Seleziona un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Florian Reisinger</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T101859Z" creationid="valter" creationdate="20211016T101859Z">
@@ -846,10 +854,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153916Z" creationid="Elisabetta Manuele" creationdate="20211111T153916Z">
+        <seg>Suggerimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To display the Help system, press &lt;f0&gt;F1&lt;/f0&gt; or select &lt;f1&gt;LibreOffice Help&lt;/f1&gt; &lt;f2&gt;in&lt;/f2&gt; the Help menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211016T093552Z" creationid="valter" creationdate="20211016T093552Z">
         <seg>Per visualizzare la Guida in linea, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; &lt;f2&gt;dal&lt;/f2&gt; menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start Impress without the Select a Template dialog (Figure &lt;t0&gt;124&lt;/t0&gt;), deselect &lt;f1&gt;Show this dialog at startup&lt;/f1&gt; in the lower left of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T153959Z" creationid="Elisabetta Manuele" creationdate="20211111T153959Z">
+        <seg>Per avviare Impress evitando la comparsa della finestra di dialogo Seleziona un modello (Figura &lt;g id="1"&gt;1&lt;/g&gt;), deselezionate &lt;g id="2"&gt;Mostra questa finestra di dialogo all'avvio&lt;/g&gt; nella parte inferiore sinistra della finestra.</seg>
       </tuv>
     </tu>
     <tu>
