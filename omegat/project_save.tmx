@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start Impress using any of the methods described in Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211111T144216Z" creationid="Elisabetta Manuele" creationdate="20211111T144216Z">
+        <seg>Avviate Impress con uno dei metodi descritti nel Capitolo 1, Introduzione a LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting Impress</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20211110T151745Z" creationid="Elisabetta Manuele" creationdate="20211110T151745Z">
