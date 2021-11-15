@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T183019Z" creationid="valter" creationdate="20211115T183019Z">
+        <seg>Icone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093834Z" creationid="valter" creationdate="20211016T093834Z">
@@ -1086,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The LibreOffice community has created icons for several icon sets: Breeze, Colibre, Elementary, Karasa Jaga, Sifr, &lt;f0&gt;and Sakapura; some are also available in a dark version&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T183218Z" creationid="valter" creationdate="20211115T183218Z">
+        <seg>La comunità di LibreOffice ha creato vari gruppi di icone: Breeze, Colibre, Elementary, Karasa Jaga, Sifr, &lt;f0&gt;e Sakapura; alcuni sono disponibili in versione scura&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LibreOffice community not only develops software, but provides free, volunteer-based support.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T175151Z" creationid="valter" creationdate="20211115T175151Z">
@@ -1098,6 +1114,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181405Z" creationid="valter" creationdate="20211115T181349Z">
         <seg>Il sito web di LibreOffice in varie lingue&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The differences affect mainly Open, Save, and Print dialogs.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182818Z" creationid="valter" creationdate="20211115T182818Z">
+        <seg>Le differenze stanno principalmente nelle finestre di dialogo Apri, Salva e Stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1226,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153916Z" creationid="Elisabetta Manuele" creationdate="20211111T153916Z">
         <seg>Suggerimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change which dialogs are used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and select or deselect the option &lt;f1&gt;Use LibreOffice dialogs&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T183011Z" creationid="valter" creationdate="20211115T183011Z">
+        <seg>Per cambiare il modo di utilizzo, andate a &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionate o deselezionate l'opzione &lt;f1&gt;Usa finestre di dialogo di LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1354,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143207Z" creationid="Elisabetta Manuele" creationdate="20211110T143207Z">
         <seg>Con Impress potete creare diapositive contenenti molti elementi diversi, come testo, elenchi puntati e numerati, tabelle, diagrammi e un'ampia varietà di oggetti grafici come clip art, disegni e fotografie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can either use dialogs from your computer’s operating system or from LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182737Z" creationid="valter" creationdate="20211115T182737Z">
+        <seg>È possibile utilizzare sia le finestre di dialogo del vostro sistema sia quelle fornite da LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
