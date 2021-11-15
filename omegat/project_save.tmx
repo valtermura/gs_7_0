@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T213644Z" creationid="valter" creationdate="20211115T213644Z">
+        <seg>Ecco alcuni dei vantaggi di LibreOffice rispetto ad altre suite per ufficio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192651Z" creationid="valter" creationdate="20211115T192651Z">
