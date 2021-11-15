@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Donate to LibreOffice&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Donation page of the LibreOffice website, &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T171948Z" creationid="valter" creationdate="20211115T171948Z">
+        <seg>&lt;f0&gt;Donazioni a LibreOffice&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Apre il browser predefinito alla pagina delle Donazioni nel sito web di LibreOffice, &lt;a2&gt;https://it.libreoffice.org/&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Get Help Online&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Ask LibreOffice&lt;f2&gt; &lt;/f2&gt;forum of questions and answers from the LibreOffice community, &lt;a3&gt;https://ask.libreoffice.org/en/questions/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T104430Z" creationid="valter" creationdate="20211016T104430Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100826Z" creationid="valter" creationdate="20211016T100826Z">
         <seg>&lt;f0&gt;Guida introduttiva&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;License Information&lt;/f0&gt; Outlines the licenses under which LibreOffice is made available.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T172607Z" creationid="valter" creationdate="20211115T172607Z">
+        <seg>&lt;f0&gt;Informazioni sulla licenza&lt;/f0&gt; Delinea le licenze sotto cui viene reso disponibile LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +834,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T105215Z" creationid="valter" creationdate="20211016T105215Z">
         <seg>Qui è possibile scegliere un argomento di vostro interesse per aiutare a migliorare il programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There you can choose to make a donation to support LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T171632Z" creationid="valter" creationdate="20211115T171632Z">
+        <seg>In questa pagina potete scegliere se fare una donazione a supporto di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
