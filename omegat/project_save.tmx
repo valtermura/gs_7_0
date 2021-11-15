@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advantages of LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195920Z" creationid="valter" creationdate="20211115T195920Z">
+        <seg>Vantaggi di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101626Z" creationid="valter" creationdate="20211016T101626Z">
@@ -378,6 +386,38 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092111Z" creationid="valter" creationdate="20211016T092111Z">
         <seg>Base (database)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base also provides support for a subset of ANSI-92 SQL.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195744Z" creationid="valter" creationdate="20211115T195744Z">
+        <seg>Base fornisce il supporto per un sottoinsieme del linguaggio SQL ANSI-92.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base incorporates two relational database engines, HSQLDB and &lt;f0&gt;Firebird&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195637Z" creationid="valter" creationdate="20211115T195637Z">
+        <seg>Base integra due motori di database relazionali, HSQLDB e &lt;f0&gt;Firebird&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base provides many new features, such as the ability to analyze and edit relationships from a diagram view.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195603Z" creationid="valter" creationdate="20211115T195603Z">
+        <seg>Base presenta molte nuove caratteristiche quali la possibilità di analizzare e modificare relazioni da una vista diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base provides tools for day-to-day database work within a simple interface.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195553Z" creationid="valter" creationdate="20211115T195553Z">
+        <seg>Base offre tutti gli strumenti necessari per lavorare con i database tramite un'interfaccia utente semplice ed intuitiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1094,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can also use PostgreSQL, dBASE, Microsoft Access, MySQL, Oracle, or any ODBC compliant or JDBC compliant database.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195733Z" creationid="valter" creationdate="20211115T195733Z">
+        <seg>Il programma può anche elaborare database in formato PostgreSQL, dBASE, Microsoft Access, MySQL, Oracle o qualsiasi altro database compatibile con ODBC o JDBC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can create and edit forms, reports, queries, tables, views, and relations, so that managing a relational database is much the same as in other popular database applications.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195558Z" creationid="valter" creationdate="20211115T195558Z">
+        <seg>Base rende possibile creare e modificare formulari, rapporti, query, tabelle, viste e relazioni, in modo da poter gestire un database relazionale esattamente come con i più comuni applicativi per la gestione di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It includes over &lt;f0&gt;5&lt;/f0&gt;00 functions for financial, statistical, and mathematical operations, among others.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193842Z" creationid="valter" creationdate="20211115T193842Z">
@@ -1322,6 +1378,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092121Z" creationid="valter" creationdate="20211016T092121Z">
         <seg>Math (editor di equazioni)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Math (formula editor)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195756Z" creationid="valter" creationdate="20211115T195756Z">
+        <seg>Math (editor di formule)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Math is the LibreOffice formula or equation editor.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195818Z" creationid="valter" creationdate="20211115T195818Z">
+        <seg>Math è il programma di LibreOffice per formule o equazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While it is most commonly used to create formulas in other documents, such as Writer and Impress files, Math can also work as a standalone tool.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195827Z" creationid="valter" creationdate="20211115T195827Z">
+        <seg>Anche se usato normalmente per creare formule in altri documenti, come file di Writer e Impress, Math è utilizzabile anche come strumento indipendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Who is this book for?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092009Z" creationid="valter" creationdate="20211016T091754Z">
@@ -2270,10 +2350,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can save formulas in the standard Mathematical Markup Language (MathML) format for inclusion in web pages and other documents not created by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195858Z" creationid="valter" creationdate="20211115T195858Z">
+        <seg>Con Math è possibile salvare le formule nel formato standard Mathematical Markup Language (MathML) e inserirle in pagine web e altri documenti non creati da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can use Draw to create drawings for use in any of the LibreOffice components, and you can create your own clip art and then add it to the Gallery.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195419Z" creationid="valter" creationdate="20211115T195419Z">
         <seg>Con Draw potete creare disegni da utilizzare in qualsiasi altro componente di LibreOffice e nuove clipart da aggiungere alla Galleria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use it to create complex equations that include symbols or characters not available in standard font sets.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195823Z" creationid="valter" creationdate="20211115T195823Z">
+        <seg>Può essere usato per creare equazioni complesse contenenti simboli o caratteri non disponibili nelle serie di caratteri standard.</seg>
       </tuv>
     </tu>
     <tu>
