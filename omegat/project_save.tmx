@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the &lt;f1&gt;Icon style&lt;/f1&gt; section, choose from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T184215Z" creationid="valter" creationdate="20211115T184215Z">
+        <seg>Nella sezione &lt;f1&gt;Stile icone&lt;/f1&gt; scegliete uno stile dall'elenco a tendina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information about available accessibility options &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181846Z" creationid="valter" creationdate="20211115T181846Z">
@@ -894,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T184218Z" creationid="valter" creationdate="20211115T184218Z">
+        <seg>Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Olivier Hallot</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101837Z" creationid="valter" creationdate="20211016T101837Z">
@@ -1058,6 +1074,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T150958Z" creationid="Elisabetta Manuele" creationdate="20211110T150958Z">
         <seg>Le diapositive contenenti testo utilizzano gli stili per determinare l'aspetto del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some Linux distributions include LibreOffice as part of the installation and may not include all the icon sets mentioned above.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T184326Z" creationid="valter" creationdate="20211115T184326Z">
+        <seg>Alcune distribuzioni Linux includono LibreOffice come parte dell'installazione e potrebbero non includere tutti i gruppi di icone sopra citate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the icon set used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T184109Z" creationid="valter" creationdate="20211115T184109Z">
+        <seg>Per cambiare il gruppo di icone utilizzate, andate a &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change which dialogs are used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and select or deselect the option &lt;f1&gt;Use LibreOffice dialogs&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T183011Z" creationid="valter" creationdate="20211115T183011Z">
@@ -1410,6 +1442,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101558Z" creationid="valter" creationdate="20211016T101558Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (GPL) (&lt;a3&gt;&lt;f4&gt;https://www.gnu.org/licenses/gpl.html&lt;/f4&gt;&lt;/a3&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), versione 4.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should be able to download other icon sets from the software repository for your Linux distribution if you wish to use them.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T184551Z" creationid="valter" creationdate="20211115T184551Z">
+        <seg>Dovreste comunque essere in grado di scaricare gli altri gruppi di icone dal repository della vostra distribuzione Linux.nel caso vogliate usarli.</seg>
       </tuv>
     </tu>
     <tu>
