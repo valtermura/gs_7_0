@@ -38,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Faq&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180547Z" creationid="valter" creationdate="20211115T180547Z">
+        <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Faq/it&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a1&gt;https://www.libreoffice.org/get-help/mailing-lists/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180636Z" creationid="valter" creationdate="20211115T180636Z">
+        <seg>&lt;a1&gt;https://it.libreoffice.org/supporto/mailing-list/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; Opens a dialog window and displays information about the version of LibreOffice and the operating system you are using.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T174654Z" creationid="valter" creationdate="20211115T174654Z">
@@ -214,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Answers to frequently asked questions&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180412Z" creationid="valter" creationdate="20211115T180412Z">
+        <seg>Risposte alle Domande frequenti&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this &lt;f0&gt;Getting Started Guide&lt;/f0&gt; valuable.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091925Z" creationid="valter" creationdate="20211016T091925Z">
@@ -374,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FAQs</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180349Z" creationid="valter" creationdate="20211115T180349Z">
+        <seg>Domande frequenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101928Z" creationid="valter" creationdate="20211016T101928Z">
@@ -426,6 +458,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092140Z" creationid="valter" creationdate="20211016T092140Z">
         <seg>Per ulteriori dettagli, guardate le guide utente per i singoli componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free LibreOffice support</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180341Z" creationid="valter" creationdate="20211115T180341Z">
+        <seg>Assistenza gratuita per LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free community support is provided by a network of experienced users&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180448Z" creationid="valter" creationdate="20211115T180448Z">
+        <seg>Il supporto gratuito della comunità è offerto da una rete di utilizzatori esperti.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +592,8 @@
       <tuv lang="en-US">
         <seg>In addition to the Help menu links above, there are other online community support options available, see the table below.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T180310Z" creationid="valter" creationdate="20211115T180310Z">
-        <seg>In aggiunta ai collegamenti contenuti nel menu Aiuto citati sopra, sono disponibili opzioni in linea di supporto della comunità, si veda la tabella sotto riportata.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180329Z" creationid="valter" creationdate="20211115T180310Z">
+        <seg>In aggiunta ai collegamenti contenuti nel menu Aiuto citati sopra, sono disponibili opzioni in linea di assistenza da parte della comunità, si veda la tabella sotto riportata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +698,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101850Z" creationid="valter" creationdate="20211016T101850Z">
         <seg>Magnus Adielsson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180427Z" creationid="valter" creationdate="20211115T180427Z">
+        <seg>Mailing list</seg>
       </tuv>
     </tu>
     <tu>
