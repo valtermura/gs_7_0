@@ -582,6 +582,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw can import graphics from many common formats and save them in &lt;f0&gt;many&lt;/f0&gt; formats, including PNG, &lt;f1&gt;GIF, JPEG, BMP, TIFF, SVG, &lt;/f1&gt;HTML and PDF.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195549Z" creationid="valter" creationdate="20211115T195549Z">
+        <seg>Draw è in grado di importare immagini dai formati più comuni e salvarle in &lt;f0&gt;molti&lt;/f0&gt; formati, compresi PNG, &lt;f1&gt;GIF, JPEG, BMP, TIFF, SVG, &lt;/f1&gt;HTML e PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw is a vector drawing tool that can produce everything from simple diagrams or flowcharts to 3D artwork.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195318Z" creationid="valter" creationdate="20211115T195318Z">
+        <seg>Draw è uno strumento per il disegno vettoriale in grado di creare qualsiasi cosa, da semplici diagrammi o diagrammi di flusso fino alla grafica 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drop-down list from which to select an item.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190344Z" creationid="valter" creationdate="20211115T190344Z">
@@ -918,10 +934,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impress can open, edit and save Microsoft PowerPoint presentations and can also save your work in numerous graphics formats.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195305Z" creationid="valter" creationdate="20211115T195305Z">
+        <seg>Impress può aprire, modificare e salvare le presentazioni Microsoft PowerPoint e anche salvare il vostro lavoro in numerosi formati grafici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impress is the presentation (slide show) program included in LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143127Z" creationid="Elisabetta Manuele" creationdate="20211110T143127Z">
         <seg>Impress è il programma di presentazioni (presentazioni di diapositive) incluso in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Impress provides all the common multimedia presentation tools, such as special effects, animation, and drawing tools.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195058Z" creationid="valter" creationdate="20211115T195058Z">
+        <seg>Impress fornisce tutti i più comuni strumenti di presentazione multimediale quali effetti speciali, animazione e strumenti di disegno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,10 +1070,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is integrated with the advanced graphics capabilities of LibreOffice Draw and Math components.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195119Z" creationid="valter" creationdate="20211115T195119Z">
+        <seg>È integrato con le funzioni grafiche avanzate dei componenti Draw e Math di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It provides controls to use to specify how to carry out an action.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190012Z" creationid="valter" creationdate="20211115T190012Z">
         <seg>Fornisce dei controlli da utilizzare per indicare come eseguire un'azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its Smart Connectors feature allows you to define your own connection points.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195356Z" creationid="valter" creationdate="20211115T195356Z">
+        <seg>La funzione Smart Connectors permette di definire punti di connessione personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1658,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T150958Z" creationid="Elisabetta Manuele" creationdate="20211110T150958Z">
         <seg>Le diapositive contenenti testo utilizzano gli stili per determinare l'aspetto del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slideshows can be further enhanced using Fontwork special effects text, as well as sound and video clips.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195133Z" creationid="valter" creationdate="20211115T195133Z">
+        <seg>Le presentazioni possono essere ulteriormente migliorate con speciali effetti di testo ottenibili con Fontwork e contributi audio e video.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2210,6 +2266,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193714Z" creationid="valter" creationdate="20211115T193714Z">
         <seg>È possibile inserire grafici e oggetti di altri componenti nei documenti Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use Draw to create drawings for use in any of the LibreOffice components, and you can create your own clip art and then add it to the Gallery.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195419Z" creationid="valter" creationdate="20211115T195419Z">
+        <seg>Con Draw potete creare disegni da utilizzare in qualsiasi altro componente di LibreOffice e nuove clipart da aggiungere alla Galleria.</seg>
       </tuv>
     </tu>
     <tu>
