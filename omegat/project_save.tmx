@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter &lt;f0&gt;1&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193421Z" creationid="valter" creationdate="20211115T193421Z">
+        <seg>Capitolo &lt;f0&gt;1&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter &lt;f0&gt;6&lt;/f0&gt; &lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143050Z" creationid="Elisabetta Manuele" creationdate="20211110T143050Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101731Z" creationid="valter" creationdate="20211016T101731Z">
         <seg>Dave Barton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Donate to LibreOffice: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193350Z" creationid="valter" creationdate="20211115T193350Z">
+        <seg>Donazione a LibreOffice: &lt;a0&gt;https://it.libreoffice.org/donazioni/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +714,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101903Z" creationid="valter" creationdate="20211016T101903Z">
         <seg>Frédéric Parrenin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started Guide</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193413Z" creationid="valter" creationdate="20211115T193413Z">
+        <seg>Guida introduttiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Introducing LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193424Z" creationid="valter" creationdate="20211115T193424Z">
+        <seg>Introduzione a LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is LibreOffice available in my language?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191000Z" creationid="valter" creationdate="20211115T191000Z">
@@ -962,6 +994,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190012Z" creationid="valter" creationdate="20211115T190012Z">
         <seg>Fornisce dei controlli da utilizzare per indicare come eseguire un'azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its native file format is Open Document Format (ODF), an open standard format that is being adopted by governments worldwide as a required file format for publishing and accepting documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193533Z" creationid="valter" creationdate="20211115T193533Z">
+        <seg>Il suo formato file nativo è l'Open Document Format (ODF), un formato standard aperto che è in corso di adozione da parte di autorità governative mondiali come formato di file richiesto per la pubblicazione e accettazione dei documenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice can also open and save documents in many other formats, including those used by several versions of Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193548Z" creationid="valter" creationdate="20211115T193548Z">
+        <seg>LibreOffice è anche in grado di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice comes with an &lt;i0/&gt;extensive Help system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092943Z" creationid="valter" creationdate="20211016T092409Z">
@@ -1090,6 +1138,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191229Z" creationid="valter" creationdate="20211115T191229Z">
         <seg>LibreOffice è stato tradotto (localizzato &lt;f0&gt;per più dell'80%, sia interfaccia, sia guida&lt;/f0&gt;) in più di &lt;f1&gt;46&lt;/f1&gt; lingue, quindi la vostra lingua è probabilmente supportata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice is a freely available, fully-featured office productivity suite.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193435Z" creationid="valter" creationdate="20211115T193435Z">
+        <seg>LibreOffice è una suite gratuita di produttività per ufficio, completa di tutte le funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1226,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190923Z" creationid="valter" creationdate="20211115T190923Z">
         <seg>È possibile distribuire LibreOffice a chiunque?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May I distribute the PDF of this book, or print and sell copies?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193241Z" creationid="valter" creationdate="20211115T193241Z">
+        <seg>È possibile distribuire il file PDF di questa Guida, o stamparla e venderne delle copie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193317Z" creationid="valter" creationdate="20211115T193317Z">
+        <seg>Richiediamo che condividiate con il progetto parte dei profitti che ottenete dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What are all these things called?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185651Z" creationid="valter" creationdate="20211115T185651Z">
@@ -1898,6 +1970,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T142243Z" creationid="Elisabetta Manuele" creationdate="20211110T142243Z">
         <seg>Introduzione a Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is LibreOffice?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193427Z" creationid="valter" creationdate="20211115T193427Z">
+        <seg>Cos'è LibreOffice?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1982,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193252Z" creationid="valter" creationdate="20211115T193252Z">
+        <seg>Sì, fintantoché vengono rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa Guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yes.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190946Z" creationid="valter" creationdate="20211115T190946Z">
@@ -2018,6 +2106,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192700Z" creationid="valter" creationdate="20211115T192700Z">
         <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You do not have to request special permission.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193258Z" creationid="valter" creationdate="20211115T193258Z">
+        <seg>Non è necessario richiedere un permesso speciale.</seg>
       </tuv>
     </tu>
     <tu>
