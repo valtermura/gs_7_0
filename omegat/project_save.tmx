@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A dialog is a special type of window.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185945Z" creationid="valter" creationdate="20211115T185945Z">
+        <seg>Una finestra di dialogo è un tipo speciale di finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A forum that provides support for LibreOffice, among other open source office suites &lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182056Z" creationid="valter" creationdate="20211115T182056Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101829Z" creationid="valter" creationdate="20211016T101829Z">
         <seg>Amanda Labby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An example of this type is the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190425Z" creationid="valter" creationdate="20211115T190425Z">
+        <seg>Un esempio di questo tipo è la finestra di dialogo Cerca e Sostituisci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +410,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143050Z" creationid="Elisabetta Manuele" creationdate="20211110T143050Z">
         <seg>Capitolo &lt;f0&gt;6&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Checkbox (more than one can be selected at a time).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190304Z" creationid="valter" creationdate="20211115T190304Z">
+        <seg>Casella di controllo (permette scelte multiple).</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drop-down list from which to select an item.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190344Z" creationid="valter" creationdate="20211115T190344Z">
+        <seg>Menu a tendina dal quale selezionare una voce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effect</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185352Z" creationid="valter" creationdate="20211115T185352Z">
@@ -546,6 +578,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153914Z" creationid="Elisabetta Manuele" creationdate="20211111T153914Z">
         <seg>Figura &lt;seq0&gt;124&lt;/seq0&gt;: finestra di dialogo Seleziona un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190156Z" creationid="valter" creationdate="20211115T190156Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: finestra di dialogo con i controlli più comuni</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +806,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In most cases the technical terms are not used in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190146Z" creationid="valter" creationdate="20211115T190146Z">
+        <seg>Nella maggior parte dei casi in questo libro non si usano termini tecnici, ma può essere utile conoscerli perché si possono ritrovare frequentemente nella Guida in linea e in altre guide e manuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190355Z" creationid="valter" creationdate="20211115T190355Z">
+        <seg>Generalmente, potete interagire solo con la finestra di dialogo (e non con il documento stesso) fino a quando la finestra di dialogo rimane aperta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f1&gt;Icon style&lt;/f1&gt; section, choose from the drop-down list.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184215Z" creationid="valter" creationdate="20211115T184215Z">
@@ -794,6 +850,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092135Z" creationid="valter" creationdate="20211016T092135Z">
         <seg>Questo testo tratta anche alcune delle caratteristiche comuni a tutti i componenti, inclusi l'installazione e la personalizzazione, gli stili e i modelli, la registrazione di macro, e la stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides controls to use to specify how to carry out an action.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190012Z" creationid="valter" creationdate="20211115T190012Z">
+        <seg>Fornisce dei controlli da utilizzare per indicare come eseguire un'azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its purpose is to inform you of something, or request input from you, or both.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185954Z" creationid="valter" creationdate="20211115T185954Z">
+        <seg>Il suo scopo è quello di informarvi di qualcosa, o richiedervi un'immissione, oppure entrambe le cose.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,10 +1166,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Push buttons.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190351Z" creationid="valter" creationdate="20211115T190351Z">
+        <seg>Pulsanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Questions &amp; Answers and &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180702Z" creationid="valter" creationdate="20211115T180702Z">
         <seg>Questions &amp; Answers e &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Radio buttons (only one can be selected at a time).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190209Z" creationid="valter" creationdate="20211115T190209Z">
+        <seg>Pulsanti Radio (permettono una singola scelta esclusiva).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and the document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190422Z" creationid="valter" creationdate="20211115T190422Z">
+        <seg>Alcune finestre di dialogo possono rimanere aperte mentre lavorate, quindi potete spostarvi avanti e indietro tra la finestra di dialogo e il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185258Z" creationid="valter" creationdate="20211115T185258Z">
@@ -1194,6 +1290,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185034Z" creationid="valter" creationdate="20211115T185034Z">
         <seg>Alcuni dei &lt;f0&gt;set&lt;/f0&gt; di gallerie inclusi in precedenza sono ora disponibili come &lt;f1&gt;estensione; si veda &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;https://extensions.libreoffice.org/?Tags%5B%5D=49&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;oppure se ne ricerchi uno specifico,&lt;/f5&gt;&lt;f6&gt;&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spin box (click the up and down arrows to change the number shown in the adjacent text box, or type in the text box).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190335Z" creationid="valter" creationdate="20211115T190335Z">
+        <seg>Casella di selezione (fate clic sulle frecce su e giù per modificare il numero visualizzato nella casella di testo adiacente oppure digitate nella casella di testo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1330,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101844Z" creationid="valter" creationdate="20211016T101844Z">
         <seg>Steve Schwettman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tabbed page (not strictly speaking a control).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190201Z" creationid="valter" creationdate="20211115T190201Z">
+        <seg>Pagina a schede (non un controllo in senso stretto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The technical names for common controls are shown in Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190050Z" creationid="valter" creationdate="20211115T190050Z">
+        <seg>I nomi tecnici per i controlli più comuni sono mostrati in Figura &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185930Z" creationid="valter" creationdate="20211115T185930Z">
@@ -1410,6 +1530,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092438Z" creationid="valter" creationdate="20211016T092438Z">
         <seg>È il primo supporto per l'utilizzo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thumbnail or preview.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190338Z" creationid="valter" creationdate="20211115T190338Z">
+        <seg>Miniatura o anteprima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1650,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092027Z" creationid="valter" creationdate="20211016T092027Z">
         <seg>Contenuto della guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190402Z" creationid="valter" creationdate="20211115T190402Z">
+        <seg>Quando chiudete la finestra di dialogo dopo l'uso (normalmente, facendo clic su &lt;f0&gt;OK&lt;/f0&gt; oppure su un altro pulsante, le vostre modifiche vengono salvate e la finestra di dialogo viene chiusa), potete di nuovo lavorare con il vostro documento.</seg>
       </tuv>
     </tu>
     <tu>
