@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Frequently asked questions</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190455Z" creationid="valter" creationdate="20211115T190455Z">
+        <seg>Domande frequenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From there you can report bugs, suggest new features and communicate with others in the LibreOffice community.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T174933Z" creationid="valter" creationdate="20211016T104858Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092303Z" creationid="valter" creationdate="20211016T092303Z">
         <seg>Sistema di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How is LibreOffice licensed?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190459Z" creationid="valter" creationdate="20211115T190459Z">
+        <seg>Licenza di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice is distributed under &lt;i0/&gt;the Open Source Initiative (OSI) approved Mozilla Public License (MPL).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190607Z" creationid="valter" creationdate="20211115T190607Z">
+        <seg>LibreOffice è distribuito sotto &lt;i0/&gt;la Mozilla Public License (MPL) approvata dalla Open Source Initiative (OSI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice runs on Windows, Linux, and macOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182551Z" creationid="valter" creationdate="20211115T182551Z">
@@ -1058,6 +1082,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101837Z" creationid="valter" creationdate="20211016T101837Z">
         <seg>Olivier Hallot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Source Initiative (OSI)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190507Z" creationid="valter" creationdate="20211115T190507Z">
+        <seg>Open Source Initiative (OSI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,6 +1274,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180943Z" creationid="valter" creationdate="20211115T180943Z">
         <seg>Potete ricercare argomenti simili o aprirne uno nuovo in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190614Z" creationid="valter" creationdate="20211115T190614Z">
+        <seg>Vedere &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
