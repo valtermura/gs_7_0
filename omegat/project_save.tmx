@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f1&gt;As a&lt;/f1&gt; user &lt;f2&gt;you&lt;/f2&gt; can select &lt;bk3/&gt;&lt;f4&gt;your own&lt;/f4&gt; preferred set.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T183313Z" creationid="valter" creationdate="20211115T183313Z">
+        <seg>&lt;f1&gt;Come &lt;/f1&gt; utenti &lt;f2&gt;you&lt;/f2&gt; potete selezionare &lt;bk3/&gt;&lt;f4&gt;il vostro &lt;/f4&gt; gruppo preferito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A forum that provides support for LibreOffice, among other open source office suites &lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182056Z" creationid="valter" creationdate="20211115T182056Z">
@@ -1122,6 +1130,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182818Z" creationid="valter" creationdate="20211115T182818Z">
         <seg>Le differenze stanno principalmente nelle finestre di dialogo Apri, Salva e Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The icons in this guide have been taken from a variety of LibreOffice installations that use different sets of icons.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T183411Z" creationid="valter" creationdate="20211115T183411Z">
+        <seg>Le icone in questa guida sono relative a diverse installazioni di LibreOffice, che utilizzano diversi gruppi di icone.</seg>
       </tuv>
     </tu>
     <tu>
