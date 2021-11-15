@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Free community assistance is provided in a Question &amp; Answer formatted web service.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180812Z" creationid="valter" creationdate="20211115T180812Z">
+        <seg>L'assistenza gratuita della comunità è offerto in un servizio web nel formato Question &amp; Answer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Free community support is provided by a network of experienced users&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180448Z" creationid="valter" creationdate="20211115T180448Z">
@@ -670,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Knowledge Base</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180954Z" creationid="valter" creationdate="20211115T180954Z">
+        <seg>Knowledge Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Laurent Balland-Poirier</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101855Z" creationid="valter" creationdate="20211016T101855Z">
@@ -830,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Questions &amp; Answers and &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180702Z" creationid="valter" creationdate="20211115T180702Z">
+        <seg>Questions &amp; Answers e &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rafael Lima</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101750Z" creationid="valter" creationdate="20211016T101750Z">
@@ -866,6 +890,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101847Z" creationid="valter" creationdate="20211016T101847Z">
         <seg>Ron Faile Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search similar topics or open a new one in</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180943Z" creationid="valter" creationdate="20211115T180943Z">
+        <seg>Potete ricercare argomenti simili o aprirne uno nuovo in</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +962,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T175151Z" creationid="valter" creationdate="20211115T175151Z">
         <seg>La comunità di LibreOffice non sviluppa solo il software, ma offre anche un servizio di supporto gratuito fornito da volontari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The service is available in several other languages; just replace /en/ with de, es, fr, ja, ko, nl, pt, tr, and many others in the web address above.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T181211Z" creationid="valter" creationdate="20211115T181211Z">
+        <seg>Il servizio è disponibile in varie lingue; basta sostituire /en/ con de, es, fr, ja, ko, nl, pt, tr e molte altre, nell'indirizzo web sopra citato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1178,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101558Z" creationid="valter" creationdate="20211016T101558Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (GPL) (&lt;a3&gt;&lt;f4&gt;https://www.gnu.org/licenses/gpl.html&lt;/f4&gt;&lt;/a3&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), versione 4.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://ask.libreoffice.org/en/questions</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T180959Z" creationid="valter" creationdate="20211115T180959Z">
+        <seg>https://ask.libreoffice.org/en/questions</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
