@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f6&gt;&lt;f8&gt;f&lt;/f8&gt;&lt;f9&gt;or example, the People Gallery,&lt;/f9&gt; &lt;a10&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a10&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185051Z" creationid="valter" creationdate="20211115T185051Z">
+        <seg>&lt;/f6&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;per esempio, la People Gallery,&lt;/f9&gt; &lt;a10&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Faq&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180547Z" creationid="valter" creationdate="20211115T180547Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101713Z" creationid="valter" creationdate="20211016T101713Z">
         <seg>&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;questa &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;edizione&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185418Z" creationid="valter" creationdate="20211115T185418Z">
+        <seg>Menu &lt;f0&gt;Strrumenti &gt; Opzioni&lt;/f0&gt; menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185352Z" creationid="valter" creationdate="20211115T185352Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102754Z" creationid="valter" creationdate="20211016T102754Z">
@@ -514,6 +538,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T103607Z" creationid="valter" creationdate="20211016T103607Z">
         <seg>Per una spiegazione più dettagliata, selezionate &lt;f1&gt;Aiuto &gt; Cos'è questo?&lt;/f1&gt; e tenete il puntatore sopra l'icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a more detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185335Z" creationid="valter" creationdate="20211115T185335Z">
+        <seg>Per un elenco più dettagliato, vedere la Guida in linea dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice &gt; Preferences</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185424Z" creationid="valter" creationdate="20211115T185424Z">
+        <seg>LibreOffice &gt; Preferenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice comes with an &lt;i0/&gt;extensive Help system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092943Z" creationid="valter" creationdate="20211016T092409Z">
@@ -1086,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185258Z" creationid="valter" creationdate="20211115T185258Z">
+        <seg>Alcuni tasti e voci di menu su macOS sono diversi da quelli utilizzati in ambiente Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some of the previously included gallery &lt;f0&gt;sets&lt;/f0&gt; are now only available as extension&lt;f1&gt;s; see &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;https://extensions.libreoffice.org/?Tags%5B%5D=49&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;or search for specific ones,&lt;/f5&gt;&lt;f6&gt;&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185034Z" creationid="valter" creationdate="20211115T185034Z">
@@ -1210,6 +1258,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181211Z" creationid="valter" creationdate="20211115T181211Z">
         <seg>Il servizio è disponibile in varie lingue; basta sostituire /en/ con de, es, fr, ja, ko, nl, pt, tr e molte altre, nell'indirizzo web sopra citato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The table below gives some common substitutions for the instructions in this book.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185323Z" creationid="valter" creationdate="20211115T185323Z">
+        <seg>La tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using LibreOffice on macOS</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185219Z" creationid="valter" creationdate="20211115T185219Z">
+        <seg>Utilizzo di LibreOffice su macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using built-in language tools</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211109T192301Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
@@ -1402,6 +1466,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093646Z" creationid="valter" creationdate="20211016T093211Z">
         <seg>Gli utenti di Windows e Linux possono scegliere se scaricare e installare la Guida locale da utilizzare quando non sono collegati a Internet; in macOS, la Guida locale viene installata insieme col programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185338Z" creationid="valter" creationdate="20211115T185338Z">
+        <seg>Windows o Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1554,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180959Z" creationid="valter" creationdate="20211115T180959Z">
         <seg>https://ask.libreoffice.org/en/questions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>macOS equivalent</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185347Z" creationid="valter" creationdate="20211115T185347Z">
+        <seg>Equivalente su macOS</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
