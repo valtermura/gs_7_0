@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; Opens a dialog window and displays information about the version of LibreOffice and the operating system you are using.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T174654Z" creationid="valter" creationdate="20211115T174654Z">
+        <seg>&lt;f0&gt;Informazioni su LibreOffice&lt;/f0&gt; Apre una finestra di dialogo che mostra informazioni sulla versione di LibreOffice e il sistema operativo in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Check for Updates&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens a dialog window and checks the LibreOffice website for updates to your version of the software.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T174605Z" creationid="valter" creationdate="20211115T174605Z">
+        <seg>&lt;f0&gt;Verifica aggiornamenti&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Apre una finestra di dialogo e controlla il sito web di LibreOffice alla ricerca di aggiornamenti della versione installata del software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Donate to LibreOffice&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Donation page of the LibreOffice website, &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T171948Z" creationid="valter" creationdate="20211115T171948Z">
@@ -882,6 +898,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100937Z" creationid="valter" creationdate="20211016T100937Z">
         <seg>Il presente documento è rilasciato sotto Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;&lt;s2/&gt;del LibreOffice Documentation Team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This information will often be requested if you ask the community for help or assistance with the software.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T174849Z" creationid="valter" creationdate="20211115T174849Z">
+        <seg>Queste informazioni sono spesso richieste se chiedete aiuto alla comunità o assistenza per il software.</seg>
       </tuv>
     </tu>
     <tu>
