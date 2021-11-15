@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As many as you like.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190955Z" creationid="valter" creationdate="20211115T190955Z">
+        <seg>Su tutti quelli che volete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Base (database)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092111Z" creationid="valter" creationdate="20211016T092111Z">
@@ -664,8 +672,8 @@
       <tuv lang="en-US">
         <seg>Frequently asked questions</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T190455Z" creationid="valter" creationdate="20211115T190455Z">
-        <seg>Domande frequenti</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190701Z" creationid="valter" creationdate="20211115T190455Z">
+        <seg>Domande ricorrenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,6 +738,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190459Z" creationid="valter" creationdate="20211115T190459Z">
         <seg>Licenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How many computers may I install it on?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190950Z" creationid="valter" creationdate="20211115T190950Z">
+        <seg>Su quanti computer è possibile installarlo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,10 +878,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Is LibreOffice available in my language?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191000Z" creationid="valter" creationdate="20211115T191000Z">
+        <seg>LibreOffice è disponibile nella mia lingua?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092135Z" creationid="valter" creationdate="20211016T092135Z">
         <seg>Questo testo tratta anche alcune delle caratteristiche comuni a tutti i componenti, inclusi l'installazione e la personalizzazione, gli stili e i modelli, la registrazione di macro, e la stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software that differs from version to version under a variety of other Open Source licenses.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190855Z" creationid="valter" creationdate="20211115T190855Z">
+        <seg>Si basa sul codice di Apache OpenOffice reso disponibile sotto Apache License 2.0, ma include anche software che differisce da versione a versione e che si trova sotto altre licenze open source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice has been translated (localized &lt;f0&gt;for more than 80%, both UI and Help&lt;/f0&gt;) into over 4&lt;f1&gt;6&lt;/f1&gt; languages, so your language probably is supported.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191229Z" creationid="valter" creationdate="20211115T191229Z">
+        <seg>LibreOffice è stato tradotto (localizzato &lt;f0&gt;per più dell'80%, sia interfaccia, sia guida&lt;/f0&gt;) in più di &lt;f1&gt;46&lt;/f1&gt; lingue, quindi la vostra lingua è probabilmente supportata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice is distributed under &lt;i0/&gt;the Open Source Initiative (OSI) approved Mozilla Public License (MPL).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190607Z" creationid="valter" creationdate="20211115T190607Z">
@@ -1038,6 +1078,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>May I distribute LibreOffice to anyone?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190923Z" creationid="valter" creationdate="20211115T190923Z">
+        <seg>È possibile distribuire LibreOffice a chiunque?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May I sell it?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190928Z" creationid="valter" creationdate="20211115T190928Z">
+        <seg>È possibile venderlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May I use it in my business?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190940Z" creationid="valter" creationdate="20211115T190940Z">
+        <seg>È possibile usarlo in un ambiente di lavoro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Miklos Vajna</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101906Z" creationid="valter" creationdate="20211016T101906Z">
@@ -1058,6 +1122,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T182259Z" creationid="Elisabetta Manuele" creationdate="20211111T182259Z">
         <seg>Spostatevi nella cella dove avrà inizio la pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New code is available under LGPL 3.0 and MPL 2.0.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190915Z" creationid="valter" creationdate="20211115T190915Z">
+        <seg>Il nuovo codice è disponibile sotto LGPL 3.0 e MPL 2.0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,6 +1818,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092051Z" creationid="valter" creationdate="20211016T092051Z">
         <seg>Writer (elaborazione di testi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T190946Z" creationid="valter" creationdate="20211115T190946Z">
+        <seg>Sì.</seg>
       </tuv>
     </tu>
     <tu>
