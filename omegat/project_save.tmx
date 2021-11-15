@@ -54,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Website/Web_Sites_services&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T181725Z" creationid="valter" creationdate="20211115T181725Z">
+        <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Website/Web_Sites_services&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;a1&gt;https://www.libreoffice.org/community/nlc/&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181521Z" creationid="valter" creationdate="20211115T181521Z">
         <seg>&lt;a1&gt;https://it.libreoffice.org/comunita/plm/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a1&gt;https://www.libreoffice.org/get-help/accessibility/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T181921Z" creationid="valter" creationdate="20211115T181921Z">
+        <seg>&lt;a1&gt;https://it.libreoffice.org/supporto/accessibilita/&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +218,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153056Z" creationid="Elisabetta Manuele" creationdate="20211111T153056Z">
         <seg>&lt;f0&gt;Al primo avvio di Impress la finestra &lt;/f0&gt;&lt;f1&gt;principale &lt;/f1&gt;&lt;f2&gt; si apre, per impostazione predefinita, con la finestra di dialogo Seleziona un modello illustrata nella figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;124&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A forum that provides support for LibreOffice, among other open source office suites &lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182056Z" creationid="valter" creationdate="20211115T182056Z">
+        <seg>Forum che fornisce il supporto per LibreOffice, tra le altre suite open source per l'ufficio &lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accessibility options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T181732Z" creationid="valter" creationdate="20211115T181732Z">
+        <seg>Accesso facilitato</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information about available accessibility options &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T181846Z" creationid="valter" creationdate="20211115T181846Z">
+        <seg>Informazioni sulle opzioni di accesso facilitato disponibili &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information about social networking&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181624Z" creationid="valter" creationdate="20211115T181624Z">
@@ -814,10 +854,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenOffice Forum</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T181929Z" creationid="valter" creationdate="20211115T181929Z">
+        <seg>Forum OpenOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other free online support</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T175123Z" creationid="valter" creationdate="20211115T175123Z">
         <seg>Altra assistenza gratuita online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paid support and training</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182105Z" creationid="valter" creationdate="20211115T182105Z">
+        <seg>Supporto e formazione a pagamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1250,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092051Z" creationid="valter" creationdate="20211016T092051Z">
         <seg>Writer (elaborazione di testi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182314Z" creationid="valter" creationdate="20211115T182314Z">
+        <seg>È possibile pagare il supporto tramite contratti di assistenza siglati presso un distributore o un'azienda di consulenza specializzata in LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
