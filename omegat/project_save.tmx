@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some of the previously included gallery &lt;f0&gt;sets&lt;/f0&gt; are now only available as extension&lt;f1&gt;s; see &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;https://extensions.libreoffice.org/?Tags%5B%5D=49&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;or search for specific ones,&lt;/f5&gt;&lt;f6&gt;&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185034Z" creationid="valter" creationdate="20211115T185034Z">
+        <seg>Alcuni dei &lt;f0&gt;set&lt;/f0&gt; di gallerie inclusi in precedenza sono ora disponibili come &lt;f1&gt;estensione; si veda &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;https://extensions.libreoffice.org/?Tags%5B%5D=49&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;oppure se ne ricerchi uno specifico,&lt;/f5&gt;&lt;f6&gt;&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start Impress using any of the methods described in Chapter 1, Introducing LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T144216Z" creationid="Elisabetta Manuele" creationdate="20211111T144216Z">
@@ -1114,6 +1122,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101844Z" creationid="valter" creationdate="20211016T101844Z">
         <seg>Steve Schwettman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Th&lt;f1&gt;ey&lt;/f1&gt; can be added back by downloading and installing &lt;f2&gt;them as extensions from &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://extensions.libreoffice.org/en/extensions/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T184726Z" creationid="valter" creationdate="20211115T184726Z">
+        <seg>Essi &lt;f1&gt;&lt;/f1&gt; possono essere riaggiunti scaricandoli e installandoli &lt;f2&gt;come estensione da &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://extensions.libreoffice.org/en/extensions/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Galaxy, Oxygen, &lt;f0&gt;and Tango&lt;/f0&gt; icon sets are no longer included as part of the standard installation package.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T184635Z" creationid="valter" creationdate="20211115T184635Z">
+        <seg>I gruppi di icone Galaxy, Oxygen, &lt;f0&gt;e Tango&lt;/f0&gt; non sono più disponibili come parte del pacchetto di installazione standard.</seg>
       </tuv>
     </tu>
     <tu>
