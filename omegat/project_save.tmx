@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How can I contribute to LibreOffice?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192651Z" creationid="valter" creationdate="20211115T192651Z">
+        <seg>Come si può contribuire a LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can you make it for free?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191718Z" creationid="valter" creationdate="20211115T191718Z">
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093834Z" creationid="valter" creationdate="20211016T093834Z">
         <seg>Sela guida locale non è installata nel vostro computer e siete collegati a Internet, il vostro browser predefinito aprirà le pagine della Guida in linea che si trovano nel sito web di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you do not want to use Java, you can still use nearly all of the LibreOffice features.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192645Z" creationid="valter" creationdate="20211115T192645Z">
+        <seg>Se non volete utilizzare Java, potrete comunque usare quasi tutte le caratteristiche di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the Advanced Options in Chapter 2 of this guide.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192624Z" creationid="valter" creationdate="20211115T192624Z">
+        <seg>Consultare le Opzioni avanzate nel Capitolo 2 di questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting rows and columns in a database table</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
@@ -1814,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To start, check out this webpage: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193231Z" creationid="valter" creationdate="20211115T193231Z">
+        <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To use Impress for more than very simple slide shows requires some knowledge of the elements which the slides contain.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T150935Z" creationid="Elisabetta Manuele" creationdate="20211110T150935Z">
@@ -1978,6 +2010,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182737Z" creationid="valter" creationdate="20211115T182737Z">
         <seg>È possibile utilizzare sia le finestre di dialogo del vostro sistema sia quelle fornite da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192700Z" creationid="valter" creationdate="20211115T192700Z">
+        <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
       </tuv>
     </tu>
     <tu>
