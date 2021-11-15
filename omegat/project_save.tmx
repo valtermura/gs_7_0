@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice includes the following components.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193613Z" creationid="valter" creationdate="20211115T193613Z">
+        <seg>LibreOffice comprende i seguenti componenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice is a freely available, fully-featured office productivity suite.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193435Z" creationid="valter" creationdate="20211115T193435Z">
@@ -2058,6 +2066,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092051Z" creationid="valter" creationdate="20211016T092051Z">
         <seg>Writer (elaborazione di testi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer (word processor)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193616Z" creationid="valter" creationdate="20211115T193616Z">
+        <seg>Writer (elaborazione di testi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer is a feature-rich tool for creating letters, books, reports, newsletters, brochures, and other documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193624Z" creationid="valter" creationdate="20211115T193624Z">
+        <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, depliant e altri documenti.</seg>
       </tuv>
     </tu>
     <tu>
