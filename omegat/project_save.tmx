@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (Control)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185533Z" creationid="valter" creationdate="20211115T185533Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (Control)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Donate to LibreOffice&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Donation page of the LibreOffice website, &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T171948Z" creationid="valter" creationdate="20211115T171948Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182056Z" creationid="valter" creationdate="20211115T182056Z">
         <seg>Forum che fornisce il supporto per LibreOffice, tra le altre suite open source per l'ufficio &lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185429Z" creationid="valter" creationdate="20211115T185429Z">
+        <seg>Accesso alle opzioni di configurazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Control+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185522Z" creationid="valter" creationdate="20211115T185522Z">
+        <seg>Control+clic e/o pulsante destro del mouse a seconda della configurazione del computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100853Z" creationid="valter" creationdate="20211016T100853Z">
@@ -482,6 +506,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102754Z" creationid="valter" creationdate="20211016T102754Z">
         <seg>Qualsiasi cosa invierete a una mailing list, incluso il vostro indirizzo di posta elettronica e qualsiasi altra informazione personale presente all'interno del messaggio, sarà archiviata pubblicamente e non potrà essere eliminata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F11</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185559Z" creationid="valter" creationdate="20211115T185559Z">
+        <seg>F11</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +990,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a context menu</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185527Z" creationid="valter" creationdate="20211115T185527Z">
+        <seg>Apre un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the sidebar Styles deck</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185644Z" creationid="valter" creationdate="20211115T185644Z">
+        <seg>Apre il pannello laterale degli Stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenOffice Forum</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181929Z" creationid="valter" creationdate="20211115T181929Z">
@@ -1066,6 +1114,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101854Z" creationid="valter" creationdate="20211016T101854Z">
         <seg>Regina Henschel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185433Z" creationid="valter" creationdate="20211115T185433Z">
+        <seg>Pulsante destro del mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185930Z" creationid="valter" creationdate="20211115T185930Z">
+        <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;interfaccia utente (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There you can choose a topic of interest to help improve the program.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T105215Z" creationid="valter" creationdate="20211016T105215Z">
@@ -1398,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185554Z" creationid="valter" creationdate="20211115T185554Z">
+        <seg>Usato con altri tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using LibreOffice on macOS</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185219Z" creationid="valter" creationdate="20211115T185219Z">
@@ -1418,6 +1490,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101907Z" creationid="valter" creationdate="20211016T101907Z">
         <seg>Valerii Goncharuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What are all these things called?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185651Z" creationid="valter" creationdate="20211115T185651Z">
+        <seg>Termini utilizzati</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,6 +1642,30 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185347Z" creationid="valter" creationdate="20211115T185347Z">
         <seg>Equivalente su macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>user interface, parts of</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185758Z" creationid="valter" creationdate="20211115T185758Z">
+        <seg>interfaccia utente, parti della</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘ (Command)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185549Z" creationid="valter" creationdate="20211115T185549Z">
+        <seg>⌘ (Command, Cmd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T185604Z" creationid="valter" creationdate="20211115T185604Z">
+        <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
