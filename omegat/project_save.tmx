@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to use LibreOffice features that require Java, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192543Z" creationid="valter" creationdate="20211115T192422Z">
+        <seg>Se volete utilizzare le funzionalità di LibreOffice che richiedono Java, è importante che abbiate installato la corretta versione a 32 bit o a 64 bit coincidente con la versione installata di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182418Z" creationid="valter" creationdate="20211115T182418Z">
@@ -1178,6 +1186,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101906Z" creationid="valter" creationdate="20211016T101906Z">
         <seg>Miklos Vajna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More information and download links to the appropriate edition for your operating system can be found at: &lt;a0&gt;&lt;f1&gt;https://java.com/en/download/manual.jsp&lt;/f1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192249Z" creationid="valter" creationdate="20211115T192249Z">
+        <seg>Ulteriori informazioni e collegamenti per lo scaricamento dell'edizione appropriata per il vostro sistema operativo si trovano all'indirizzo: &lt;a0&gt;&lt;f1&gt;https://java.com/en/download/manual.jsp&lt;/f1&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
