@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc can also export spreadsheets in several formats, including for example Comma Separated Value (CSV), Adobe PDF and HTML formats.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T195051Z" creationid="valter" creationdate="20211115T195051Z">
+        <seg>Calc è in grado di esportare i fogli elettronici in diversi formati, per esempio Comma Separated Value (CSV), Adobe PDF e HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc generates 2D and 3D charts, which can be integrated into other LibreOffice documents.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193921Z" creationid="valter" creationdate="20211115T193921Z">
