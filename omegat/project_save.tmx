@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T184024Z" creationid="valter" creationdate="20211115T184024Z">
+        <seg>Le icone per alcuni dei molti strumenti disponibili in LibreOffice potrebbero essere diverse da quelle utilizzate in questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The icons in this guide have been taken from a variety of LibreOffice installations that use different sets of icons.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T183411Z" creationid="valter" creationdate="20211115T183411Z">
