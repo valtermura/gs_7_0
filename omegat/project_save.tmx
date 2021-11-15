@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How can you make it for free?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191718Z" creationid="valter" creationdate="20211115T191718Z">
+        <seg>Come riuscite a fare tutto questo gratis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How is LibreOffice licensed?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190459Z" creationid="valter" creationdate="20211115T190459Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153837Z" creationid="Elisabetta Manuele" creationdate="20211111T153837Z">
         <seg>Tuttavia i modelli si adattano ad altri formati &lt;/f0&gt;&lt;f1&gt;selezionabili&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;accedendo&lt;/f3&gt;&lt;f4&gt; a &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Diapositiva &gt; Proprietà della diapositiva Formato foglio&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; sulla Barra dei menu &lt;/f7&gt;&lt;f8&gt;o a &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Diapositiva schema&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; nella sezione Diapositiva all'interno del pannello Proprietà della Barra laterale.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am writing a software application.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191748Z" creationid="valter" creationdate="20211115T191748Z">
+        <seg>Sto scrivendo un'applicazione software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Is it written in Java?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191927Z" creationid="valter" creationdate="20211115T191927Z">
+        <seg>È scritto in Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092135Z" creationid="valter" creationdate="20211016T092135Z">
@@ -922,6 +946,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185954Z" creationid="valter" creationdate="20211115T185954Z">
         <seg>Il suo scopo è quello di informarvi di qualcosa, o richiedervi un'immissione, oppure entrambe le cose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Java is available at no cost.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192028Z" creationid="valter" creationdate="20211115T192028Z">
+        <seg>Java è disponibile senza costi aggiuntivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Java is one of several languages that can be used to extend the software.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192004Z" creationid="valter" creationdate="20211115T192004Z">
+        <seg>Java è uno dei numerosi linguaggi che è possibile usare per ampliare il software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,10 +1070,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice is developed and maintained by volunteers and has the backing of several organizations.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191733Z" creationid="valter" creationdate="20211115T191733Z">
+        <seg>LibreOffice è sviluppato e mantenuto da volontari ed è sostenuto da diverse organizzazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice is distributed under &lt;i0/&gt;the Open Source Initiative (OSI) approved Mozilla Public License (MPL).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190607Z" creationid="valter" creationdate="20211115T190607Z">
         <seg>LibreOffice è distribuito sotto &lt;i0/&gt;la Mozilla Public License (MPL) approvata dalla Open Source Initiative (OSI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice is not written in Java; it is written in the C++ language.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191959Z" creationid="valter" creationdate="20211115T191950Z">
+        <seg>LibreOffice non è scritto in Java; è scritto in linguaggio C++.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,6 +1162,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190940Z" creationid="valter" creationdate="20211115T190940Z">
         <seg>È possibile usarlo in un ambiente di lavoro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May I use programming code from LibreOffice in my program?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191806Z" creationid="valter" creationdate="20211115T191806Z">
+        <seg>È possibile usare il codice sorgente di LibreOffice nel mio programma?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1310,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read the licenses: &lt;a0&gt;https://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191918Z" creationid="valter" creationdate="20211115T191918Z">
+        <seg>Per leggere le licenze consultate: &lt;a0&gt;https://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Regina Henschel</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101854Z" creationid="valter" creationdate="20211016T101854Z">
@@ -1486,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Java JDK/JRE is only required for some features.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192010Z" creationid="valter" creationdate="20211115T192010Z">
+        <seg>Il Java JDK/JRE è necessario solo per alcune funzioni. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LibreOffice community has created icons for several icon sets: Breeze, Colibre, Elementary, Karasa Jaga, Sifr, &lt;f0&gt;and Sakapura; some are also available in a dark version&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T183218Z" creationid="valter" creationdate="20211115T183218Z">
@@ -1506,6 +1586,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181405Z" creationid="valter" creationdate="20211115T181349Z">
         <seg>Il sito web di LibreOffice in varie lingue&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The dictionaries are available from the LibreOffice website at: &lt;a8&gt;&lt;f9&gt;www.libreoffice.org&lt;/f9&gt;&lt;/a8&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191714Z" creationid="valter" creationdate="20211115T191714Z">
+        <seg>I dizionari sono disponibili sul sito web di LibreOffice all'indirizzo: &lt;a8&gt;&lt;f9&gt;www.libreoffice.org&lt;/f9&gt;&lt;/a8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1538,6 +1626,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182600Z" creationid="valter" creationdate="20211115T182600Z">
         <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most notable one is the HSQLDB relational database engine.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T192016Z" creationid="valter" creationdate="20211115T192016Z">
+        <seg>La più importante è il motore di database relazionale HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why do I need Java to run LibreOffice?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191922Z" creationid="valter" creationdate="20211115T191922Z">
+        <seg>Perché è necessario avere Java per poter avviare LibreOffice.org?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet; the offline Help is installed with the program on macOS.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093646Z" creationid="valter" creationdate="20211016T093211Z">
@@ -1882,6 +1986,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101558Z" creationid="valter" creationdate="20211016T101558Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (GPL) (&lt;a3&gt;&lt;f4&gt;https://www.gnu.org/licenses/gpl.html&lt;/f4&gt;&lt;/a3&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a5&gt;&lt;f6&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f6&gt;&lt;/a5&gt;), versione 4.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may, within the parameters set in the MPL and/or LGPL.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191837Z" creationid="valter" creationdate="20211115T191837Z">
+        <seg>Potete usarlo, in conformità con i limiti della licenza MPL e/o LGPL.</seg>
       </tuv>
     </tu>
     <tu>
