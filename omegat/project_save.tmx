@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>(On macOS this item is under the LibreOffice menu.)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T175104Z" creationid="valter" creationdate="20211115T175055Z">
+        <seg>(in macOS questo elemento si trova nel menu di LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f2&gt;with&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100841Z" creationid="valter" creationdate="20211016T100841Z">
@@ -424,8 +432,8 @@
       <tuv lang="en-US">
         <seg>From there you can report bugs, suggest new features and communicate with others in the LibreOffice community.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211016T104858Z" creationid="valter" creationdate="20211016T104858Z">
-        <seg>Da questa pagina puoi segnalare errori, suggerire nuove funzionalità e comunicare gli altri membri della comunità di LibreOffice.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T174933Z" creationid="valter" creationdate="20211016T104858Z">
+        <seg>Da questa pagina potete segnalare errori, suggerire nuove funzionalità e comunicare con gli altri membri della comunità di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other free online support</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T175123Z" creationid="valter" creationdate="20211115T175123Z">
+        <seg>Altra assistenza gratuita online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paul Figueiredo</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101838Z" creationid="valter" creationdate="20211016T101838Z">
@@ -904,8 +920,8 @@
       <tuv lang="en-US">
         <seg>This information will often be requested if you ask the community for help or assistance with the software.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T174849Z" creationid="valter" creationdate="20211115T174849Z">
-        <seg>Queste informazioni sono spesso richieste se chiedete aiuto alla comunità o assistenza per il software.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T175101Z" creationid="valter" creationdate="20211115T174849Z">
+        <seg>Queste informazioni sono spesso richieste se chiedete aiuto alla comunità o assistenza per il software</seg>
       </tuv>
     </tu>
     <tu>
