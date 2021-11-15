@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182653Z" creationid="valter" creationdate="20211115T182653Z">
+        <seg>Anche alcune delle finestre di dialogo potrebbero essere differenti a causa delle impostazioni selezionate in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although more difficult designs are mentioned in this chapter, explanations for creating them are in the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T144153Z" creationid="Elisabetta Manuele" creationdate="20211110T144153Z">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For information about certified professional support, see The Document Foundation’s website: &lt;a0&gt;https://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182404Z" creationid="valter" creationdate="20211115T182404Z">
+        <seg>Per informazioni sul supporto professionale certificato, si rimanda al sito web di The Document Foundation: &lt;a0&gt;https://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more detail, see the user guides for the individual components.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092140Z" creationid="valter" creationdate="20211016T092140Z">
@@ -618,6 +634,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T145046Z" creationid="Elisabetta Manuele" creationdate="20211110T145046Z">
         <seg>Se avete già una certa esperienza sulla realizzazione di una presentazione, consigliamo di utilizzare la &lt;f1&gt;Guida a Impress&lt;/f1&gt; come fonte di informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Illustrations</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182418Z" creationid="valter" creationdate="20211115T182418Z">
+        <seg>Illustrazioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +794,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092943Z" creationid="valter" creationdate="20211016T092409Z">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; offre un &lt;i0/&gt;&gt;sistema di aiuto vasto e articolato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice runs on Windows, Linux, and macOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182551Z" creationid="valter" creationdate="20211115T182551Z">
+        <seg>LibreOffice funziona su sistemi operativi Windows, Linux e macOS, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182600Z" creationid="valter" creationdate="20211115T182600Z">
+        <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The service is available in several other languages; just replace /en/ with de, es, fr, ja, ko, nl, pt, tr, and many others in the web address above.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181211Z" creationid="valter" creationdate="20211115T181211Z">
@@ -1098,6 +1138,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T104124Z" creationid="valter" creationdate="20211016T104124Z">
         <seg>Qui sono presenti copie delle Guide utente e altre informazioni utili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182628Z" creationid="valter" creationdate="20211115T182628Z">
+        <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1250,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T142243Z" creationid="Elisabetta Manuele" creationdate="20211110T142243Z">
         <seg>Introduzione a Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What you see may be different</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T182410Z" creationid="valter" creationdate="20211115T182410Z">
+        <seg>Differenze nelle immagini presenti nel libro</seg>
       </tuv>
     </tu>
     <tu>
