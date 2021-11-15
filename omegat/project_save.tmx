@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f2&gt;L&lt;/f2&gt;&lt;f3&gt;ocalisation is well under way for another 3&lt;/f3&gt;&lt;f4&gt;0&lt;/f4&gt;&lt;f5&gt;+ languages (50-80%) and for another 50+ languages help is more than welcome.&lt;/f5&gt; &lt;f6&gt;In addition&lt;/f6&gt;, over 70 spelling, hyphenation, and thesaurus dictionaries &lt;f7&gt;are &lt;/f7&gt;available for languages and dialects that do not have a localized program interface.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T191643Z" creationid="valter" creationdate="20211115T191643Z">
+        <seg>&lt;f2&gt;La &lt;/f2&gt;&lt;f3&gt;localizzazione prosegue spedita per più di altre 30&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;+ lingue (50-80%) e per altre 50+ lingue l'aiuto è più che benvenuto.&lt;/f5&gt; &lt;f6&gt;In aggiunta&lt;/f6&gt;, sono disponibili più di 70 dizionari di correzione ortografica, sillabazione e sinonimi &lt;f7&gt;&lt;/f7&gt;per le lingue e anche per i dialetti per i quali non è ancora disponibile un'interfaccia localizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A dialog is a special type of window.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185945Z" creationid="valter" creationdate="20211115T185945Z">
