@@ -398,10 +398,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc (spreadsheet)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193753Z" creationid="valter" creationdate="20211115T193753Z">
+        <seg>Calc (foglio elettronico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc (spreadsheets)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092055Z" creationid="valter" creationdate="20211016T092055Z">
         <seg>Calc (fogli elettronici)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc generates 2D and 3D charts, which can be integrated into other LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193921Z" creationid="valter" creationdate="20211115T193921Z">
+        <seg>Con Calc è possibile generare grafici bi e tridimensionali che possono essere integrati in altri documenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc has all of the advanced analysis, charting, and decision making features expected from a high-end spreadsheet.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193814Z" creationid="valter" creationdate="20211115T193814Z">
+        <seg>Calc dispone di tutte le funzionalità avanzate per l'analisi, la creazione di diagrammi e scelte decisionali di un programma di calcolo avanzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,10 +998,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It also connects to your email client.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193749Z" creationid="valter" creationdate="20211115T193749Z">
+        <seg>Permette inoltre di collegarsi al vostro client di posta elettronica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092135Z" creationid="valter" creationdate="20211016T092135Z">
         <seg>Questo testo tratta anche alcune delle caratteristiche comuni a tutti i componenti, inclusi l'installazione e la personalizzazione, gli stili e i modelli, la registrazione di macro, e la stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It includes over &lt;f0&gt;5&lt;/f0&gt;00 functions for financial, statistical, and mathematical operations, among others.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193842Z" creationid="valter" creationdate="20211115T193842Z">
+        <seg>Dispone, tra l'altro, di oltre &lt;f0&gt;5&lt;/f0&gt;00 funzioni per calcoli finanziari, statistici e matematici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Scenario Manager provides “what if” analysis.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193850Z" creationid="valter" creationdate="20211115T193850Z">
+        <seg>Il Gestore di scenari fornisce analisi del tipo "what if" (cosa succede se).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The dictionaries are available from the LibreOffice website at: &lt;a8&gt;&lt;f9&gt;www.libreoffice.org&lt;/f9&gt;&lt;/a8&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191714Z" creationid="valter" creationdate="20211115T191714Z">
@@ -2078,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer can export files to HTML, XHTML, XML, Adobe Portable Document Format (PDF), &lt;f0&gt;EPUB, &lt;/f0&gt;and several versions of Microsoft Word files.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193745Z" creationid="valter" creationdate="20211115T193745Z">
+        <seg>Con Writer è possibile esportare file nei formati HTML, XHTML, XML, Adobe Portable Document Format (PDF) e Microsoft Word di diverse versioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer is a feature-rich tool for creating letters, books, reports, newsletters, brochures, and other documents.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193624Z" creationid="valter" creationdate="20211115T193624Z">
@@ -2098,6 +2154,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190946Z" creationid="valter" creationdate="20211115T190946Z">
         <seg>Sì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also open and work with Microsoft Excel workbooks and save them in Excel format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193929Z" creationid="valter" creationdate="20211115T193929Z">
+        <seg>È anche possibile aprire e lavorare con fogli di calcolo in formato Microsoft Excel e salvarli nel formato originale Excel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,6 +2194,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192700Z" creationid="valter" creationdate="20211115T192700Z">
         <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can insert graphics and objects from other components into Writer documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20211115T193714Z" creationid="valter" creationdate="20211115T193714Z">
+        <seg>È possibile inserire grafici e oggetti di altri componenti nei documenti Writer.</seg>
       </tuv>
     </tu>
     <tu>
