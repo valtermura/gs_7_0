@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Windows or Linux, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Start with Template Selection&lt;/f1&gt; under &lt;f2&gt;New Document&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="calem" changedate="20211118T190839Z" creationid="calem" creationdate="20211118T190839Z">
+        <seg>In Windows o Linux, accedete a Strumenti&amp;gt; Opzioni&amp;gt; LibreOffice Impress&amp;gt; Generale nella barra dei menu e deselezionate l'opzione Inizia con la selezione del modello nell'area Nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to the Help menu links above, there are other online community support options available, see the table below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20211115T180329Z" creationid="valter" creationdate="20211115T180310Z">
