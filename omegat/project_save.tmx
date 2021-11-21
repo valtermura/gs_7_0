@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Database functions, to arrange, store, and filter data.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211121T160156Z" creationid="akurery" creationdate="20211121T160156Z">
+        <seg>Funzioni di database, per organizzare, archiviare e filtrare i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dave Barton</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101731Z" creationid="valter" creationdate="20211016T101731Z">
