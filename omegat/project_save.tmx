@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 5 &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211121T100301Z" creationid="akurery" creationdate="20211121T100301Z">
+        <seg>Capitolo 5 &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 6 Getting Started with Impress</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141825Z" creationid="Elisabetta Manuele" creationdate="20211110T141825Z">
@@ -818,6 +826,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101903Z" creationid="valter" creationdate="20211016T101903Z">
         <seg>Frédéric Parrenin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Functions, which can be used to create formulas to perform complex calculations on data.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211121T100319Z" creationid="akurery" creationdate="20211121T100319Z">
+        <seg>Funzioni, che possono essere utilizzate per creare formule con cui eseguire calcoli complessi sui dati.</seg>
       </tuv>
     </tu>
     <tu>
