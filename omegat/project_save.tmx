@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191302Z" creationid="akurery" creationdate="20211211T191302Z">
+        <seg>Possibilità di aprire, modificare e salvare fogli elettronici di Microsoft Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185429Z" creationid="valter" creationdate="20211115T185429Z">
@@ -1410,6 +1418,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182551Z" creationid="valter" creationdate="20211115T182551Z">
         <seg>LibreOffice funziona su sistemi operativi Windows, Linux e macOS, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include LibreOffice Basic, Python, BeanShell, and JavaScript.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191227Z" creationid="akurery" creationdate="20211211T191227Z">
+        <seg>Macro, per registrare ed eseguire attività ripetitive; i linguaggi di scripting supportati comprendono LibreOffice Basic, Python, BeanShell e JavaScript.</seg>
       </tuv>
     </tu>
     <tu>
