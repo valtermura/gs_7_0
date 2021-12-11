@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, LibreOffice Calc uses its own formula syntax, referred to as Calc &lt;f0&gt;A&lt;/f0&gt;1, rather than the Excel &lt;f1&gt;A&lt;/f1&gt;1 syntax that is used by Microsoft Excel.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191447Z" creationid="akurery" creationdate="20211211T191447Z">
+        <seg>Per impostazione predefinita, LibreOffice Calc utilizza una propria sintassi per le formule, denominata Calc &lt;f0&gt;A&lt;/f0&gt;1, anziché la sintassi Excel &lt;f1&gt;A&lt;/f1&gt;1 utilizzata da Microsoft Excel. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193753Z" creationid="valter" creationdate="20211115T193753Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101752Z" creationid="valter" creationdate="20211016T101752Z">
         <seg>Colleen Hayes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compatibility with other spreadsheet applications</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191323Z" creationid="akurery" creationdate="20211211T191323Z">
+        <seg>Compatibilità con altre applicazioni per fogli di calcolo</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formula syntax</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191340Z" creationid="akurery" creationdate="20211211T191340Z">
+        <seg>Sintassi delle formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Free LibreOffice support</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180341Z" creationid="valter" creationdate="20211115T180341Z">
@@ -1018,6 +1042,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182418Z" creationid="valter" creationdate="20211115T182418Z">
         <seg>Illustrazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and PostScript.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191309Z" creationid="akurery" creationdate="20211211T191309Z">
+        <seg>Importazione ed esportazione di fogli elettronici in più formati, inclusi HTML, CSV, PDF e PostScript</seg>
       </tuv>
     </tu>
     <tu>
@@ -1418,6 +1450,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182551Z" creationid="valter" creationdate="20211115T182551Z">
         <seg>LibreOffice funziona su sistemi operativi Windows, Linux e macOS, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice will translate seamlessly between the two.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191504Z" creationid="akurery" creationdate="20211211T191504Z">
+        <seg>LibreOffice tradurrà senza problemi l'una nell'altra. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,6 +1866,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
         <seg>Selezionare righe e colonne in una tabella di database (aperta con F4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple wildcards such as the asterisk (*), question mark (?), and tilde (~) from other spreadsheet applications are recognized by LibreOffice &lt;f0&gt;in formula expressions&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191336Z" creationid="akurery" creationdate="20211211T191336Z">
+        <seg>I caratteri jolly semplici, come l'asterisco (*), il punto interrogativo (?) e la tilde (~), usati da altre applicazioni per fogli di calcolo, sono riconosciuti da LibreOffice nelle espressioni delle formule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2394,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191922Z" creationid="valter" creationdate="20211115T191922Z">
         <seg>Perché è necessario avere Java per poter avviare LibreOffice.org?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wildcards</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191327Z" creationid="akurery" creationdate="20211211T191327Z">
+        <seg>Caratteri jolly</seg>
       </tuv>
     </tu>
     <tu>
