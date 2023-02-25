@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice &lt;/f2&gt;&lt;f4&gt;7.0&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="calem" changedate="20230225T235941Z" creationid="calem" creationdate="20230225T235941Z">
+        <seg>LibreOffice &lt;/f2&gt;&lt;f4&gt;7.0&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice &gt; Preferences</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185424Z" creationid="valter" creationdate="20211115T185424Z">
