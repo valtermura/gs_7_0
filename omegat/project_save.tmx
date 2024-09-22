@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Cross-platform.&lt;/f0&gt; LibreOffice runs on several hardware architectures and under multiple operating systems, such as Microsoft Windows, &lt;f1&gt;m&lt;/f1&gt;acOS, and Linux.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240922T213635Z" creationid="valter" creationdate="20240922T213635Z">
+        <seg>&lt;f0&gt;Multipiattaforma.&lt;/f0&gt; LibreOffice funziona su numerose architetture hardware e sistemi operativi diversi quali Microsoft Windows, &lt;f1&gt;m&lt;/f1&gt;acOS e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (Control)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185533Z" creationid="valter" creationdate="20211115T185533Z">
