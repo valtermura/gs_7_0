@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T103454Z" creationid="valter" creationdate="20211016T103454Z">
         <seg>&lt;/f0&gt;Per ottenere dei suggerimenti rapidi quando la barra degli strumenti è visibile, posizionando il cursore del mouse sull'icona di un qualsiasi strumento verrà visualizzata una breve descrizione della sua funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f0&gt;You can distribute, copy, and modify the software as much as you wish, in accordance with the LibreOffice Open Source licenses.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240922T213503Z" creationid="valter" creationdate="20240922T213503Z">
+        <seg>&lt;/f0&gt;Grazie alle licenze Open Source di LibreOffice è possibile distribuire, copiare e modificare il software come si desidera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +162,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T172607Z" creationid="valter" creationdate="20211115T172607Z">
         <seg>&lt;f0&gt;Informazioni sulla licenza&lt;/f0&gt; Delinea le licenze sotto cui viene reso disponibile LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;No licensing fees.&lt;/f0&gt; LibreOffice is free for anyone to use and distribute at no cost.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240922T213256Z" creationid="valter" creationdate="20240922T213256Z">
+        <seg>&lt;f0&gt;Nessun costo di licenza.&lt;/f0&gt; LibreOffice è liberamente utilizzabile e distribuibile da chiunque senza alcun costo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Open source.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240922T213422Z" creationid="valter" creationdate="20240922T213422Z">
+        <seg>&lt;f0&gt;Open source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240922T213404Z" creationid="valter" creationdate="20240922T213302Z">
+        <seg>Molte caratteristiche, disponibili come add-on opzionali a pagamento in altre suite per ufficio (come l'esportazione in formato PDF), sono invece disponibili gratuitamente in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Martin Saffron</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101842Z" creationid="valter" creationdate="20211016T101842Z">
@@ -2122,6 +2154,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185930Z" creationid="valter" creationdate="20211115T185930Z">
         <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;interfaccia utente (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are no hidden charges now or in the future.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240922T213414Z" creationid="valter" creationdate="20240922T213414Z">
+        <seg>Nessun costo nascosto attuale o futuro.</seg>
       </tuv>
     </tu>
     <tu>
