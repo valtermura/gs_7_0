@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;More&lt;/f0&gt; functionalities &lt;f1&gt;can be added &lt;/f1&gt;to LibreOffice by means of extensions.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T152933Z" creationid="valter" creationdate="20240928T152933Z">
+        <seg>LibreOffice &lt;f1&gt;può essere arricchito&lt;/f1&gt; con &lt;f0&gt;ulteriori&lt;/f0&gt; funzionalità attraverso le estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;No licensing fees.&lt;/f0&gt; LibreOffice is free for anyone to use and distribute at no cost.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240922T213256Z" creationid="valter" creationdate="20240922T213256Z">
@@ -1526,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it is difficult to understand what an option does, LibreOffice recommends leaving the option on its default setting unless instructions in this user guide recommend changing the setting.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T152725Z" creationid="valter" creationdate="20240928T152725Z">
+        <seg>Se risulta difficile capire a cosa serve un'opzione, LibreOffice consiglia di non modificare l'opzione e mantenerla alle sue impostazioni predefinite, a meno che le istruzioni contenute in questa guida non consiglino il contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093834Z" creationid="valter" creationdate="20211016T093834Z">
@@ -2700,6 +2716,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102053Z" creationid="valter" creationdate="20240928T102053Z">
         <seg>Configurazione e personalizzazione di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Several extensions have been integrated into the &lt;f2&gt;software&lt;/f2&gt;, along with additional extensions obtained from the official extensions repository, &lt;a3&gt;https://extensions.libreoffice.org/&lt;/a3&gt; or from other sources.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T153257Z" creationid="valter" creationdate="20240928T153257Z">
+        <seg>Varie estensioni sono state integrate all'interno del &lt;f2&gt;software&lt;/f2&gt;, insieme con estensioni aggiuntive acquisite dal deposito ufficiale delle estensioni (&lt;a3&gt;https://extensions.libreoffice.org/&lt;/a3&gt;) o da altre fonti.</seg>
       </tuv>
     </tu>
     <tu>
