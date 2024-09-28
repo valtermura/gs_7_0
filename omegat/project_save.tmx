@@ -2680,6 +2680,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Chapter 13, Customizing LibreOffice, for more information on installing extensions.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T153400Z" creationid="valter" creationdate="20240928T153400Z">
+        <seg>Per ulteriori informazioni su come installare le estensioni, consultare il capitolo 13, Personalizzazione di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the Advanced Options in Chapter 12, Configuring LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133239Z" creationid="valter" creationdate="20240928T133239Z">
@@ -3156,6 +3164,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T103310Z" creationid="valter" creationdate="20240928T103310Z">
         <seg>Questa guida introduce i moduli principali di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This user guide, the LibreOffice module user guides, Help system, and user support systems assume that users are familiar with computers and basic functions such as starting a program, opening and saving files.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T153648Z" creationid="valter" creationdate="20240928T153648Z">
+        <seg>Questa guida, le guide sui moduli di LibreOffice, il sistema di aiuto integrato e i sistemi di assistenza agli utilizzatori presuppongono che gli utenti possiedano un minimo di familiarità col computer e le sue funzioni basilari, quali l'avvio di un programma, l'apertura e il salvataggio di file.</seg>
       </tuv>
     </tu>
     <tu>
