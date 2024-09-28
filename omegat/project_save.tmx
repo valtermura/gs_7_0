@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;Also &lt;f1&gt;Extended Tips&lt;/f1&gt; can be activated by going to &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f2&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; General&lt;/f3&gt;) on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T160131Z" creationid="valter" creationdate="20240928T155837Z">
+        <seg>&lt;/f0&gt;La &lt;f1&gt;Guida attiva&lt;/f1&gt; è attivabile anche da &lt;f2&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f2&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferenze &gt; LibreOffice &gt; Generale&lt;/f3&gt;) nella barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T103454Z" creationid="valter" creationdate="20211016T103454Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191643Z" creationid="valter" creationdate="20211115T191643Z">
         <seg>&lt;f2&gt;La &lt;/f2&gt;&lt;f3&gt;localizzazione prosegue spedita per più di altre 30&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;+ lingue (50-80%) e per altre 50+ lingue l'aiuto è più che benvenuto.&lt;/f5&gt; &lt;f6&gt;In aggiunta&lt;/f6&gt;, sono disponibili più di 70 dizionari di correzione ortografica, sillabazione e sinonimi &lt;f7&gt;&lt;/f7&gt;per le lingue e anche per i dialetti per i quali non è ancora disponibile un'interfaccia localizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f4&gt;Extended Tips&lt;/f4&gt; provide a brief description about tools and commands.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T155936Z" creationid="valter" creationdate="20240928T155936Z">
+        <seg>La &lt;emph&gt;guida attiva&lt;/emph&gt; offre una breve descrizione dei pulsanti e dei comandi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,6 +1202,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T132359Z" creationid="valter" creationdate="20240928T132359Z">
         <seg>Per un elenco dettagliato dei requisiti e dei sistemi operativi supportati, consultare il sito web di LibreOffice, &lt;a0&gt;https://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a more detailed explanation, select &lt;f0&gt;Help &gt; What's This?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T155649Z" creationid="valter" creationdate="20240928T155649Z">
+        <seg>Per una spiegazione più dettagliata, selezionare &lt;f0&gt;Aiuto &gt; Cos'è questo?</seg>
       </tuv>
     </tu>
     <tu>
