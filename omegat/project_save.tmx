@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;https://wiki.documentfoundation.org/Faq&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165206Z" creationid="valter" creationdate="20240928T165206Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;https://wiki.documentfoundation.org/Faq/it&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f2&gt;with&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100841Z" creationid="valter" creationdate="20211016T100841Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185051Z" creationid="valter" creationdate="20211115T185051Z">
         <seg>&lt;/f6&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;per esempio, la People Gallery,&lt;/f9&gt; &lt;a10&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a1&gt;https://community.documentfoundation.org/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165453Z" creationid="valter" creationdate="20240928T165453Z">
+        <seg>&lt;a1&gt;https://community.documentfoundation.org/&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1410,6 +1426,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180812Z" creationid="valter" creationdate="20211115T180812Z">
         <seg>L'assistenza gratuita della comunità è offerto in un servizio web nel formato Question &amp; Answer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free community discussions on general topics on LibreOffice and its community activities.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165414Z" creationid="valter" creationdate="20240928T165414Z">
+        <seg>Discussioni aperte su argomenti generali riguardo LibreOffice e le attività della comunità.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,8 +2974,8 @@
       <tuv lang="en-US">
         <seg>Search similar topics or open a new one in</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T180943Z" creationid="valter" creationdate="20211115T180943Z">
-        <seg>Potete ricercare argomenti simili o aprirne uno nuovo in</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165523Z" creationid="valter" creationdate="20211115T180943Z">
+        <seg>È possibile ricercare argomenti simili o aprirne uno nuovo in</seg>
       </tuv>
     </tu>
     <tu>
@@ -4121,6 +4145,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185758Z" creationid="valter" creationdate="20211115T185758Z">
         <seg>interfaccia utente, parti della</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍&lt;f0&gt;Community Forum&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165230Z" creationid="valter" creationdate="20240928T165230Z">
+        <seg>‍&lt;f0&gt;Forum della comunità&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
