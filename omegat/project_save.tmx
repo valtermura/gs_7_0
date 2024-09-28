@@ -2699,8 +2699,16 @@
       <tuv lang="en-US">
         <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar to open the dialog for general options.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T171646Z" creationid="valter" creationdate="20240928T171646Z">
-        <seg>Su sistemi operativi Linux e Windows, andare a &lt;f0&gt;Strumenti &gt; Opzioni &gt;LibreOffice &gt; Generale&lt;/f0&gt;, nella barra dei menu, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T171820Z" creationid="valter" creationdate="20240928T171646Z">
+        <seg>Sui sistemi operativi Linux e Windows, andare a &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt;, nella barra dei menu, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar to open the dialog for general options.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T171800Z" creationid="valter" creationdate="20240928T171800Z">
+        <seg>Sul sistema operativo Mac, andare a &lt;f0&gt;LibreOffice &gt; Preferenze &gt; LibreOffice &gt; Generale&lt;/f0&gt;, sulla barra dei menu, per aprire la finestra di dialogo delle opzioni generali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3146,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20211118T185455Z" creationid="calem" creationdate="20211118T185455Z">
         <seg>[fuzzy]&lt;f0&gt;Selezionate &lt;/f0&gt;&lt;f1&gt;Interruzione riga&lt;/f1&gt; oppure &lt;f2&gt;Interruzione colonna&lt;/f2&gt;&lt;f3&gt; in base alle vostre necessità.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Use LibreOffice&lt;/f0&gt; dialogs in &lt;f1&gt;Open/Save dialogs&lt;/f1&gt; to display the LibreOffice dialogs on a computer display, as shown in Figure &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T172129Z" creationid="valter" creationdate="20240928T172129Z">
+        <seg>Selezionare &lt;f0&gt;Usa finestre di dialogo di LibreOffice&lt;/f0&gt; nella sezione &lt;f1&gt;Finestre di dialogo apri/salva&lt;/f1&gt; in modo da visualizzare le finestre di dialogo di LibreOffice nel monitor del computer, come mostrato in Figura &lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
