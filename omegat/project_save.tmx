@@ -1919,6 +1919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Icon Size&lt;/f0&gt;, select the required size from the drop-down lists for &lt;f1&gt;Toolbar&lt;/f1&gt;, &lt;f2&gt;Notebookbar&lt;/f2&gt; and &lt;f3&gt;Sidebar,&lt;/f3&gt; as shown in Figure &lt;t4&gt;2&lt;/t4&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T181409Z" creationid="valter" creationdate="20240928T181409Z">
+        <seg>Nella sezione &lt;f0&gt;Dimensione icone&lt;/f0&gt;, selezionare la dimensione desiderata dagli elenchi a tendina per la &lt;f1&gt;Barra degli strumenti&lt;/f1&gt;, la &lt;f2&gt;Barra notebook&lt;/f2&gt; e la &lt;f3&gt;Barra laterale,&lt;/f3&gt; come mostrato in Figura &lt;t4&gt;2&lt;/t4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In &lt;f0&gt;Icon Style&lt;/f0&gt;, select a font from the options available in the drop-down list as shown in Figure &lt;t1&gt;2&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T181216Z" creationid="valter" creationdate="20240928T181216Z">
@@ -3318,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some Linux operating systems, for example Ubuntu, include LibreOffice as part of the installation and may not include the required icon set.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T181458Z" creationid="valter" creationdate="20240928T181458Z">
+        <seg>Alcuni sistemi operativi Linux, per esempio Ubuntu, includono LibreOffice come parte dell'installazione e potrebbero non includere il gruppo di icone desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and the document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190422Z" creationid="valter" creationdate="20211115T190422Z">
@@ -3770,6 +3786,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T100242Z" creationid="valter" creationdate="20240928T100242Z">
         <seg>Questo documento può essere distribuito e/o modificato rispettando i termini della GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versione 4.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This icon set can be downloaded from the software repository for the Linux operating system being used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T181628Z" creationid="valter" creationdate="20240928T181628Z">
+        <seg>Sarà possibile scaricare tale gruppo di icone dal repository software della propria distribuzione Linux.</seg>
       </tuv>
     </tu>
     <tu>
