@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amanda Labby, Andrew Jensen, Cathy Crumbley, Dan Lewis, Dave Barton, Jean Hollis Weber, Jorge Rodriguez, Kees Kriek ,Leo Moons, Olivier Hallot, Paul Figueiredo, Peter, &lt;f0&gt;S&lt;/f0&gt;chofield, Simon Quigley, Steve Fanning, Valerii Goncharuk, Vlada Savitskaya, Rob Thornton.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T100411Z" creationid="valter" creationdate="20240928T100411Z">
+        <seg>Amanda Labby, Andrew Jensen, Cathy Crumbley, Dan Lewis, Dave Barton, Jean Hollis Weber, Jorge Rodriguez, Kees Kriek ,Leo Moons, Olivier Hallot, Paul Figueiredo, Peter, &lt;f0&gt;S&lt;/f0&gt;chofield, Simon Quigley, Steve Fanning, Valerii Goncharuk, Vlada Savitskaya, Rob Thornton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An example of this type is the Find &amp; Replace dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190425Z" creationid="valter" creationdate="20211115T190425Z">
@@ -786,6 +794,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185352Z" creationid="valter" creationdate="20211115T185352Z">
         <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Emails sent to the Forum are moderated.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T100828Z" creationid="valter" creationdate="20240928T100828Z">
+        <seg>I messaggi di posta elettronica inviati al forum sono moderati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Everything sent to a forum, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T100804Z" creationid="valter" creationdate="20240928T100804Z">
+        <seg>Qualsiasi cosa sarà inviato a un forum, inclusi gli indirizzi di posta elettronica e qualsiasi altra informazione personale presente all'interno del messaggio, sarà archiviata pubblicamente e non potrà essere eliminata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1830,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please direct any comments, or suggestions, about this document to the Documentation Team Forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required), or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T100630Z" creationid="valter" creationdate="20240928T100630Z">
+        <seg>Per commenti o suggerimenti su questo documento rivolgersi al Documentation Team Forum all'indirizzo &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (è necessario registrarsi), oppure inviare un messaggio di posta elettronica a: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091629Z" creationid="valter" creationdate="20211016T091629Z">
@@ -1858,6 +1890,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102833Z" creationid="valter" creationdate="20211016T102833Z">
         <seg>Pubblicato nel &lt;f0&gt;febbraio&lt;/f0&gt; &lt;t1&gt;2021&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Published &lt;ud0&gt;August&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;2024&lt;/ud2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T100917Z" creationid="valter" creationdate="20240928T100917Z">
+        <seg>Pubblicato nell'&lt;ud0&gt;agosto&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;2024&lt;/ud2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
