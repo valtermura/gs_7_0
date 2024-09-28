@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extensive language support</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114156Z" creationid="valter" creationdate="20240928T114156Z">
+        <seg>Ampio supporto linguistico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>F11</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185559Z" creationid="valter" creationdate="20211115T185559Z">
@@ -1814,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice also provides support for both Complex Text Layout (CTL) and Right to Left (RTL) layout languages (such as Urdu, Hebrew, and Arabic).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114544Z" creationid="valter" creationdate="20240928T114544Z">
+        <seg>LibreOffice offre anche supporto sia per le lingue con disposizione di testo complesso (CTL), sia per lingue con scrittura da destra a sinistra (RTL), quali Urdu, Ebraico e Arabo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice can also open and save documents in many other formats, including those used by several versions of Microsoft Office.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193548Z" creationid="valter" creationdate="20211115T193548Z">
@@ -2570,6 +2586,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T175151Z" creationid="valter" creationdate="20211115T175151Z">
         <seg>La comunità di LibreOffice non sviluppa solo il software, ma offre anche un servizio di supporto gratuito fornito da volontari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LibreOffice user interface, including spelling, hyphenation, and thesaurus dictionaries, is available in over 100 languages and dialects.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114439Z" creationid="valter" creationdate="20240928T114439Z">
+        <seg>L'interfaccia utente di LibreOffice, inclusi correttori ortografici, sillabazione e dizionari dei sinonimi, è disponibile in oltre 100 lingue e dialetti.</seg>
       </tuv>
     </tu>
     <tu>
