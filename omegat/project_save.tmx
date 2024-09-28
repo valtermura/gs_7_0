@@ -911,6 +911,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change the icon set used in a LibreOffice installation as follows:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T180732Z" creationid="valter" creationdate="20240928T180732Z">
+        <seg>È possibile cambiare il gruppo di icone utilizzate in una installazione di LibreOffice in questo modo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 5 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T100301Z" creationid="akurery" creationdate="20211121T100301Z">
