@@ -4471,6 +4471,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why is Java required to run LibreOffice?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T215521Z" creationid="valter" creationdate="20240928T215521Z">
+        <seg>Perché è necessario avere Java per poter avviare LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wildcards</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191327Z" creationid="akurery" creationdate="20211211T191327Z">
@@ -4563,6 +4571,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193252Z" creationid="valter" creationdate="20211115T193252Z">
         <seg>Sì, fintantoché vengono rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa Guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, but follow the parameters set in the MPL and/or LGPL.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T215454Z" creationid="valter" creationdate="20240928T215454Z">
+        <seg>Sì, ma in conformità con i limiti della licenza MPL e/o LGPL.</seg>
       </tuv>
     </tu>
     <tu>
