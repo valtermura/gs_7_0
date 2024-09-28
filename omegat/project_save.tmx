@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, Writer can save files in many &lt;f0&gt;other&lt;/f0&gt; formats, including several versions of Microsoft Word files and connect to the email application being used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T104715Z" creationid="valter" creationdate="20240928T104715Z">
+        <seg>Inoltre, Writer è in grado di salvare i file in molti &lt;f0&gt;altri&lt;/f0&gt; formati, inclusi i file nelle varie versioni di Microsoft Word, e collegarsi all'applicazione di posta elettronica in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182653Z" creationid="valter" creationdate="20211115T182653Z">
@@ -1240,8 +1248,8 @@
       <tuv lang="en-US">
         <seg>However, LibreOffice can also open and save documents in many other formats, including those used by several versions of Microsoft Office.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T104143Z" creationid="valter" creationdate="20240928T104143Z">
-        <seg>Inoltre, LibreOffice è anche in grado di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T104509Z" creationid="valter" creationdate="20240928T104143Z">
+        <seg>LibreOffice è anche in grado, tuttavia, di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1514,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195558Z" creationid="valter" creationdate="20211115T195558Z">
         <seg>Base rende possibile creare e modificare formulari, rapporti, query, tabelle, viste e relazioni, in modo da poter gestire un database relazionale esattamente come con i più comuni applicativi per la gestione di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It includes over 500 functions for financial, statistical, and mathematical operations, among others.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T104738Z" creationid="valter" creationdate="20240928T104738Z">
+        <seg>Dispone, tra l'altro, di oltre 500 funzioni per calcoli finanziari, statistici e matematici.</seg>
       </tuv>
     </tu>
     <tu>
