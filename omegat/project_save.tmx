@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>About LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163946Z" creationid="valter" creationdate="20240928T163946Z">
+        <seg>Informazioni su LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185429Z" creationid="valter" creationdate="20211115T185429Z">
@@ -858,6 +866,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T143050Z" creationid="Elisabetta Manuele" creationdate="20211110T143050Z">
         <seg>Capitolo &lt;f0&gt;6&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check for Updates</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163727Z" creationid="valter" creationdate="20240928T163727Z">
+        <seg>Controlla aggiornamenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2280,6 +2296,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>License Information</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163636Z" creationid="valter" creationdate="20240928T163636Z">
+        <seg>Informazioni sulla licenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linux users will also find LibreOffice included free in many of the latest distributions.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133431Z" creationid="valter" creationdate="20240928T133431Z">
@@ -2584,6 +2608,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens a dialog and checks the LibreOffice website for updates to &lt;f0&gt;the software &lt;/f0&gt;version.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163829Z" creationid="valter" creationdate="20240928T163829Z">
+        <seg>Apre una finestra di dialogo e controlla il sito web di LibreOffice alla ricerca di aggiornamenti della versione installata del &lt;f0&gt;software&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens a dialog and displays information about the &lt;f0&gt;LibreOffice &lt;/f0&gt;version and operating system being used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T164106Z" creationid="valter" creationdate="20240928T164106Z">
+        <seg>Apre una finestra di dialogo che mostra informazioni sulla versione installata di &lt;f0&gt;LibreOffice&lt;/f0&gt; e il sistema operativo in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens a dialog window giving options to restart LibreOffice and &lt;f0&gt;performs&lt;/f0&gt;&lt;f1&gt; several diagnostics in an eventual &lt;/f1&gt;&lt;f2&gt;misbehavior&lt;/f2&gt;&lt;f3&gt; of your installation.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T162741Z" creationid="valter" creationdate="20240928T162741Z">
@@ -2672,6 +2712,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101039Z" creationid="valter" creationdate="20240928T101039Z">
         <seg>Le altre versioni di LibreOffice potrebbero essere diverse in aspetto e funzionalità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outlines the licenses under which LibreOffice is made available.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163656Z" creationid="valter" creationdate="20240928T163656Z">
+        <seg>Delinea le licenze sotto cui viene reso disponibile LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,6 +3224,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193850Z" creationid="valter" creationdate="20211115T193850Z">
         <seg>Il Gestore di scenari fornisce analisi del tipo "what if" (cosa succede se).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The dialog provides an opportunity to download and install any updates to LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163921Z" creationid="valter" creationdate="20240928T163921Z">
+        <seg>La finestra di dialogo offre l'opportunità di scaricare e installare qualsiasi aggiornamento di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
