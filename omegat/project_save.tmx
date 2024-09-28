@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Answers to frequently asked questions&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165103Z" creationid="valter" creationdate="20240928T165103Z">
+        <seg>Risposte alle Domande frequenti&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this &lt;f0&gt;Getting Started Guide&lt;/f0&gt; valuable.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091925Z" creationid="valter" creationdate="20211016T091925Z">
@@ -2716,6 +2724,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other user websites also offer free tips and tutorials.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T164821Z" creationid="valter" creationdate="20240928T164821Z">
+        <seg>Anche altri siti web gestiti da utenti offrono gratuitamente consigli ed esercitazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101039Z" creationid="valter" creationdate="20240928T101039Z">
@@ -3161,6 +3177,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190201Z" creationid="valter" creationdate="20211115T190201Z">
         <seg>Pagina a schede (non un controllo in senso stretto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T164921Z" creationid="valter" creationdate="20240928T164921Z">
+        <seg>Tabella &lt;seq0&gt;1&lt;/seq0&gt;: assistenza gratuita per gli utenti di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
