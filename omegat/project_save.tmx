@@ -311,6 +311,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;requires macOS 10.15 or newer to run.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212247Z" creationid="valter" creationdate="20240928T212247Z">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;richiede macOS 10.15, o versione più recente, per essere eseguito.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;License Information&lt;/f0&gt; Outlines the licenses under which LibreOffice is made available.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T172607Z" creationid="valter" creationdate="20211115T172607Z">
@@ -1415,6 +1423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a more detailed list, see the application help.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212409Z" creationid="valter" creationdate="20240928T212409Z">
+        <seg>Per un elenco più dettagliato, vedere la Guida dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For comprehensive online support from the community, look at mailing lists and the Ask LibreOffice website, &lt;a2&gt;https://ask.libreoffice.org/en/questions/&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T164725Z" creationid="valter" creationdate="20240928T164725Z">
@@ -1427,6 +1443,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115136Z" creationid="valter" creationdate="20240928T115136Z">
         <seg>A titolo di esempio, aprire un file Draw da Writer e il modulo Draw si aprirà automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the People Gallery is available from &lt;a1&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212146Z" creationid="valter" creationdate="20240928T212146Z">
+        <seg>Per esempio, la galleria People è disponibile in &lt;a1&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3358,6 +3382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some of the previously included icon sets are now available only as extensions; see &lt;a0&gt;https://extensions.libreoffice.org/?Tags%5B%5D=49&lt;/a0&gt; or search for specific ones.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212043Z" creationid="valter" creationdate="20240928T212043Z">
+        <seg>Alcuni dei gruppi di icone precedentemente inclusi sono ora disponibili soltanto come estensioni; vedere &lt;a0&gt;https://extensions.libreoffice.org/?Tags%5B%5D=49&lt;/a0&gt; oppure eseguire una ricerca per gruppi specifici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some settings are intended for power users and programmers.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152501Z" creationid="valter" creationdate="20240928T152501Z">
@@ -3426,6 +3458,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T164921Z" creationid="valter" creationdate="20240928T164921Z">
         <seg>Tabella &lt;seq0&gt;1&lt;/seq0&gt;: assistenza gratuita per gli utenti di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;t0&gt;2&lt;/t0&gt; below gives some common substitutions for the instructions in this user guide.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212337Z" creationid="valter" creationdate="20240928T212337Z">
+        <seg>La tabella &lt;t0&gt;2&lt;/t0&gt; che segue fornisce alcune sostituzioni comuni per le istruzioni di questa guida.</seg>
       </tuv>
     </tu>
     <tu>
