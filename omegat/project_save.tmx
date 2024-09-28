@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the offline help is not installed on a computer, but connected to the Internet, a dialog opens giving the option to &lt;f2&gt;Read Help Online&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T154947Z" creationid="valter" creationdate="20240928T154947Z">
+        <seg>Se la guida integrata non è installata sul computer ma si è collegati a Internet, si apre una finestra di dialogo che offre l'opzione &lt;f2&gt;Leggi la guida in linea&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093834Z" creationid="valter" creationdate="20211016T093834Z">
@@ -2408,6 +2416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Offline Help is installed with the MacOS version of LibreOffice &lt;f0&gt;by default&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T154301Z" creationid="valter" creationdate="20240928T154301Z">
+        <seg>La Guida integrata viene installata &lt;f0&gt;in modo predefinito&lt;/f0&gt; con la versione macOS di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Olivier Hallot</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101837Z" creationid="valter" creationdate="20211016T101837Z">
@@ -3212,6 +3228,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T183011Z" creationid="valter" creationdate="20211115T183011Z">
         <seg>Per cambiare il modo di utilizzo, andate a &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionate o deselezionate l'opzione &lt;f1&gt;Usa finestre di dialogo di LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To display LibreOffice Help, press &lt;f0&gt;F1&lt;/f0&gt; or go to &lt;f1&gt;Help &gt; LibreOffice Help&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T154428Z" creationid="valter" creationdate="20240928T154428Z">
+        <seg>Per visualizzare la Guida di LibreOffice, premere &lt;f0&gt;F1&lt;/f0&gt; o andare a &lt;f1&gt;Aiuto &gt; Guida di LibreOffice&lt;/f1&gt; nella barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
