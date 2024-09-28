@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see Appendix B, Open Source, Open Standards, OpenDocument.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T104230Z" creationid="valter" creationdate="20240928T104230Z">
+        <seg>Per ulteriori informazioni, vedere l'Appendice B, Open Source, Open Standard, OpenDocument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formula syntax</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191340Z" creationid="akurery" creationdate="20211211T191340Z">
@@ -1158,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Graphics and objects from other LibreOffice modules can be inserted into Writer documents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T104336Z" creationid="valter" creationdate="20240928T104336Z">
+        <seg>È possibile inserire grafici e oggetti di altri moduli LibreOffice nei documenti Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hazel Russman</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101846Z" creationid="valter" creationdate="20211016T101846Z">
@@ -1218,6 +1234,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101954Z" creationid="valter" creationdate="20240928T101954Z">
         <seg>Come ottenere LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, LibreOffice can also open and save documents in many other formats, including those used by several versions of Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T104143Z" creationid="valter" creationdate="20240928T104143Z">
+        <seg>Inoltre, LibreOffice è anche in grado di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,10 +2910,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer can export files to HTML, XHTML, XML, Portable Document Format (PDF), and EPUB.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T104443Z" creationid="valter" creationdate="20240928T104443Z">
+        <seg>Con Writer è possibile esportare file in formato HTML, XHTML, XML, Portable Document Format (PDF) e EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer is a feature-rich tool for creating letters, books, reports, newsletters, brochures, and other documents.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T193624Z" creationid="valter" creationdate="20211115T193624Z">
-        <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, depliant e altri documenti.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T104250Z" creationid="valter" creationdate="20211115T193624Z">
+        <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, dépliant e altri documenti.</seg>
       </tuv>
     </tu>
     <tu>
