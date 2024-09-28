@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File compatibility</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115341Z" creationid="valter" creationdate="20240928T115341Z">
+        <seg>Compatibilità tra file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Florian Reisinger</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101859Z" creationid="valter" creationdate="20211016T101859Z">
@@ -1130,6 +1138,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185335Z" creationid="valter" creationdate="20211115T185335Z">
         <seg>Per un elenco più dettagliato, vedere la Guida in linea dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, open a Draw file from Writer and this will open Draw automatically.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115136Z" creationid="valter" creationdate="20240928T115136Z">
+        <seg>A titolo di esempio, aprire un file Draw da Writer e il modulo Draw si aprirà automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Granularity</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115152Z" creationid="valter" creationdate="20240928T115152Z">
+        <seg>Granularità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Graphics and objects from other LibreOffice modules can be inserted into Writer documents.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104336Z" creationid="valter" creationdate="20240928T104336Z">
@@ -1370,6 +1394,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104509Z" creationid="valter" creationdate="20240928T104143Z">
         <seg>LibreOffice è anche in grado, tuttavia, di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, LibreOffice options can be set at a module level or even at document level.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115316Z" creationid="valter" creationdate="20240928T115316Z">
+        <seg>In ogni caso, le opzioni di LibreOffice possono essere configurate a livello di modulo o addirittura a livello di singolo documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1538,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20211118T190839Z" creationid="calem" creationdate="20211118T190839Z">
         <seg>In Windows o Linux, accedete a Strumenti&amp;gt; Opzioni&amp;gt; LibreOffice Impress&amp;gt; Generale nella barra dei menu e deselezionate l'opzione Inizia con la selezione del modello nell'area Nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to its native Open Document Formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115553Z" creationid="valter" creationdate="20240928T115553Z">
+        <seg>Oltre ai propri formati nativi Open Document, LibreOffice include il supporto per l'apertura e il salvataggio dei file in molti formati comuni, inclusi Microsoft Office, HTML, XML, WordPerfect e Lotus 1-2-3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2766,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is no need to know which application was used to create a particular file.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115038Z" creationid="valter" creationdate="20240928T115038Z">
+        <seg>Non è necessario sapere quale applicazione è stata utilizzata per creare un particolare file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There you can choose a topic of interest to help improve the program.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T105215Z" creationid="valter" creationdate="20211016T105215Z">
@@ -2962,6 +3010,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211109T192301Z" creationid="Elisabetta Manuele" creationdate="20211109T192301Z">
         <seg>Utilizzo degli strumenti per la lingua integrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usually, if you change an option, it affects all modules.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115220Z" creationid="valter" creationdate="20240928T115220Z">
+        <seg>Di solito, la modifica di un'opzione si riflette su tutti i moduli.</seg>
       </tuv>
     </tu>
     <tu>
