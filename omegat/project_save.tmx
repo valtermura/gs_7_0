@@ -1685,6 +1685,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>VM: da cambiare l'indirizzo nel documento	</note>
+      <tuv lang="en-US">
+        <seg>Information on installing LibreOffice on the various supported operating systems can be found at this web page: &lt;a0&gt;https://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T151634Z" creationid="valter" creationdate="20240928T151634Z">
+        <seg>Informazioni sull'installazione di LibreOffice nei vari sistemi operativi supportati si trovano in questa pagina web: &lt;a0&gt;https://it.libreoffice.org/supporto/installazione/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Installing LibreOffice</seg>
       </tuv>
@@ -2931,6 +2940,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T103848Z" creationid="valter" creationdate="20240928T103848Z">
         <seg>Il formato file nativo che utilizza è Open Document Format (ODF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The profits from the &lt;f5&gt;sales &lt;/f5&gt;of LibreOffice are invested &lt;f6&gt;in supporting &lt;/f6&gt;the development of the LibreOffice project.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T151343Z" creationid="valter" creationdate="20240928T151343Z">
+        <seg>I profitti derivanti dalle &lt;f5&gt;vendite&lt;/f5&gt; di LibreOffice vengono reinvestite &lt;f6&gt;nel supporto&lt;/f6&gt; dello sviluppo del progetto LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
