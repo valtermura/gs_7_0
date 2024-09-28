@@ -623,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, some of the dialogs may differ because of the settings selected in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T171003Z" creationid="valter" creationdate="20240928T171003Z">
+        <seg>Inoltre, alcune delle finestre di dialogo potrebbero risultare diverse a causa delle impostazioni selezionate in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, the User Guides are available in PDF format as a free download or to buy as printed copies.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160934Z" creationid="valter" creationdate="20240928T160934Z">
@@ -1199,6 +1207,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Either use dialogs from the computer system (default), or dialogs provided by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T171447Z" creationid="valter" creationdate="20240928T171447Z">
+        <seg>È possibile utilizzare sia le finestre di dialogo del proprio sistema (impostazione predefinita), sia quelle fornite da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emails sent to the Forum are moderated.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T100828Z" creationid="valter" creationdate="20240928T100828Z">
@@ -1291,6 +1307,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190156Z" creationid="valter" creationdate="20211115T190156Z">
         <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: finestra di dialogo con i controlli più comuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Options LibreOffice General dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T170623Z" creationid="valter" creationdate="20240928T170623Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: finestra di dialogo Generale delle Opzioni di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -2361,6 +2385,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice runs on &lt;f0&gt;the&lt;/f0&gt; Windows, Linux, and macOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T170805Z" creationid="valter" creationdate="20240928T170805Z">
+        <seg>LibreOffice funziona &lt;f0&gt;sui&lt;/f0&gt; sistemi operativi Windows, Linux e macOS, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice runs on Windows, Linux, and macOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182551Z" creationid="valter" creationdate="20211115T182551Z">
@@ -2785,6 +2817,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163304Z" creationid="valter" creationdate="20240928T163304Z">
         <seg>Apre il browser predefinito alla pagina Partecipa del sito web di LibreOffice (&lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options LibreOffice General dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T170633Z" creationid="valter" creationdate="20240928T170633Z">
+        <seg>Finestra di dialogo Generale delle Opzioni di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,6 +3570,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T104124Z" creationid="valter" creationdate="20211016T104124Z">
         <seg>Qui sono presenti copie delle Guide utente e altre informazioni utili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, some illustrations will not look exactly like what is seen on a computer display.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T170918Z" creationid="valter" creationdate="20240928T170918Z">
+        <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle visualizzate sul monitor del proprio computer.</seg>
       </tuv>
     </tu>
     <tu>
