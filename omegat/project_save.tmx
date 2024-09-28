@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101136Z" creationid="valter" creationdate="20240928T101136Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101311Z" creationid="valter" creationdate="20240928T101311Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f2&gt;with&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100841Z" creationid="valter" creationdate="20211016T100841Z">
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102840Z" creationid="valter" creationdate="20211016T102840Z">
         <seg>Basato su LibreOffice &lt;ud2&gt;7.0&lt;/ud2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on LibreOffice &lt;ud3&gt;24.8&lt;/ud3&gt;&lt;s4/&gt;Community.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T100940Z" creationid="valter" creationdate="20240928T100940Z">
+        <seg>Basato su LibreOffice &lt;ud3&gt;24.8&lt;/ud3&gt;&lt;s4/&gt;Community.&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1822,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101039Z" creationid="valter" creationdate="20240928T101039Z">
+        <seg>Le altre versioni di LibreOffice potrebbero essere diverse in aspetto e funzionalità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182105Z" creationid="valter" creationdate="20211115T182105Z">
@@ -2526,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is in this user guide?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101340Z" creationid="valter" creationdate="20240928T101340Z">
+        <seg>Che cosa si trova in questa guida?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What you see may be different</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182410Z" creationid="valter" creationdate="20211115T182410Z">
@@ -2570,6 +2610,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092009Z" creationid="valter" creationdate="20211016T091754Z">
         <seg>Destinatari della guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who is this user guide for?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101300Z" creationid="valter" creationdate="20240928T101300Z">
+        <seg>A chi è rivolta questa guida?</seg>
       </tuv>
     </tu>
     <tu>
