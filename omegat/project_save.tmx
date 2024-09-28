@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After installation, to change the default settings (options) in LibreOffice to suit working requirements and preferences, go to &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on the Menu bar (&lt;f1&gt;LibreOffice &gt; Preferences&lt;/f1&gt; in macOS).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T152238Z" creationid="valter" creationdate="20240928T152238Z">
+        <seg>Dopo aver eseguito l'installazione, per cambiare le impostazioni predefinite (opzioni) in LibreOffice in modo da soddisfare le proprie esigenze e preferenze, andare a &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt; nella barra dei menu (&lt;f1&gt;LibreOffice &gt; Preferenze&lt;/f1&gt; in macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt; users have a voice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T120008Z" creationid="valter" creationdate="20240928T120008Z">
@@ -3300,6 +3308,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092027Z" creationid="valter" creationdate="20211016T092027Z">
         <seg>Contenuto della guida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When LibreOffice is acquired through official app stores, follow the installation instructions provided by the store.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T151749Z" creationid="valter" creationdate="20240928T151749Z">
+        <seg>Quando LibreOffice viene scaricato attraverso gli app store ufficiali, seguire le istruzioni per l'installazione fornite dallo store.</seg>
       </tuv>
     </tu>
     <tu>
