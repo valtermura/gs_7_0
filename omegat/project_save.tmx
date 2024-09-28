@@ -1007,6 +1007,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can the programming code from LibreOffice be used when developing a software application?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T215429Z" creationid="valter" creationdate="20240928T215429Z">
+        <seg>Il codice di programmazione di LibreOffice può essere utilizzato quando si sviluppa un'applicazione software?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cathy Crumbley</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101831Z" creationid="valter" creationdate="20211016T101831Z">
@@ -1855,6 +1863,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How can LibreOffice be freely available?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T215034Z" creationid="valter" creationdate="20240928T215034Z">
+        <seg>Com'è possibile che LibreOffice sia gratuito?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can you make it for free?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191718Z" creationid="valter" creationdate="20211115T191718Z">
@@ -2525,6 +2541,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114544Z" creationid="valter" creationdate="20240928T114544Z">
         <seg>LibreOffice offre anche supporto sia per le lingue con disposizione di testo complesso (CTL), sia per lingue con scrittura da destra a sinistra (RTL), quali Urdu, Ebraico e Arabo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice also relies upon donations from its users.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T215155Z" creationid="valter" creationdate="20240928T215155Z">
+        <seg>LibreOffice conta anche sulle donazioni da parte dei suoi utenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4186,6 +4210,15 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093552Z" creationid="valter" creationdate="20211016T093552Z">
         <seg>Per visualizzare la Guida in linea, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; &lt;f2&gt;dal&lt;/f2&gt; menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>VM: cambiare il collegamento nel documento</note>
+      <tuv lang="en-US">
+        <seg>To make a donation, go to the following web page: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T215303Z" creationid="valter" creationdate="20240928T215303Z">
+        <seg>Per fare una donazione, andare alla seguente pagina web: &lt;a0&gt;https://it.libreoffice.org/donazioni/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
