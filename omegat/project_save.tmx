@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Snap, Flatpak, Appimage &lt;/f0&gt;&lt;f1&gt;and other &lt;/f1&gt;&lt;f2&gt;packages are available as well from your distribution channel.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T132142Z" creationid="valter" creationdate="20240928T132142Z">
+        <seg>Nel proprio canale di distribuzione sono disponibili anche i pacchetti &lt;f0&gt;Snap, Flatpak, Appimage &lt;/f0&gt;&lt;f1&gt;e vari altri&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Templates included with Impress are designed to fit the two standard sizes of presentation slides: 4:3 and 16:9 ratios.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153211Z" creationid="Elisabetta Manuele" creationdate="20211111T153211Z">
@@ -1921,8 +1929,8 @@
       <tuv lang="en-US">
         <seg>LibreOffice &lt;ud0&gt;24.8&lt;/ud0&gt;&lt;s1/&gt;requires one of the following operating systems:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T131836Z" creationid="valter" creationdate="20240928T120503Z">
-        <seg>LibreOffice ud0&gt;24.8&lt;/ud0&gt;&lt;s1/&gt;richiede uno dei seguenti sistemi operativi:</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T131914Z" creationid="valter" creationdate="20240928T120503Z">
+        <seg>LibreOffice &lt;ud0&gt;24.8&lt;/ud0&gt;&lt;s1/&gt;richiede uno dei seguenti sistemi operativi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,6 +2067,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191504Z" creationid="akurery" creationdate="20211211T191504Z">
         <seg>LibreOffice tradurrà senza problemi l'una nell'altra. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linux x64 (deb) and Linux x64 (rpm).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T131853Z" creationid="valter" creationdate="20240928T131853Z">
+        <seg>Linux x64 (deb) e Linux x64 (rpm).</seg>
       </tuv>
     </tu>
     <tu>
