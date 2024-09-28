@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From this page, bugs can be reported, new features suggested and communicated with other users in the LibreOffice community.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T162409Z" creationid="valter" creationdate="20240928T162409Z">
+        <seg>Da questa pagina è possibile segnalare errori, proporre nuove funzionalità e comunicare con altri utenti della comunità di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Frédéric Parrenin</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101903Z" creationid="valter" creationdate="20211016T101903Z">
@@ -2552,6 +2560,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens a dialog window giving options to restart LibreOffice and &lt;f0&gt;performs&lt;/f0&gt;&lt;f1&gt; several diagnostics in an eventual &lt;/f1&gt;&lt;f2&gt;misbehavior&lt;/f2&gt;&lt;f3&gt; of your installation.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T162741Z" creationid="valter" creationdate="20240928T162741Z">
+        <seg>Apre una finestra di dialogo che fornisce opzioni per il riavvio di LibreOffice ed &lt;f0&gt;esegue&lt;/f0&gt; &lt;f1&gt;varie diagnostiche alla ricerca di eventuali &lt;/f1&gt;&lt;f2&gt;comportamenti inattesi&lt;/f2&gt;&lt;f3&gt; del programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens a small window with a random tip on how to use LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161042Z" creationid="valter" creationdate="20240928T161042Z">
@@ -2758,6 +2774,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101854Z" creationid="valter" creationdate="20211016T101854Z">
         <seg>Regina Henschel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restart in Safe Mode</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T162447Z" creationid="valter" creationdate="20240928T162447Z">
+        <seg>Riavvia in modalità sicura</seg>
       </tuv>
     </tu>
     <tu>
