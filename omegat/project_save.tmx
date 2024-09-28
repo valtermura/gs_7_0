@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;O&lt;/f0&gt;ther versions of LibreOffice are listed on the download page &lt;f1&gt;such as Portable, &lt;/f1&gt;&lt;f2&gt;an app&lt;/f2&gt; in the Microsoft Store and Apple Mac App Store at low and &lt;f3&gt;affordable&lt;/f3&gt; &lt;f4&gt;prices&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T151230Z" creationid="valter" creationdate="20240928T151230Z">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;ltre versioni si LibreOffice sono elencate nella pagina dei download, &lt;f1&gt;tipo la versione Portatile, &lt;/f1&gt;&lt;f2&gt;e le app&lt;/f2&gt; nel Microsoft Store e nell'Apple Mac App Store, distribuite a &lt;f3&gt;prezzi&lt;/f3&gt; &lt;f4&gt;convenienti&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Open source.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240922T213422Z" creationid="valter" creationdate="20240922T213422Z">
