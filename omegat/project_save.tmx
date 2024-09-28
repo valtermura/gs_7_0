@@ -809,8 +809,8 @@
       <tuv lang="en-US">
         <seg>As many as you like.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T190955Z" creationid="valter" creationdate="20211115T190955Z">
-        <seg>Su tutti quelli che volete.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214137Z" creationid="valter" creationdate="20211115T190955Z">
+        <seg>Su tutti quelli necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -963,6 +963,30 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095623Z" creationid="akurery" creationdate="20211121T095623Z">
         <seg>Calc è il componente per fogli elettronici di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can LibreOffice be distributed to anyone?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214013Z" creationid="valter" creationdate="20240928T214013Z">
+        <seg>È possibile distribuire LibreOffice a chiunque?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can LibreOffice be sold?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214034Z" creationid="valter" creationdate="20240928T214034Z">
+        <seg>LibreOffice può essere venduto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can LibreOffice be used in a business?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214104Z" creationid="valter" creationdate="20240928T214104Z">
+        <seg>LibreOffice può essere utilizzato a livello professionale?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1831,6 +1855,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How many computers can LibreOffice be installed on?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214129Z" creationid="valter" creationdate="20240928T214129Z">
+        <seg>Su quanti computer è possibile installare LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How many computers may I install it on?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190950Z" creationid="valter" creationdate="20211115T190950Z">
@@ -2168,6 +2200,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Is LibreOffice available in different languages?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214158Z" creationid="valter" creationdate="20240928T214158Z">
+        <seg>LibreOffice è disponibile in più lingue?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is LibreOffice available in my language?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191000Z" creationid="valter" creationdate="20211115T191000Z">
@@ -2497,6 +2537,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice has been translated (localized for more than 80%, both UI and Help) into over 46 languages, so the language required is probably supported.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214300Z" creationid="valter" creationdate="20240928T214300Z">
+        <seg>LibreOffice è stato tradotto (localizzato per più dell'80%, sia interfaccia, sia guida) in più di 46 lingue, quindi la lingua ricercata è probabilmente supportata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice includes the following components.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193613Z" creationid="valter" creationdate="20211115T193613Z">
@@ -2541,6 +2589,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190607Z" creationid="valter" creationdate="20211115T190607Z">
         <seg>LibreOffice è distribuito sotto &lt;i0/&gt;la Mozilla Public License (MPL) approvata dalla Open Source Initiative (OSI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice is distributed under the Open Source Initiative (OSI) approved Mozilla Public License (MPL).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T213929Z" creationid="valter" creationdate="20240928T213929Z">
+        <seg>LibreOffice è distribuito sotto la Mozilla Public License (MPL) approvata dalla Open Source Initiative (OSI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2621,6 +2677,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T131853Z" creationid="valter" creationdate="20240928T131853Z">
         <seg>Linux x64 (deb) e Linux x64 (rpm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Localization is well under way for another 30+ languages (50-80%) and for another 50+ languages help is more than welcome.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214427Z" creationid="valter" creationdate="20240928T214427Z">
+        <seg>La localizzazione prosegue spedita per più di altre 30 lingue (50-80%) e per altre 50+ lingue l'aiuto è più che benvenuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3313,6 +3377,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T165523Z" creationid="valter" creationdate="20211115T180943Z">
         <seg>È possibile ricercare argomenti simili o aprirne uno nuovo in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See &lt;a0&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T213959Z" creationid="valter" creationdate="20240928T213959Z">
+        <seg>Vedere &lt;a0&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
