@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose a topic of interest to help improve the program.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163327Z" creationid="valter" creationdate="20240928T163327Z">
+        <seg>Qui è possibile scegliere un argomento di interesse per aiutare a migliorare il programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Christian Kühl</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101858Z" creationid="valter" creationdate="20211016T101858Z">
@@ -1018,6 +1026,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113952Z" creationid="valter" creationdate="20240928T113952Z">
         <seg>Grazie alle licenze Open Source di LibreOffice è possibile distribuire, copiare e modificare il software in base alle proprie esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Donate to LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163348Z" creationid="valter" creationdate="20240928T163348Z">
+        <seg>Donazione a LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -1418,6 +1434,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161537Z" creationid="valter" creationdate="20240928T161537Z">
         <seg>Ottieni aiuto in linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Involved</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163051Z" creationid="valter" creationdate="20240928T163051Z">
+        <seg>Partecipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,10 +2626,28 @@
     <tu>
       <note>VM: cambiare il collegamento nel documento</note>
       <tuv lang="en-US">
+        <seg>Opens the default browser at the Donation page of the LibreOffice website, &lt;a0&gt;https://donate.libreoffice.org/&lt;/a0&gt; providing an opportunity to make a donation to support LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163630Z" creationid="valter" creationdate="20240928T163630Z">
+        <seg>Apre il browser predefinito alla pagina delle Donazioni nel sito web di LibreOffice (&lt;a0&gt;https://it.libreoffice.org/donazioni/?pk_kwd=program&lt;/a0&gt;) e offre l'opportunità di eseguire una donazione a supporto di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>VM: cambiare il collegamento nel documento</note>
+      <tuv lang="en-US">
         <seg>Opens the default browser at the Feedback page of the LibreOffice website &lt;a0&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T162133Z" creationid="valter" creationdate="20240928T162133Z">
         <seg>Apre il browser predefinito alla pagina Feedback del sito web di LibreOffice (&lt;a0&gt;https://it.libreoffice.org/supporto/feedback/&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>VM: cambiare il collegamento nel documento.</note>
+      <tuv lang="en-US">
+        <seg>Opens the default browser at the Get Involved page of the LibreOffice website, &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163304Z" creationid="valter" creationdate="20240928T163304Z">
+        <seg>Apre il browser predefinito alla pagina Partecipa del sito web di LibreOffice (&lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
