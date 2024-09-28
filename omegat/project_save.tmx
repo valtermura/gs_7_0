@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For comprehensive online support from the community, look at mailing lists and the Ask LibreOffice website, &lt;a2&gt;https://ask.libreoffice.org/en/questions/&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T164725Z" creationid="valter" creationdate="20240928T164725Z">
+        <seg>Per ottenere assistenza completa in linea dalla comunità, guardare le mailing list e il sito web Ask di LibreOffice (&lt;a2&gt;https://ask.libreoffice.org/en/questions/&lt;/a2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, open a Draw file from Writer and this will open Draw automatically.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115136Z" creationid="valter" creationdate="20240928T115136Z">
@@ -2955,6 +2963,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>VM: cambiare il collegamento nel documento</note>
+      <tuv lang="en-US">
+        <seg>See Table &lt;t0&gt;1&lt;/t0&gt; and the web page &lt;a1&gt;https://www.libreoffice.org/get-help/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T164442Z" creationid="valter" creationdate="20240928T164442Z">
+        <seg>Vedere la Tabella &lt;t0&gt;1&lt;/t0&gt; e la pagina web &lt;a1&gt;http://it.libreoffice.org/supporto/&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>See the Advanced Options in Chapter 12, Configuring LibreOffice.</seg>
       </tuv>
@@ -3464,6 +3481,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T100242Z" creationid="valter" creationdate="20240928T100242Z">
         <seg>Questo documento può essere distribuito e/o modificato rispettando i termini della GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versione 4.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This information is often requested if the community is asked for help or assistance with the software (on macOS, this option is found under &lt;f1&gt;LibreOffice&lt;/f1&gt; on the Menu bar).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T164249Z" creationid="valter" creationdate="20240928T164249Z">
+        <seg>Queste informazioni sono spesso richieste se si chiede aiuto alla comunità o assistenza per il software (in macOS, questa opzione si trova sotto la voce &lt;f1&gt;LibreOffice&lt;/f1&gt; nella barra dei menu).</seg>
       </tuv>
     </tu>
     <tu>
