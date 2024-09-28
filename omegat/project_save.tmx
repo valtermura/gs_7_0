@@ -1343,6 +1343,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Options LibreOffice View dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T172602Z" creationid="valter" creationdate="20240928T172602Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: finestra di dialogo Vista delle Opzioni di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File compatibility</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115341Z" creationid="valter" creationdate="20240928T115341Z">
@@ -2865,6 +2873,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170633Z" creationid="valter" creationdate="20240928T170633Z">
         <seg>Finestra di dialogo Generale delle Opzioni di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options LibreOffice View dialog</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T172618Z" creationid="valter" creationdate="20240928T172618Z">
+        <seg>Finestra di dialogo Vista delle Opzioni di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
