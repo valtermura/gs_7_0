@@ -1845,6 +1845,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>VM: Ho usato la seconda persona plurale in questa frase perché ritengo che sia giusto utilizzarla.</note>
+      <tuv lang="en-US">
+        <seg>Join the community and affect the course of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T120159Z" creationid="valter" creationdate="20240928T120159Z">
+        <seg>Unisciti alla comunità e prendi parte allo sviluppo di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Jorge Rodriguez</seg>
       </tuv>
@@ -1906,6 +1915,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20230225T235941Z" creationid="calem" creationdate="20230225T235941Z">
         <seg>LibreOffice &lt;/f2&gt;&lt;f4&gt;7.0&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice &lt;ud0&gt;24.8&lt;/ud0&gt;&lt;s1/&gt;requires one of the following operating systems:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T120503Z" creationid="valter" creationdate="20240928T120503Z">
+        <seg>[fuzzy]LibreOffice 24.8 richiede uno dei seguenti sistemi operativi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2467,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101750Z" creationid="valter" creationdate="20211016T101750Z">
         <seg>Rafael Lima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read more about LibreOffice and The Document Foundation on their websites at &lt;a0&gt;https://www.libreoffice.org/&lt;/a0&gt; and &lt;a1&gt;https://www.documentfoundation.org/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T120500Z" creationid="valter" creationdate="20240928T120500Z">
+        <seg>Ulteriori informazioni su LibreOffice e The Document Foundation sono disponibili nei rispettivi siti web &lt;a0&gt;https://www.libreoffice.org/&lt;/a0&gt; e &lt;a1&gt;https://www.documentfoundation.org/&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
