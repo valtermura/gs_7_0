@@ -327,6 +327,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;In addition to the bundled templates &lt;/f0&gt;&lt;f1&gt;that comes &lt;/f1&gt;&lt;f2&gt;with &lt;/f2&gt;&lt;f3&gt;your installation, &lt;/f3&gt;&lt;f4&gt;many templates are available for download in the LibreOffice templates website at &lt;/f4&gt;&lt;a5&gt;&lt;f6&gt;https://templates.libreoffice.org/&lt;/f6&gt;&lt;/a5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214959Z" creationid="valter" creationdate="20240928T214959Z">
+        <seg>&lt;f0&gt;In aggiunta ai modelli integrati &lt;/f0&gt;&lt;f1&gt;distribuiti &lt;/f1&gt;&lt;f2&gt;con&lt;/f2&gt; &lt;f3&gt;l'installazione, &lt;/f3&gt;&lt;f4&gt;sono disponibili molti modelli da scaricare nel sito web dei modelli di LibreOffice &lt;/f4&gt;(&lt;a5&gt;&lt;f6&gt;https://templates.libreoffice.org/&lt;/f6&gt;&lt;/a5&gt;)&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;requires macOS 10.15 or newer to run.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212247Z" creationid="valter" creationdate="20240928T212247Z">
@@ -803,6 +811,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102813Z" creationid="valter" creationdate="20240928T102813Z">
         <seg>Chiunque volesse imparare velocemente a utilizzare LibreOffice, sia che non conosca i software per ufficio, sia che abbia già familiarità con altre suite per ufficio, troverà questa Guida introduttiva molto utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are there templates for presentations, spreadsheets, text documents and drawings?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214724Z" creationid="valter" creationdate="20240928T214724Z">
+        <seg>Sono disponibili modelli per presentazioni, fogli di calcolo, documenti di testo e disegni?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2091,6 +2107,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180329Z" creationid="valter" creationdate="20211115T180310Z">
         <seg>In aggiunta ai collegamenti contenuti nel menu Aiuto citati sopra, sono disponibili opzioni in linea di assistenza da parte della comunità, si veda la tabella sotto riportata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, over 70 spelling, hyphenation, and thesaurus dictionaries are available for languages and dialects that do not have a localized program interface.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214525Z" creationid="valter" creationdate="20240928T214525Z">
+        <seg>In aggiunta, sono disponibili più di 70 dizionari di correzione ortografica, sillabazione e sinonimi per le lingue e per i dialetti per i quali non è ancora disponibile un'interfaccia localizzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3762,6 +3786,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163921Z" creationid="valter" creationdate="20240928T163921Z">
         <seg>La finestra di dialogo offre l'opportunità di scaricare e installare qualsiasi aggiornamento di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The dictionaries are available from the LibreOffice &lt;f0&gt;extensions &lt;/f0&gt;website at: &lt;a1&gt;https://extensions.libreoffice.org/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T214646Z" creationid="valter" creationdate="20240928T214646Z">
+        <seg>I dizionari sono disponibili nel sito web delle &lt;f0&gt;estensioni&lt;/f0&gt; di LibreOffice (&lt;a1&gt;https://extensions.libreoffice.org/&lt;/a1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
