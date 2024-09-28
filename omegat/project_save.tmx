@@ -487,6 +487,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice General dialog&lt;/s0&gt;&lt;s1&gt;Options LibreOffice General dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T170606Z" creationid="valter" creationdate="20240928T170606Z">
+        <seg>&lt;s0&gt;Finestra di dialogo Generale delle Opzioni di LibreOffice&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Generale delle Opzioni di LibreOffice&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;ud0&gt;Getting Started Guide&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T095738Z" creationid="valter" creationdate="20240928T095738Z">
@@ -1367,6 +1375,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For information about certified professional support, see The Document Foundation website: &lt;a0&gt;https://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T170228Z" creationid="valter" creationdate="20240928T170228Z">
+        <seg>Per informazioni sul supporto professionale certificato, si rimanda al sito web di The Document Foundation: &lt;a0&gt;https://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For information about certified professional support, see The Document Foundation’s website: &lt;a0&gt;https://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182404Z" creationid="valter" creationdate="20211115T182404Z">
@@ -1419,6 +1435,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155541Z" creationid="valter" creationdate="20240928T155541Z">
         <seg>Per ottenere dei suggerimenti rapidi quando la barra degli strumenti è visibile, posizionare il cursore sull'icona di un qualsiasi strumento in modo da visualizzare una breve descrizione della sua funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For schools, educational and research institutions, and large organizations, see &lt;a0&gt;https://www.libreoffice.org/download/libreoffice-in-business/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T170439Z" creationid="valter" creationdate="20240928T170439Z">
+        <seg>Per scuole, enti di formazione e di ricerca, e organizzazioni di grandi dimensioni, vedere la pagina web &lt;a0&gt;https://www.libreoffice.org/download/libreoffice-in-business/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
