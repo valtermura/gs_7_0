@@ -926,6 +926,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T095220Z" creationid="valter" creationdate="20240928T095220Z">
+        <seg>Guida introduttiva 24.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Preface</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T095152Z" creationid="valter" creationdate="20240928T095152Z">
+        <seg>Guida introduttiva 24.8 - Prefazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started with Calc</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211111T220137Z" creationid="akurery" creationdate="20211111T220137Z">
@@ -1402,6 +1418,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101758Z" creationid="valter" creationdate="20211016T101758Z">
         <seg>Leo Moons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice - Getting Started Guide 24.8</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T095241Z" creationid="valter" creationdate="20240928T095241Z">
+        <seg>LibreOffice - Guida introduttiva 24.8</seg>
       </tuv>
     </tu>
     <tu>
