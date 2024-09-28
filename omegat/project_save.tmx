@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If LibreOffice features that require Java are to be used, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T133143Z" creationid="valter" creationdate="20240928T133143Z">
+        <seg>Se devono essere utilizzate le funzionalità di LibreOffice che richiedono Java, è importante che sia installata la corretta versione a 32 bit o a 64 bit corrispondente alla versione installata di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093834Z" creationid="valter" creationdate="20211016T093834Z">
@@ -2103,6 +2111,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linux users will also find LibreOffice included free in many of the latest distributions.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T133431Z" creationid="valter" creationdate="20240928T133431Z">
+        <seg>Gli utenti Linux troveranno LibreOffice incluso in molte delle più recenti distribuzioni Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linux x64 (deb) and Linux x64 (rpm).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T131853Z" creationid="valter" creationdate="20240928T131853Z">
@@ -2611,6 +2627,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115623Z" creationid="valter" creationdate="20240928T115623Z">
         <seg>Per un elenco, vedere l'Appendice B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the Advanced Options in Chapter 12, Configuring LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T133239Z" creationid="valter" creationdate="20240928T133239Z">
+        <seg>Consultare le Opzioni avanzate nel Capitolo 12, Configurazione di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3171,6 +3195,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101907Z" creationid="valter" creationdate="20211016T101907Z">
         <seg>Valerii Goncharuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Versions of LibreOffice for Windows, Linux, and macOS are freely available and can be downloaded from &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T133404Z" creationid="valter" creationdate="20240928T133404Z">
+        <seg>Le versioni di LibreOffice per Windows, Linux e macOS sono disponibili a titolo gratuito e sono scaricabili da &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
