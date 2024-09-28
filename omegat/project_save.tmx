@@ -2558,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This user guide introduces the main modules of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T103310Z" creationid="valter" creationdate="20240928T103310Z">
+        <seg>Questa guida introduce i moduli principali di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thumbnail or preview.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190338Z" creationid="valter" creationdate="20211115T190338Z">
