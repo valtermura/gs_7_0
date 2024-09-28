@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>14</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102434Z" creationid="valter" creationdate="20240928T102434Z">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101136Z" creationid="valter" creationdate="20240928T101136Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091925Z" creationid="valter" creationdate="20211016T091925Z">
         <seg>Chiunque desideri imparare velocemente a utilizzare LibreOffice troverà questa &lt;f0&gt;Guida introduttiva&lt;/f0&gt; preziosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anyone who wants to quickly acquire knowledge on LibreOffice and is new to office software, or may be familiar with another office suite, will find this Getting Started Guide very useful.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102813Z" creationid="valter" creationdate="20240928T102813Z">
+        <seg>Chiunque volesse imparare velocemente a utilizzare LibreOffice, sia che non conosca i software per ufficio, sia che abbia già familiarità con altre suite per ufficio, troverà questa Guida introduttiva molto utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice is an open-source office productivity software suite containing capabilities for word processing, spreadsheets, presentations, graphics, databases, and formula editing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T103239Z" creationid="valter" creationdate="20240928T103239Z">
+        <seg>LibreOffice è una suite di software open source per ufficio in grado di redarre testi, fogli elettronici, presentazioni, grafici, database e formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice is developed and maintained by volunteers and has the backing of several organizations.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191733Z" creationid="valter" creationdate="20211115T191733Z">
@@ -2682,6 +2706,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101340Z" creationid="valter" creationdate="20240928T101340Z">
         <seg>Che cosa si trova in questa guida?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is new in LibreOffice 24.8?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102424Z" creationid="valter" creationdate="20240928T102424Z">
+        <seg>Novità in LibreOffice 24.8</seg>
       </tuv>
     </tu>
     <tu>
