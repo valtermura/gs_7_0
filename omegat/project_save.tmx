@@ -14,6 +14,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102252Z" creationid="valter" creationdate="20240928T102252Z">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>11</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102302Z" creationid="valter" creationdate="20240928T102302Z">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>12</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102310Z" creationid="valter" creationdate="20240928T102310Z">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>13</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102338Z" creationid="valter" creationdate="20240928T102338Z">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101136Z" creationid="valter" creationdate="20240928T101136Z">
@@ -34,6 +66,38 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101846Z" creationid="valter" creationdate="20240928T101846Z">
         <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101923Z" creationid="valter" creationdate="20240928T101923Z">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102003Z" creationid="valter" creationdate="20240928T102003Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>8</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102117Z" creationid="valter" creationdate="20240928T102117Z">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>9</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102128Z" creationid="valter" creationdate="20240928T102128Z">
+        <seg>9</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extensions</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102100Z" creationid="valter" creationdate="20240928T102100Z">
+        <seg>Estensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>F11</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185559Z" creationid="valter" creationdate="20211115T185559Z">
@@ -1118,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How to get LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101954Z" creationid="valter" creationdate="20240928T101954Z">
+        <seg>Come ottenere LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, templates will adapt to other &lt;/f0&gt;&lt;f1&gt;available &lt;/f1&gt;&lt;f2&gt;sizes, &lt;/f2&gt;&lt;f3&gt;which &lt;/f3&gt;&lt;f4&gt;can be selected by going to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Slide &gt; Properties &gt; Paper Format&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; on the Menu bar &lt;/f7&gt;&lt;f8&gt;or &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Format&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; in the Slide section in the Properties deck on the Sidebar.&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153837Z" creationid="Elisabetta Manuele" creationdate="20211111T153837Z">
@@ -1310,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Installing LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102039Z" creationid="valter" creationdate="20240928T102019Z">
+        <seg>Installazione di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Introducing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193424Z" creationid="valter" creationdate="20211115T193424Z">
@@ -1434,6 +1522,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192004Z" creationid="valter" creationdate="20211115T192004Z">
         <seg>Java è uno dei numerosi linguaggi che è possibile usare per ampliare il software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Java software</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101934Z" creationid="valter" creationdate="20240928T101934Z">
+        <seg>Software Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,6 +1834,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101906Z" creationid="valter" creationdate="20211016T101906Z">
         <seg>Miklos Vajna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minimum requirements for using LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101915Z" creationid="valter" creationdate="20240928T101915Z">
+        <seg>Requisiti minimi per utilizzare LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -2066,6 +2170,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
         <seg>Selezionare righe e colonne in una tabella di database (aperta con F4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setting up and customizing LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102053Z" creationid="valter" creationdate="20240928T102053Z">
+        <seg>Configurazione e personalizzazione di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -2626,6 +2738,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101300Z" creationid="valter" creationdate="20240928T101300Z">
         <seg>A chi è rivolta questa guida?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who wrote this user guide?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T102329Z" creationid="valter" creationdate="20240928T102329Z">
+        <seg>Chi ha scritto questa guida?</seg>
       </tuv>
     </tu>
     <tu>
