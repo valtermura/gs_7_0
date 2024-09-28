@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see Chapter 12, Configuring LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T152312Z" creationid="valter" creationdate="20240928T152312Z">
+        <seg>Per maggiori informazioni, vedere il Capitolo 12 (Configurazione di LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formula syntax</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191340Z" creationid="akurery" creationdate="20211211T191340Z">
@@ -2756,6 +2764,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185034Z" creationid="valter" creationdate="20211115T185034Z">
         <seg>Alcuni dei &lt;f0&gt;set&lt;/f0&gt; di gallerie inclusi in precedenza sono ora disponibili come &lt;f1&gt;estensione; si veda &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;https://extensions.libreoffice.org/?Tags%5B%5D=49&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;oppure se ne ricerchi uno specifico,&lt;/f5&gt;&lt;f6&gt;&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some settings are intended for power users and programmers.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T152501Z" creationid="valter" creationdate="20240928T152501Z">
+        <seg>Alcune impostazioni sono pensate per gli utenti avanzati e i programmatori.</seg>
       </tuv>
     </tu>
     <tu>
