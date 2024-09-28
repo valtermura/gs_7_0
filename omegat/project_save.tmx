@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw is a vector drawing tool that can produce everything from simple diagrams, flowcharts, or 3D artwork.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T105508Z" creationid="valter" creationdate="20240928T105508Z">
+        <seg>[fuzzy]Draw è uno strumento per il disegno vettoriale in grado di creare qualsiasi cosa, da semplici diagrammi o diagrammi di flusso fino alla grafica 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drop-down list from which to select an item.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190344Z" creationid="valter" creationdate="20211115T190344Z">
@@ -1370,6 +1378,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195305Z" creationid="valter" creationdate="20211115T195305Z">
         <seg>Impress può aprire, modificare e salvare le presentazioni Microsoft PowerPoint e anche salvare il vostro lavoro in numerosi formati grafici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Impress can open, edit, and save Microsoft PowerPoint presentations and save presentations in numerous graphics formats.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T105503Z" creationid="valter" creationdate="20240928T105503Z">
+        <seg>Impress è in grado di aprire, modificare e salvare le presentazioni Microsoft PowerPoint e salvare le presentazioni in numerosi formati grafici.</seg>
       </tuv>
     </tu>
     <tu>
