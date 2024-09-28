@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a detailed list of requirements and operating systems supported, see the LibreOffice website, &lt;a0&gt;https://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T132359Z" creationid="valter" creationdate="20240928T132359Z">
+        <seg>Per un elenco dettagliato dei requisiti e dei sistemi operativi supportati, consultare il sito web di LibreOffice, &lt;a0&gt;https://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a more detailed explanation, select &lt;f1&gt;Help &gt; What's This?&lt;/f1&gt; and hold the pointer over the icon.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T103607Z" creationid="valter" creationdate="20211016T103607Z">
@@ -2079,6 +2087,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mac OS X (Aarch64/Apple Silicon)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T132148Z" creationid="valter" creationdate="20240928T132148Z">
+        <seg>Mac OS X (Aarch64/Apple Silicon)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include LibreOffice Basic, Python, BeanShell, and JavaScript.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191227Z" creationid="akurery" creationdate="20211211T191227Z">
@@ -2619,6 +2635,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195133Z" creationid="valter" creationdate="20211115T195133Z">
         <seg>Le presentazioni possono essere ulteriormente migliorate con speciali effetti di testo ottenibili con Fontwork e contributi audio e video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some LibreOffice features (wizards and the HSQLDB database engine) require that the Java Runtime Environment (JRE) or, for macOS, the Java Development Kit (JDK) is installed on a computer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T132600Z" creationid="valter" creationdate="20240928T132600Z">
+        <seg>Alcune funzionalità di LibreOffice (le procedure guidate e il motore di database HSQLDB) richiedono che Java Runtime Environment (JRE) o, per macOS, Java Development Kit (JDK) sia installato sul computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3279,6 +3303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Windows x86_64 (Windows &lt;f0&gt;8&lt;/f0&gt; or newer required)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T132233Z" creationid="valter" creationdate="20240928T132233Z">
+        <seg>Windows x86_64 (necessario Windows &lt;f0&gt;8&lt;/f0&gt; o versione più recente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Winston Min Tjong</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101756Z" creationid="valter" creationdate="20211016T101756Z">
@@ -3499,6 +3531,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185347Z" creationid="valter" creationdate="20211115T185347Z">
         <seg>Equivalente su macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>macOS x86_64 (10.14 (Mojave or higher)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T132159Z" creationid="valter" creationdate="20240928T132159Z">
+        <seg>macOS x86_64 (10.14 (Mojave o superiore)</seg>
       </tuv>
     </tu>
     <tu>
