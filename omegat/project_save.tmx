@@ -166,6 +166,23 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165904Z" creationid="valter" creationdate="20240928T165904Z">
+        <seg>&lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>VM: cambiare il collegamento nel documento</note>
+      <tuv lang="en-US">
+        <seg>&lt;a0&gt;https://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165826Z" creationid="valter" creationdate="20240928T165826Z">
+        <seg>&lt;a0&gt;https://it.libreoffice.org/supporto/accessibilita/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;a1&gt;https://community.documentfoundation.org/&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T165453Z" creationid="valter" creationdate="20240928T165453Z">
@@ -658,6 +675,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101908Z" creationid="valter" creationdate="20211016T101908Z">
         <seg>Andrew Pitonyak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Another forum that provides support for LibreOffice, among other open source office suites.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165900Z" creationid="valter" creationdate="20240928T165900Z">
+        <seg>Un altro forum che fornisce il supporto per LibreOffice, tra le altre suite open source per l'ufficio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1874,6 +1899,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181846Z" creationid="valter" creationdate="20211115T181846Z">
         <seg>Informazioni sulle opzioni di accesso facilitato disponibili &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information about available accessibility options.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165727Z" creationid="valter" creationdate="20240928T165727Z">
+        <seg>Informazioni sulle opzioni di accesso facilitato disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3197,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support and training is available through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T170129Z" creationid="valter" creationdate="20240928T170129Z">
+        <seg>Sono disponibili assistenza e formazione tramite contratti di assistenza siglati presso un distributore o un'azienda di consulenza specializzata in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tabbed page (not strictly speaking a control).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190201Z" creationid="valter" creationdate="20211115T190201Z">
@@ -3385,6 +3426,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T151343Z" creationid="valter" creationdate="20240928T151343Z">
         <seg>I profitti derivanti dalle &lt;f5&gt;vendite&lt;/f5&gt; di LibreOffice vengono reinvestite &lt;f6&gt;nel supporto&lt;/f6&gt; dello sviluppo del progetto LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The service is available in several other languages; just &lt;f0&gt;select your language &lt;/f0&gt;&lt;f1&gt;on&lt;/f1&gt;&lt;f2&gt; the page&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165631Z" creationid="valter" creationdate="20240928T165631Z">
+        <seg>Il servizio è disponibile in varie lingue; basta &lt;f0&gt;selezionare la propria lingua &lt;/f0&gt;&lt;f1&gt;nella&lt;/f1&gt;&lt;f2&gt; pagina&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4113,6 +4162,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095641Z" creationid="akurery" creationdate="20211121T095641Z">
         <seg>caratteristiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://ask.libreoffice.org/</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T165533Z" creationid="valter" creationdate="20240928T165533Z">
+        <seg>https://ask.libreoffice.org/</seg>
       </tuv>
     </tu>
     <tu>
