@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f1&gt;You can &lt;/f1&gt;also &lt;f2&gt;open the page &lt;/f2&gt;&lt;s3/&gt;&lt;a4&gt;https://books.libreoffice.org&lt;/a4&gt; &lt;f5&gt;for the same contents&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T160629Z" creationid="valter" creationdate="20240928T160629Z">
+        <seg>&lt;f1&gt;È possibile&lt;/f1&gt; anche &lt;f2&gt;aprire la pagina &lt;/f2&gt;&lt;s3/&gt;&lt;a4&gt;https://books.libreoffice.org&lt;/a4&gt; &lt;f5&gt;per ottenere gli stessi contenuti&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f2&gt;L&lt;/f2&gt;&lt;f3&gt;ocalisation is well under way for another 3&lt;/f3&gt;&lt;f4&gt;0&lt;/f4&gt;&lt;f5&gt;+ languages (50-80%) and for another 50+ languages help is more than welcome.&lt;/f5&gt; &lt;f6&gt;In addition&lt;/f6&gt;, over 70 spelling, hyphenation, and thesaurus dictionaries &lt;f7&gt;are &lt;/f7&gt;available for languages and dialects that do not have a localized program interface.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191643Z" creationid="valter" creationdate="20211115T191643Z">
@@ -432,8 +440,8 @@
       <tuv lang="en-US">
         <seg>&lt;f4&gt;Extended Tips&lt;/f4&gt; provide a brief description about tools and commands.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T155936Z" creationid="valter" creationdate="20240928T155936Z">
-        <seg>La &lt;emph&gt;guida attiva&lt;/emph&gt; offre una breve descrizione dei pulsanti e dei comandi.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T160153Z" creationid="valter" creationdate="20240928T155936Z">
+        <seg>La &lt;emph&gt;Guida attiva&lt;/emph&gt; offre una breve descrizione degli strumenti e dei comandi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2511,6 +2519,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>VM: da cambiare il collegamento del documento.</note>
+      <tuv lang="en-US">
+        <seg>Opens the default browser at the Documentation page of the LibreOffice website &lt;a0&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T160416Z" creationid="valter" creationdate="20240928T160416Z">
+        <seg>Apre il browser predefinito alla pagina della Documentazione nel sito web di LibreOffice &lt;a0&gt;https://documentation.libreoffice.org/it/documentazione-in-italiano/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Other features provided by Calc include:</seg>
       </tuv>
@@ -3332,6 +3349,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185554Z" creationid="valter" creationdate="20211115T185554Z">
         <seg>Usato con altri tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User Guides</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T160203Z" creationid="valter" creationdate="20240928T160203Z">
+        <seg>Guide utente</seg>
       </tuv>
     </tu>
     <tu>
