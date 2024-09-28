@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, Microsoft Excel workbooks can be opened and worked on, then saved in Excel format.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T105120Z" creationid="valter" creationdate="20240928T105120Z">
+        <seg>È anche possibile aprire e lavorare con fogli di calcolo Microsoft Excel, quindi salvarli nel loro formato originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, Writer can save files in many &lt;f0&gt;other&lt;/f0&gt; formats, including several versions of Microsoft Word files and connect to the email application being used.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104715Z" creationid="valter" creationdate="20240928T104715Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195051Z" creationid="valter" creationdate="20211115T195051Z">
         <seg>Calc è in grado di esportare i fogli elettronici in diversi formati, per esempio Comma Separated Value (CSV), Adobe PDF e HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc can also export spreadsheets in several formats, including, for example, Comma Separated Value (CSV), Adobe PDF and HTML formats.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T105219Z" creationid="valter" creationdate="20240928T105219Z">
+        <seg>Calc è in grado di esportare i fogli elettronici in diversi formati, per esempio CSV (Comma Separated Value), Adobe PDF e HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1538,6 +1554,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190855Z" creationid="valter" creationdate="20211115T190855Z">
         <seg>Si basa sul codice di Apache OpenOffice reso disponibile sotto Apache License 2.0, ma include anche software che differisce da versione a versione e che si trova sotto altre licenze open source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is integrated with the advanced graphics capabilities of &lt;t0/&gt;LibreOffice Draw and Math modules.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T105343Z" creationid="valter" creationdate="20240928T105343Z">
+        <seg>È integrato con le funzioni grafiche avanzate dei moduli &lt;t0/&gt;Draw e Math di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
