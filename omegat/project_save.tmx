@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more detail, see the user guides for the individual modules.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T103445Z" creationid="valter" creationdate="20240928T103445Z">
+        <seg>Per ulteriori dettagli, consultare le guide utente relative ai singoli moduli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formula syntax</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191340Z" creationid="akurery" creationdate="20211211T191340Z">
@@ -1454,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It also covers some of the features common to all modules, including setup and customization, styles and templates, macro recording, and printing.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T103411Z" creationid="valter" creationdate="20240928T103411Z">
+        <seg>Tratta anche alcune delle caratteristiche comuni a tutti i moduli, inclusi l'installazione e la personalizzazione, gli stili e i modelli, la registrazione di macro e la stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can also use PostgreSQL, dBASE, Microsoft Access, MySQL, Oracle, or any ODBC compliant or JDBC compliant database.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195733Z" creationid="valter" creationdate="20211115T195733Z">
@@ -1690,6 +1706,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193435Z" creationid="valter" creationdate="20211115T193435Z">
         <seg>LibreOffice è una suite gratuita di produttività per ufficio, completa di tutte le funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice is a freely available, fully-featured, open source office productivity suite that is compatible with other major office suites and is available on a variety of platforms.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T103745Z" creationid="valter" creationdate="20240928T103745Z">
+        <seg>LibreOffice è una suite per la produttività in ufficio, disponibile gratuitamente, completa e open source, compatibile con le altre suite per ufficio più importanti e disponibile su diverse piattaforme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,6 +2442,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192016Z" creationid="valter" creationdate="20211115T192016Z">
         <seg>La più importante è il motore di database relazionale HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The native file format used is Open Document Format (ODF).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T103848Z" creationid="valter" creationdate="20240928T103848Z">
+        <seg>Il formato file nativo che utilizza è Open Document Format (ODF).</seg>
       </tuv>
     </tu>
     <tu>
