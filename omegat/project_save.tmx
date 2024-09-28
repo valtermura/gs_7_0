@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, the User Guides are available in PDF format as a free download or to buy as printed copies.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T160934Z" creationid="valter" creationdate="20240928T160934Z">
+        <seg>Inoltre, le Guide utente si possono scaricare gratuitamente in formato PDF oppure essere acquistate in formato cartaceo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, you can enter data and then use Calc in a “What if...” manner by changing some of the data and observing the results without having to retype the entire spreadsheet or sheet.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095639Z" creationid="akurery" creationdate="20211121T095639Z">
@@ -2817,6 +2825,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show Tip of the Day</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T160952Z" creationid="valter" creationdate="20240928T160952Z">
+        <seg>Mostra suggerimento del giorno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simple wildcards such as the asterisk (*), question mark (?), and tilde (~) from other spreadsheet applications are recognized by LibreOffice &lt;f0&gt;in formula expressions&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191336Z" creationid="akurery" creationdate="20211211T191336Z">
@@ -3189,6 +3205,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115910Z" creationid="valter" creationdate="20240928T115702Z">
         <seg>Questi file sono facilmente decomprimibili e leggibili da qualsiasi editor di testo e la loro struttura è aperta e liberamente consultabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These pages &lt;f6&gt;give&lt;/f6&gt; access to the LibreOffice User Guides and other useful information that can be opened in the default browser.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T160733Z" creationid="valter" creationdate="20240928T160733Z">
+        <seg>Queste pagine &lt;f6&gt;offrono&lt;/f6&gt; accesso alle Guide utente di LibreOffice e altri utili informazioni consultabili con il browser predefinito.</seg>
       </tuv>
     </tu>
     <tu>
