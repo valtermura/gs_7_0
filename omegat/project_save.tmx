@@ -1919,6 +1919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Icon Style&lt;/f0&gt;, select a font from the options available in the drop-down list as shown in Figure &lt;t1&gt;2&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T181216Z" creationid="valter" creationdate="20240928T181216Z">
+        <seg>Nella sezione &lt;f0&gt;Tema di icone&lt;/f0&gt;, selezionare un tipo di carattere dalle opzioni disponibili nell'elenco a tendina, come mostrato in Figura &lt;t1&gt;2&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Windows or Linux, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Start with Template Selection&lt;/f1&gt; under &lt;f2&gt;New Document&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20211118T190839Z" creationid="calem" creationdate="20211118T190839Z">
@@ -2737,6 +2745,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On &lt;f0&gt;the &lt;/f0&gt;Linux and Windows operating systems, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f1&gt; on the Menu bar to open the dialog for view options.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T180913Z" creationid="valter" creationdate="20240928T180913Z">
+        <seg>&lt;f0&gt;Sui&lt;/f0&gt; sistemi operativi Linux e Windows, andare a &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f1&gt;, sulla barra dei menu, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar to open the dialog for general options.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T171820Z" creationid="valter" creationdate="20240928T171646Z">
@@ -2749,6 +2765,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T171800Z" creationid="valter" creationdate="20240928T171800Z">
         <seg>Sul sistema operativo Mac, andare a &lt;f0&gt;LibreOffice &gt; Preferenze &gt; LibreOffice &gt; Generale&lt;/f0&gt;, sulla barra dei menu, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; View&lt;/f0&gt; on the Menu bar to open the dialog for view options.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T180954Z" creationid="valter" creationdate="20240928T180954Z">
+        <seg>Sul sistema operativo Mac, andare a &lt;f0&gt;LibreOffice &gt; Preferenze &gt; LibreOffice &gt; Vista&lt;/f0&gt;, sulla barra dei menu, per aprire la finestra di dialogo delle opzioni di visualizzazione.</seg>
       </tuv>
     </tu>
     <tu>
