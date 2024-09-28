@@ -1270,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For quick tips when a toolbar is visible, place the cursor over any of the tool icons to see a small tooltip box with a brief explanation of the tool function.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T155541Z" creationid="valter" creationdate="20240928T155541Z">
+        <seg>Per ottenere dei suggerimenti rapidi quando la barra degli strumenti è visibile, posizionare il cursore sull'icona di un qualsiasi strumento in modo da visualizzare una breve descrizione della sua funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formula syntax</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191340Z" creationid="akurery" creationdate="20211211T191340Z">
@@ -2736,6 +2744,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option and the default web browser opens at the LibreOffice online help pages in the LibreOffice website.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T155125Z" creationid="valter" creationdate="20240928T155125Z">
+        <seg>Selezionare questa opzione e il browser web predefinito aprirà le pagine della guida in linea di LibreOffice nel sito web di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting rows and columns in a database table</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
@@ -2904,6 +2920,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Help menu also includes links to other LibreOffice information and support resources.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T155207Z" creationid="valter" creationdate="20240928T155207Z">
+        <seg>Il menu Aiuto include anche collegamenti ad altre informazioni su LibreOffice e risorse di supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Java JDK/JRE is only required for some features.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192010Z" creationid="valter" creationdate="20211115T192010Z">
@@ -3020,6 +3044,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T103848Z" creationid="valter" creationdate="20240928T103848Z">
         <seg>Il formato file nativo che utilizza è Open Document Format (ODF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The options marked by a ‡ sign in the list below are only accessible if the computer is connected to the Internet.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T155303Z" creationid="valter" creationdate="20240928T155303Z">
+        <seg>Le opzioni seguite da un segno ‡ nell'elenco sotto riportato sono accessibili solo se il computer è collegato a Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3388,6 +3420,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182410Z" creationid="valter" creationdate="20211115T182410Z">
         <seg>Differenze nelle immagini presenti nel libro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What's This?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T155311Z" creationid="valter" creationdate="20240928T155311Z">
+        <seg>Cos'è questo?</seg>
       </tuv>
     </tu>
     <tu>
