@@ -462,6 +462,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All modules share a common spelling checker and other tools, which are used consistently across the suite.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114930Z" creationid="valter" creationdate="20240928T114930Z">
+        <seg>Tutti i moduli condividono un correttore ortografico e altri strumenti comuni, utilizzabili in modo omogeneo in tutta la suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All the modules have a similar “look and feel”, making them easy to use and master.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114815Z" creationid="valter" creationdate="20240928T114815Z">
+        <seg>L'interfaccia utente è “comune” a tutti i moduli e rende il loro utilizzo semplice da apprendere e padroneggiare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101626Z" creationid="valter" creationdate="20211016T101626Z">
@@ -806,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consistent user interface</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114559Z" creationid="valter" creationdate="20240928T114559Z">
+        <seg>Interfaccia utente coerente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102858Z" creationid="valter" creationdate="20211016T102858Z">
@@ -1106,6 +1130,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185335Z" creationid="valter" creationdate="20211115T185335Z">
         <seg>Per un elenco più dettagliato, vedere la Guida in linea dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the drawing tools available in Writer are also found in Calc with similar, but enhanced versions in Impress and Draw.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115026Z" creationid="valter" creationdate="20240928T115026Z">
+        <seg>Ad esempio, gli strumenti per il disegno disponibili in Writer sono gli stessi presenti in Calc e, con funzionalità simili ma più avanzate, in Impress e Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,6 +1578,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102039Z" creationid="valter" creationdate="20240928T102019Z">
         <seg>Installazione di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Integration</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114830Z" creationid="valter" creationdate="20240928T114820Z">
+        <seg>Integrazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2698,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182600Z" creationid="valter" creationdate="20211115T182600Z">
         <seg>Le illustrazioni di questa guida sono state tratte da computer e sistemi operativi diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The individual modules of LibreOffice are well integrated with the other LibreOffice modules.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114900Z" creationid="valter" creationdate="20240928T114900Z">
+        <seg>I singoli moduli di LibreOffice sono ben integrati tra loro.</seg>
       </tuv>
     </tu>
     <tu>
