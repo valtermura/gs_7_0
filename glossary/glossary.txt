@@ -1,5 +1,8 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 Settlement	Liquidazione
 Chart Wizard	Creazione guidata grafico
 increase	aumentare, accrescere
 check mark	segno di spunta
 fine-tuning	regolazione accurata, precisa
+Offline Help	Guida integrata	ultima versione della traduzione
+Menu bar	barra dei menu
