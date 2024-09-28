@@ -2056,6 +2056,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice comes with an extensive Help system and this can be used as the first line of support.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T153946Z" creationid="valter" creationdate="20240928T153946Z">
+        <seg>LibreOffice è distribuito con un sistema di aiuto vasto e articolato, che può essere utilizzato come iniziale fonte di supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice has been translated (localized &lt;f0&gt;for more than 80%, both UI and Help&lt;/f0&gt;) into over 4&lt;f1&gt;6&lt;/f1&gt; languages, so your language probably is supported.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191229Z" creationid="valter" creationdate="20211115T191229Z">
@@ -3444,6 +3452,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191327Z" creationid="akurery" creationdate="20211211T191327Z">
         <seg>Caratteri jolly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T154033Z" creationid="valter" creationdate="20240928T154033Z">
+        <seg>Gli utenti di Windows e Linux possono scegliere se scaricare e installare la Guida integrata da utilizzare quando non sono collegati a Internet.</seg>
       </tuv>
     </tu>
     <tu>
