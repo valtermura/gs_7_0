@@ -2780,8 +2780,16 @@
       <tuv lang="en-US">
         <seg>Restart in Safe Mode</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T162447Z" creationid="valter" creationdate="20240928T162447Z">
-        <seg>Riavvia in modalità sicura</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T162845Z" creationid="valter" creationdate="20240928T162447Z">
+        <seg>Riavvia in modalità provvisoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restarting in safe mode also provides an opportunity to restore LibreOffice from a backup.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T163041Z" creationid="valter" creationdate="20240928T163041Z">
+        <seg>Il riavvio in modalità provvisoria offre anche l'opportunità di ripristinare LibreOffice da una copia di sicurezza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3782,6 +3790,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190946Z" creationid="valter" creationdate="20211115T190946Z">
         <seg>Sì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also &lt;/f3&gt;reset the software to its default settings.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T162817Z" creationid="valter" creationdate="20240928T162817Z">
+        <seg>È possibile anche &lt;/f3&gt;ripristinare il software alle sue impostazioni predefinite.</seg>
       </tuv>
     </tu>
     <tu>
