@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking on a command in the resulting list may open a relevant dialog or have other effects.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T161528Z" creationid="valter" creationdate="20240928T161528Z">
+        <seg>Facendo clic su un comando nell'elenco restituito si può aprire la finestra di dialogo attinente od ottenere altri effetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Colleen Hayes</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101752Z" creationid="valter" creationdate="20211016T101752Z">
@@ -2527,6 +2535,22 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Opens a small window with a random tip on how to use LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T161042Z" creationid="valter" creationdate="20240928T161042Z">
+        <seg>Apre una finestrella con un suggerimento a caso sull'uso di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens a window where typing a few letters, or the name of a Menu bar command, for example, quickly finds where the command is located.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T161332Z" creationid="valter" creationdate="20240928T161332Z">
+        <seg>Apre una finestra dove, digitando alcune lettere o il nome di un comando della barra dei menu, è possibile, per esempio, trovare rapidamente la posizione di un comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>VM: da cambiare il collegamento del documento.</note>
       <tuv lang="en-US">
         <seg>Opens the default browser at the Documentation page of the LibreOffice website &lt;a0&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a0&gt;.</seg>
@@ -2733,6 +2757,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101847Z" creationid="valter" creationdate="20211016T101847Z">
         <seg>Ron Faile Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search Commands</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T161126Z" creationid="valter" creationdate="20240928T161126Z">
+        <seg>Cerca comandi</seg>
       </tuv>
     </tu>
     <tu>
