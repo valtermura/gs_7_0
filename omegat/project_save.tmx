@@ -2697,6 +2697,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar to open the dialog for general options.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T171646Z" creationid="valter" creationdate="20240928T171646Z">
+        <seg>Su sistemi operativi Linux e Windows, andare a &lt;f0&gt;Strumenti &gt; Opzioni &gt;LibreOffice &gt; Generale&lt;/f0&gt;, nella barra dei menu, per aprire la finestra di dialogo delle opzioni generali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Source Initiative (OSI)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190507Z" creationid="valter" creationdate="20211115T190507Z">
@@ -3714,6 +3722,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184109Z" creationid="valter" creationdate="20211115T184109Z">
         <seg>Per cambiare il gruppo di icone utilizzate, andate a &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Vista&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change to using LibreOffice dialogs:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T171502Z" creationid="valter" creationdate="20240928T171502Z">
+        <seg>Per usare le finestre di dialogo di LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
