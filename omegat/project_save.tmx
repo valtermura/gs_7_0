@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cross-platform</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114002Z" creationid="valter" creationdate="20240928T114002Z">
+        <seg>Multipiattaforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dan Lewis</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101832Z" creationid="valter" creationdate="20211016T101832Z">
@@ -890,6 +898,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101731Z" creationid="valter" creationdate="20211016T101731Z">
         <seg>Dave Barton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Distribute, copy, and modify the software as required, in accordance with the LibreOffice Open Source licenses.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113952Z" creationid="valter" creationdate="20240928T113952Z">
+        <seg>Grazie alle licenze Open Source di LibreOffice è possibile distribuire, copiare e modificare il software in base alle proprie esigenze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,6 +1138,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191340Z" creationid="akurery" creationdate="20211211T191340Z">
         <seg>Sintassi delle formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formulas can be saved in the standard Mathematical Markup Language (MathML) format for inclusion in web pages and other documents not created with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113718Z" creationid="valter" creationdate="20240928T113718Z">
+        <seg>Con Math è possibile salvare le formule nel formato standard Mathematical Markup Language (MathML) e inserirle in pagine web e altri documenti non creati con LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice is free for anyone to use and distribute at no cost.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113848Z" creationid="valter" creationdate="20240928T113848Z">
+        <seg>LibreOffice è liberamente utilizzabile e distribuibile da chiunque senza alcun costo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice is not written in Java; it is written in the C++ language.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191959Z" creationid="valter" creationdate="20211115T191950Z">
@@ -1874,6 +1906,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182551Z" creationid="valter" creationdate="20211115T182551Z">
         <seg>LibreOffice funziona su sistemi operativi Windows, Linux e macOS, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice runs on several hardware architectures and under multiple operating systems, such as Microsoft Windows, macOS, and Linux.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T114137Z" creationid="valter" creationdate="20240928T114137Z">
+        <seg>LibreOffice funziona su numerose architetture hardware e con più sistemi operativi, quali Microsoft Windows, macOS e Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No licensing fees</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113814Z" creationid="valter" creationdate="20240928T113814Z">
+        <seg>Nessun costo di licenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T093843Z" creationid="valter" creationdate="20211016T093843Z">
@@ -2106,6 +2154,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185527Z" creationid="valter" creationdate="20211115T185527Z">
         <seg>Apre un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open source</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113856Z" creationid="valter" creationdate="20240928T113856Z">
+        <seg>Open source</seg>
       </tuv>
     </tu>
     <tu>
@@ -2546,6 +2602,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182818Z" creationid="valter" creationdate="20211115T182818Z">
         <seg>Le differenze stanno principalmente nelle finestre di dialogo Apri, Salva e Stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following explains some of the advantages of LibreOffice has over other office suites:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113803Z" creationid="valter" creationdate="20240928T113803Z">
+        <seg>Di seguito vengono spiegati alcuni dei vantaggi di LibreOffice rispetto ad altre suite per ufficio:</seg>
       </tuv>
     </tu>
     <tu>
