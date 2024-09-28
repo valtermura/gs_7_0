@@ -598,10 +598,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Base can create and edit forms, reports, queries, tables, views, and relations, so that managing a relational database is much the same as in other popular database applications.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113241Z" creationid="valter" creationdate="20240928T113241Z">
+        <seg>Base rende possibile creare e modificare formulari, rapporti, ricerche, tabelle, viste e relazioni, in modo da poter gestire un database relazionale esattamente come con i più comuni applicativi per la gestione di database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Base incorporates two relational database engines, HSQLDB and &lt;f0&gt;Firebird&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195637Z" creationid="valter" creationdate="20211115T195637Z">
         <seg>Base integra due motori di database relazionali, HSQLDB e &lt;f0&gt;Firebird&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base incorporates two relational database engines, HSQLDB and Firebird.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113309Z" creationid="valter" creationdate="20240928T113309Z">
+        <seg>Base integra due motori di database relazionali, HSQLDB e Firebird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,8 +632,8 @@
       <tuv lang="en-US">
         <seg>Base provides tools for day-to-day database work within a simple interface.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T195553Z" creationid="valter" creationdate="20211115T195553Z">
-        <seg>Base offre tutti gli strumenti necessari per lavorare con i database tramite un'interfaccia utente semplice ed intuitiva.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113139Z" creationid="valter" creationdate="20211115T195553Z">
+        <seg>Base offre tutti gli strumenti necessari per lavorare con i database tramite un'interfaccia utente semplice e intuitiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +1950,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Math can create complex equations that include symbols or characters not available in standard font sets.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113430Z" creationid="valter" creationdate="20240928T113430Z">
+        <seg>È in grado di creare equazioni complesse contenenti simboli o caratteri non disponibili nei set di caratteri standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Math is a formula, or equation editor.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113341Z" creationid="valter" creationdate="20240928T113341Z">
+        <seg>Math è un editor di formule o equazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Math is the LibreOffice formula or equation editor.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195818Z" creationid="valter" creationdate="20211115T195818Z">
@@ -2890,6 +2922,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092157Z" creationid="valter" creationdate="20211016T092157Z">
         <seg>Dove ottenere ulteriore aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While Math is most commonly used to create formulas in other documents, such as Writer and Impress files, Math can also work as a standalone tool.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113641Z" creationid="valter" creationdate="20240928T113641Z">
+        <seg>Anche se usato normalmente per creare formule in altri documenti, come i file di Writer e Impress, Math è utilizzabile anche come strumento indipendente.</seg>
       </tuv>
     </tu>
     <tu>
