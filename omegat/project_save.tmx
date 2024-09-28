@@ -902,6 +902,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw can import graphics from many common formats and save them in many formats, including PNG, GIF, JPEG, BMP, TIFF, SVG, HTML, PDF &lt;f0&gt;and WebP&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T113120Z" creationid="valter" creationdate="20240928T113120Z">
+        <seg>Draw è in grado di importare immagini dai formati più comuni e salvarle in molti formati, compresi PNG, GIF, JPEG, BMP, TIFF, SVG, HTML, PDF &lt;f0&gt;e WebP&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw creates drawings for use in any of the LibreOffice modules, and clip art can be created and added to the Gallery.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T112952Z" creationid="valter" creationdate="20240928T112952Z">
+        <seg>Draw crea disegni da utilizzare in qualsiasi altro modulo di LibreOffice e nuove clipart da aggiungere alla Galleria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw is a vector drawing tool that can produce everything from simple diagrams or flowcharts to 3D artwork.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195318Z" creationid="valter" creationdate="20211115T195318Z">
@@ -1594,6 +1610,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190012Z" creationid="valter" creationdate="20211115T190012Z">
         <seg>Fornisce dei controlli da utilizzare per indicare come eseguire un'azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its Smart Connectors feature allows definition connection points.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T112905Z" creationid="valter" creationdate="20240928T112905Z">
+        <seg>La funzionalità Smart Connectors permette di definire punti di connessione.</seg>
       </tuv>
     </tu>
     <tu>
