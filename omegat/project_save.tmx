@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T101846Z" creationid="valter" creationdate="20240928T101846Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;&lt;f2&gt;with&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T100841Z" creationid="valter" creationdate="20211016T100841Z">
