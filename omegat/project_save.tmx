@@ -519,6 +519,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Dialog showing an example of common controls&lt;/s0&gt;&lt;s1&gt;Dialog showing an example of common controls&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T213348Z" creationid="valter" creationdate="20240928T213348Z">
+        <seg>&lt;s0&gt;Finestra di dialogo mostrante un esempio dei controlli comuni&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo mostrante un esempio dei controlli comuni&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt;&lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T095653Z" creationid="valter" creationdate="20240928T095653Z">
@@ -2055,6 +2063,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In most cases, these technical terms are not used in this user guide, but are useful to know because the Help and other sources of information often use these terms.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T213218Z" creationid="valter" creationdate="20240928T213218Z">
+        <seg>Nella maggior parte dei casi in questa guida non si usano termini tecnici, ma può essere utile conoscerli perché si possono ritrovare frequentemente nella Guida integrata e in altre fonti informative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190355Z" creationid="valter" creationdate="20211115T190355Z">
@@ -2260,6 +2276,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185954Z" creationid="valter" creationdate="20211115T185954Z">
         <seg>Il suo scopo è quello di informarvi di qualcosa, o richiedervi un'immissione, oppure entrambe le cose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its purpose is to inform, or request input, or both.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T213053Z" creationid="valter" creationdate="20240928T213053Z">
+        <seg>Il suo scopo è quello di informare di qualcosa, o richiedere un'immissione, oppure entrambe le cose.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3762,6 +3786,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190050Z" creationid="valter" creationdate="20211115T190050Z">
         <seg>I nomi tecnici per i controlli più comuni sono mostrati in Figura &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The technical names for common controls are shown in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T213106Z" creationid="valter" creationdate="20240928T213106Z">
+        <seg>I nomi tecnici per i controlli più comuni sono mostrati in Figura &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
