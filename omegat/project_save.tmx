@@ -279,6 +279,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; or &lt;f1&gt;Control&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212715Z" creationid="valter" creationdate="20240928T212715Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; o &lt;f1&gt;Control&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212655Z" creationid="valter" creationdate="20240928T212655Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+clic e/o pulsante destro del mouse a seconda della configurazione del computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Donate to LibreOffice&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Donation page of the LibreOffice website, &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T171948Z" creationid="valter" creationdate="20211115T171948Z">
@@ -315,6 +331,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212247Z" creationid="valter" creationdate="20240928T212247Z">
         <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;richiede macOS 10.15, o versione più recente, per essere eseguito.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice &gt; Preferences&lt;/f0&gt; on Menu bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212557Z" creationid="valter" creationdate="20240928T212557Z">
+        <seg>&lt;f0&gt;LibreOffice &gt; Preferenze&lt;/f0&gt; nella barra dei menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -427,6 +451,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185418Z" creationid="valter" creationdate="20211115T185418Z">
         <seg>Menu &lt;f0&gt;Strrumenti &gt; Opzioni&lt;/f0&gt; menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on Menu bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212537Z" creationid="valter" creationdate="20240928T212537Z">
+        <seg>&lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt; nella barra dei menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -559,6 +591,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access to setup options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212621Z" creationid="valter" creationdate="20240928T212621Z">
+        <seg>Accesso alle opzioni di configurazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accessibility options</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181732Z" creationid="valter" creationdate="20211115T181732Z">
@@ -651,6 +691,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160934Z" creationid="valter" creationdate="20240928T160934Z">
         <seg>Inoltre, le Guide utente si possono scaricare gratuitamente in formato PDF oppure essere acquistate in formato cartaceo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alt</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212752Z" creationid="valter" creationdate="20240928T212752Z">
+        <seg>Alt</seg>
       </tuv>
     </tu>
     <tu>
@@ -2849,6 +2897,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens a context menu</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212700Z" creationid="valter" creationdate="20240928T212700Z">
+        <seg>Apre un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens a dialog and checks the LibreOffice website for updates to &lt;f0&gt;the software &lt;/f0&gt;version.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163829Z" creationid="valter" creationdate="20240928T163829Z">
@@ -3462,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;: Example of macOS keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212508Z" creationid="valter" creationdate="20240928T212508Z">
+        <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;: esempio di tasti di scelta rapida per macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;t0&gt;2&lt;/t0&gt; below gives some common substitutions for the instructions in this user guide.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212337Z" creationid="valter" creationdate="20240928T212337Z">
@@ -3706,6 +3770,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185930Z" creationid="valter" creationdate="20211115T185930Z">
         <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;interfaccia utente (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The terms used in LibreOffice for most parts of the user interface (the parts of the program seen and used, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T213026Z" creationid="valter" creationdate="20240928T213026Z">
+        <seg>I termini utilizzati in LibreOffice per la maggior parte dell'interfaccia utente (la parte del programma che si vedono e si utilizzano, a differenza del codice dietro le quinte che lo rende funzionante) sono uguali alla maggior parte di altri programmi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4486,10 +4558,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>⌘ and/or &lt;f0&gt;Cmd&lt;/f0&gt; or &lt;f1&gt;Command&lt;/f1&gt;, depending on keyboard</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212742Z" creationid="valter" creationdate="20240928T212742Z">
+        <seg>⌘ e/o &lt;f0&gt;Cmd&lt;/f0&gt; o &lt;f1&gt;Command&lt;/f1&gt;, a seconda della tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185604Z" creationid="valter" creationdate="20211115T185604Z">
         <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌥ and/or &lt;f0&gt;Alt&lt;/f0&gt; or &lt;f1&gt;Option&lt;/f1&gt; depending on keyboard</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T212832Z" creationid="valter" creationdate="20240928T212832Z">
+        <seg>⌥ e/o &lt;f0&gt;Alt&lt;/f0&gt; o &lt;f1&gt;Opzione&lt;/f1&gt;, a seconda della tastiera</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
