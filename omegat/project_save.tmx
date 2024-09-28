@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt; users have a voice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T120008Z" creationid="valter" creationdate="20240928T120008Z">
+        <seg>Tutti gli utenti di L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt; hanno voce in capitolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All modules share a common spelling checker and other tools, which are used consistently across the suite.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114930Z" creationid="valter" creationdate="20240928T114930Z">
@@ -1022,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enhancements, software fixes, and release dates are community-driven.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T120038Z" creationid="valter" creationdate="20240928T120038Z">
+        <seg>Migliorie, eliminazione di errori e date di rilascio sono coordinati dalla comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Everything sent to a forum, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T100804Z" creationid="valter" creationdate="20240928T100804Z">
@@ -1544,8 +1560,8 @@
       <tuv lang="en-US">
         <seg>In addition to its native Open Document Formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T115553Z" creationid="valter" creationdate="20240928T115553Z">
-        <seg>Oltre ai propri formati nativi Open Document, LibreOffice include il supporto per l'apertura e il salvataggio dei file in molti formati comuni, inclusi Microsoft Office, HTML, XML, WordPerfect e Lotus 1-2-3.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115659Z" creationid="valter" creationdate="20240928T115553Z">
+        <seg>Oltre ai propri formati nativi OpenDocument, LibreOffice include il supporto per l'apertura e il salvataggio dei file in molti formati comuni, inclusi Microsoft Office, HTML, XML, WordPerfect e Lotus 1-2-3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice uses OpenDocument, an XML (eXtensible Markup Language) file format developed as an industry standard by OASIS (Organization for the Advancement of Structured Information Standards).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115804Z" creationid="valter" creationdate="20240928T115654Z">
+        <seg>LibreOffice usa OpenDocument, un formato file XML (eXtensible Markup Language) sviluppato come standard di settore da OASIS (Organization for the Advancement of Structured Information Standards).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice will translate seamlessly between the two.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191504Z" creationid="akurery" creationdate="20211211T191504Z">
@@ -2202,6 +2226,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113814Z" creationid="valter" creationdate="20240928T113814Z">
         <seg>Nessun costo di licenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No vendor lock-in</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115636Z" creationid="valter" creationdate="20240928T115636Z">
+        <seg>Nessun vincolo esclusivo con il produttore</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +2514,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190614Z" creationid="valter" creationdate="20211115T190614Z">
         <seg>Vedere &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Appendix B for a list.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115623Z" creationid="valter" creationdate="20240928T115623Z">
+        <seg>Per un elenco, vedere l'Appendice B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,6 +2882,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182628Z" creationid="valter" creationdate="20211115T182628Z">
         <seg>Alcune immagini, pertanto, non saranno esattamente uguali a quelle che vedete sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These files can easily be unzipped and read by any text editor, and their framework is open and published.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240928T115910Z" creationid="valter" creationdate="20240928T115702Z">
+        <seg>Questi file sono facilmente decomprimibili e leggibili da qualsiasi editor di testo e la loro struttura è aperta e liberamente consultabile.</seg>
       </tuv>
     </tu>
     <tu>
