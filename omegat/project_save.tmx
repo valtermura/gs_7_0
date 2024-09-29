@@ -2889,6 +2889,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More information and download links to the appropriate edition for an operating system can be found at: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T183013Z" creationid="valter" creationdate="20240929T183013Z">
+        <seg>Ulteriori informazioni e collegamenti per lo scaricamento dell'edizione adatta al proprio sistema operativo si trovano all'indirizzo: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More information and download links to the appropriate edition for your operating system can be found at: &lt;a0&gt;&lt;f1&gt;https://java.com/en/download/manual.jsp&lt;/f1&gt;&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192249Z" creationid="valter" creationdate="20211115T192249Z">
