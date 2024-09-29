@@ -759,6 +759,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An interactive web page that guides users in contributing with their best skills available at &lt;a1&gt;https://whatcanidoforlibreoffice.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T183614Z" creationid="valter" creationdate="20240929T183614Z">
+        <seg>Esiste una pagina web interattiva che guida gli utenti a capire in che campo possono meglio contribuire all'indirizzo &lt;a1&gt;https://whatcanidoforlibreoffice.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Andrew Jensen</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101827Z" creationid="valter" creationdate="20211016T101827Z">
@@ -1871,6 +1879,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How can users contribute to LibreOffice?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T183108Z" creationid="valter" creationdate="20240929T183108Z">
+        <seg>Come si può contribuire a LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can you make it for free?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191718Z" creationid="valter" creationdate="20211115T191718Z">
@@ -1967,6 +1983,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If Java is not to be used, nearly all of the LibreOffice features can still be used.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T183059Z" creationid="valter" creationdate="20240929T183059Z">
+        <seg>Se non si utilizzerà Java sarà comunque possibile usare quasi tutte le funzionalità di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If LibreOffice features that require Java are to be used, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133143Z" creationid="valter" creationdate="20240928T133143Z">
@@ -1979,6 +2003,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152725Z" creationid="valter" creationdate="20240928T152725Z">
         <seg>Se risulta difficile capire a cosa serve un'opzione, LibreOffice consiglia di non modificare l'opzione e mantenerla alle sue impostazioni predefinite, a meno che le istruzioni contenute in questa guida non consiglino il contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the LibreOffice features that require Java are to be used, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T183031Z" creationid="valter" creationdate="20240929T183031Z">
+        <seg>Se devono essere utilizzate le funzionalità di LibreOffice che richiedono Java, è importante che sia installata la corretta versione a 32 bit o a 64 bit corrispondente alla versione installata di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4270,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>VM: cambiare il collegamento nel documento</note>
+      <tuv lang="en-US">
+        <seg>To start, check out this web page: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T183346Z" creationid="valter" creationdate="20240929T183346Z">
+        <seg>Per iniziare, dare uno sguardo a questa pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To start, check out this webpage: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;</seg>
       </tuv>
@@ -4267,6 +4308,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T160203Z" creationid="valter" creationdate="20240928T160203Z">
         <seg>Guide utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Users can help with the development and user support of LibreOffice in many ways, and there is no need to be a programmer.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T183145Z" creationid="valter" creationdate="20240929T183145Z">
+        <seg>Gli utenti possono contribuire allo sviluppo e al supporto utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
       </tuv>
     </tu>
     <tu>
