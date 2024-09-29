@@ -3025,6 +3025,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Noticeable improvements or enhancements to this version include the following:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T194510Z" creationid="valter" creationdate="20240929T194510Z">
+        <seg>Le migliorie degne di nota in questa versione includono le seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Offline Help is installed with the MacOS version of LibreOffice &lt;f0&gt;by default&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T154301Z" creationid="valter" creationdate="20240928T154301Z">
