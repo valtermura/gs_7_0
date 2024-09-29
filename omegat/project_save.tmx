@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195926Z" creationid="valter" creationdate="20240929T195926Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102252Z" creationid="valter" creationdate="20240928T102252Z">
@@ -295,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;at &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195821Z" creationid="valter" creationdate="20240929T195821Z">
+        <seg>&lt;f0&gt;La documentazione per LibreOffice è disponibile&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;all'indirizzo &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Donate to LibreOffice&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Donation page of the LibreOffice website, &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T171948Z" creationid="valter" creationdate="20211115T171948Z">
@@ -555,6 +571,46 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172543Z" creationid="valter" creationdate="20240928T172543Z">
         <seg>&lt;s0&gt;Finestra di dialogo Vista delle Opzioni di LibreOffice&lt;/s0&gt;&lt;s1&gt;Finestra di dialogo Vista delle Opzioni di LibreOffice&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Preface&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195920Z" creationid="valter" creationdate="20240929T195920Z">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Guida introduttiva 24.8 - Prefazione&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Getting Started Guide 24.8 - Preface&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195625Z" creationid="valter" creationdate="20240929T195625Z">
+        <seg>&lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Guida introduttiva 24.8 - Prefazione&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Getting Started Guide 24.8 - Preface&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195733Z" creationid="valter" creationdate="20240929T195733Z">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Guida introduttiva 24.8 - Prefazione&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Frequently asked questions&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;13&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195600Z" creationid="valter" creationdate="20240929T195600Z">
+        <seg>&lt;t0&gt;Domande ricorrenti&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;13&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Getting Started Guide 24.8 - Preface&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195702Z" creationid="valter" creationdate="20240929T195702Z">
+        <seg>&lt;t0&gt;Guida introduttiva 24.8 - Prefazione&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4964,6 +5020,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185758Z" creationid="valter" creationdate="20211115T185758Z">
         <seg>interfaccia utente, parti della</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| &lt;t0&gt;0&lt;/t0&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195836Z" creationid="valter" creationdate="20240929T195836Z">
+        <seg>| &lt;t0&gt;0&lt;/t0&gt;</seg>
       </tuv>
     </tu>
     <tu>
