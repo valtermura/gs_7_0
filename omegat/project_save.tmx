@@ -3105,6 +3105,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T200134Z" creationid="valter" creationdate="20240929T200134Z">
+        <seg>No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No licensing fees</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113814Z" creationid="valter" creationdate="20240928T113814Z">
@@ -3445,6 +3453,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print a brochure</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T200154Z" creationid="valter" creationdate="20240929T200154Z">
+        <seg>Stampa di un dépliant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profits from sales of the printed edition will be used to benefit the community.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213858Z" creationid="valter" creationdate="20240928T213858Z">
@@ -3710,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selection</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T200211Z" creationid="valter" creationdate="20240929T200211Z">
+        <seg>Selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Send Feedback</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161918Z" creationid="valter" creationdate="20240928T161918Z">
@@ -3746,6 +3770,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191336Z" creationid="akurery" creationdate="20211211T191336Z">
         <seg>I caratteri jolly semplici, come l'asterisco (*), il punto interrogativo (?) e la tilde (~), usati da altre applicazioni per fogli di calcolo, sono riconosciuti da LibreOffice nelle espressioni delle formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slides</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T200222Z" creationid="valter" creationdate="20240929T200222Z">
+        <seg>Diapositive</seg>
       </tuv>
     </tu>
     <tu>
@@ -4796,6 +4828,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104250Z" creationid="valter" creationdate="20211115T193624Z">
         <seg>Writer è uno strumento ricco di funzioni per la creazione di lettere, libri, relazioni, bollettini, dépliant e altri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T200119Z" creationid="valter" creationdate="20240929T200119Z">
+        <seg>Sì</seg>
       </tuv>
     </tu>
     <tu>
