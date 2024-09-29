@@ -1279,6 +1279,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable hyphenation for selected words</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195341Z" creationid="valter" creationdate="20240929T195341Z">
+        <seg>Opzione disabilita la sillabazione per le parole selezionate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distribute, copy, and modify the software as required, in accordance with the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113952Z" creationid="valter" creationdate="20240928T113952Z">
@@ -3009,6 +3017,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New Color Scheme dialog in Basic IDE</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195528Z" creationid="valter" creationdate="20240929T195528Z">
+        <seg>Nuova finestra di dialogo schema colori nell'IDE di Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New chart types: "Pie-of-pie" and "Bar-of-pie"</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T194906Z" creationid="valter" creationdate="20240929T194906Z">
@@ -3529,6 +3545,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T161126Z" creationid="valter" creationdate="20240928T161126Z">
         <seg>Cerca comandi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for objects in Gallery Sidebar deck</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195427Z" creationid="valter" creationdate="20240929T195427Z">
+        <seg>Ricerca degli oggetti nella barra laterale Galleria</seg>
       </tuv>
     </tu>
     <tu>
