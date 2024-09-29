@@ -545,8 +545,8 @@
       <tuv lang="en-US">
         <seg>&lt;f4&gt;Extended Tips&lt;/f4&gt; provide a brief description about tools and commands.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T160153Z" creationid="valter" creationdate="20240928T155936Z">
-        <seg>La &lt;emph&gt;Guida attiva&lt;/emph&gt; offre una breve descrizione degli strumenti e dei comandi.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T202312Z" creationid="valter" creationdate="20240928T155936Z">
+        <seg>La &lt;f4&gt;Guida attiva&lt;/f4&gt; offre una breve descrizione degli strumenti e dei comandi.</seg>
       </tuv>
     </tu>
     <tu>
