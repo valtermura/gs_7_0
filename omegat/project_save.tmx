@@ -671,6 +671,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also at this link, the release notes for earlier versions of LibreOffice are located giving more information on the features that are included in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T194322Z" creationid="valter" creationdate="20240929T194322Z">
+        <seg>A questo indirizzo si trovano anche le note di rilascio delle versioni precedenti di LibreOffice, per fornire ulteriori informazioni sulle caratteristiche incluse in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, Microsoft Excel workbooks can be opened and worked on, then saved in Excel format.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T105120Z" creationid="valter" creationdate="20240928T105120Z">
@@ -2705,6 +2713,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice requests that users share with the LibreOffice project some of the profits made from sales of user guides, in consideration of all the work that LibreOffice volunteers have put into producing user guides.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T193850Z" creationid="valter" creationdate="20240929T193850Z">
+        <seg>LibreOffice richiede che gli utenti condividano con il progetto LibreOffice parte dei profitti ottenuti dalla vendita delle guide, in considerazione di tutto il lavoro che i volontari di LibreOffice hanno svolto per produrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice runs on &lt;f0&gt;the&lt;/f0&gt; Windows, Linux, and macOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170805Z" creationid="valter" creationdate="20240928T170805Z">
@@ -3806,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The LibreOffice &lt;ud0/&gt;&lt;s1/&gt;Release Notes are available at th&lt;f2&gt;e&lt;/f2&gt;s&lt;f3&gt;e&lt;/f3&gt; link&lt;f4&gt;s &lt;/f4&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.2&lt;/f6&gt;&lt;/a5&gt;&lt;f7&gt; and &lt;/f7&gt;&lt;a8&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.8&lt;/a8&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T194123Z" creationid="valter" creationdate="20240929T194123Z">
+        <seg>&lt;ud0/&gt;&lt;s1/&gt;Le note di rilascio di LibreOffice sono disponibili agli indirizzi&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt; &lt;f4&gt;&lt;/f4&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.2&lt;/f6&gt;&lt;/a5&gt;&lt;f7&gt; e &lt;/f7&gt;&lt;a8&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.8&lt;/a8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LibreOffice community has created icons for several icon sets, including Breeze, Colibre, Elementary, and Sifr.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172343Z" creationid="valter" creationdate="20240928T172343Z">
@@ -4042,6 +4066,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115038Z" creationid="valter" creationdate="20240928T115038Z">
         <seg>Non è necessario sapere quale applicazione è stata utilizzata per creare un particolare file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is no need to request special permission.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T193714Z" creationid="valter" creationdate="20240929T193714Z">
+        <seg>Non è necessario richiedere un permesso speciale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4428,6 +4460,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102424Z" creationid="valter" creationdate="20240928T102424Z">
         <seg>Novità in LibreOffice 24.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is new in LibreOffice &lt;ud0&gt;24.8&lt;/ud0&gt;?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T193922Z" creationid="valter" creationdate="20240929T193922Z">
+        <seg>Novità in LibreOffice &lt;ud0&gt;24.8&lt;/ud0&gt;?</seg>
       </tuv>
     </tu>
     <tu>
