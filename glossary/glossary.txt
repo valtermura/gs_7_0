@@ -8,3 +8,4 @@ Offline Help	Guida integrata	ultima versione della traduzione
 Menu bar	barra dei menu
 Extended Tips	Guida attiva	come da software
 release notes	note di rilascio
+Sidebar	Barra laterale
