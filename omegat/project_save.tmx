@@ -4632,6 +4632,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Yes, as long as requirements are met for one of the licenses in the copyright statement at the beginning of this user guide.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T193709Z" creationid="valter" creationdate="20240929T193709Z">
+        <seg>Sì, fintantoché siano rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193252Z" creationid="valter" creationdate="20211115T193252Z">
