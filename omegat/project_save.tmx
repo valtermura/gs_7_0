@@ -1015,6 +1015,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can the PDF copy of this user guide be distributed, or printed and copies sold?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T193626Z" creationid="valter" creationdate="20240929T193626Z">
+        <seg>La copia in PDF di questa guida può essere distribuita, oppure stampata e le copie vendute?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can the programming code from LibreOffice be used when developing a software application?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T215429Z" creationid="valter" creationdate="20240928T215429Z">
