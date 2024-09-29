@@ -1529,8 +1529,8 @@
       <tuv lang="en-US">
         <seg>Everything sent to a forum, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T100804Z" creationid="valter" creationdate="20240928T100804Z">
-        <seg>Qualsiasi cosa sarà inviato a un forum, inclusi gli indirizzi di posta elettronica e qualsiasi altra informazione personale presente all'interno del messaggio, sarà archiviata pubblicamente e non potrà essere eliminata.</seg>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T201027Z" creationid="valter" creationdate="20240928T100804Z">
+        <seg>Qualsiasi cosa sarà inviata a un forum, inclusi gli indirizzi di posta elettronica e qualsiasi altra informazione personale presente all'interno del messaggio, verrà archiviata pubblicamente e non potrà essere eliminata.</seg>
       </tuv>
     </tu>
     <tu>
