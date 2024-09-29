@@ -1663,6 +1663,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a detailed list, see LibreOffice Help.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T200831Z" creationid="valter" creationdate="20240929T200831Z">
+        <seg>Per un elenco dettagliato, vedere la Guida di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a more detailed explanation, select &lt;f0&gt;Help &gt; What's This?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155649Z" creationid="valter" creationdate="20240928T155649Z">
