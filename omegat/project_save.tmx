@@ -1359,6 +1359,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw: hover a layer's tab to show its objects</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T194707Z" creationid="valter" creationdate="20240929T194707Z">
+        <seg>Draw: passare col mouse sopra la scheda di un livello mostra i suoi oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drop-down list from which to select an item.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190344Z" creationid="valter" creationdate="20211115T190344Z">
@@ -2131,6 +2139,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195058Z" creationid="valter" creationdate="20211115T195058Z">
         <seg>Impress fornisce tutti i più comuni strumenti di presentazione multimediale quali effetti speciali, animazione e strumenti di disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Impress: Notes pane under the slide</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T194626Z" creationid="valter" creationdate="20240929T194626Z">
+        <seg>Impress: pannello delle Note sotto la diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -2985,10 +3001,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New "Quick find" deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T194607Z" creationid="valter" creationdate="20240929T194607Z">
+        <seg>Nuovo pannello "Ricerca rapida" nella barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New chart types: "Pie-of-pie" and "Bar-of-pie"</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T194906Z" creationid="valter" creationdate="20240929T194906Z">
+        <seg>Nuovi tipi di grafico: "Torta della torta" e "Barre della torta"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New code is available under LGPL 3.0 and MPL 2.0.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190915Z" creationid="valter" creationdate="20211115T190915Z">
         <seg>Il nuovo codice è disponibile sotto LGPL 3.0 e MPL 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New spreadsheet functions: XLOOKUP, XMATCH, FILTER, RANDARRAY, SEQUENCE, SORT, SORTBY, UNIQUE, LET</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20240929T195309Z" creationid="valter" creationdate="20240929T195309Z">
+        <seg>Nuove funzioni per i fogli di calcolo: CERCA.X, CONFRONTA.X, FILTRO, MATR.CASUALE, SEQUENZA, DATI.ORDINA, DATI.ORDINA.PER, UNICI, LET</seg>
       </tuv>
     </tu>
     <tu>
