@@ -1,0 +1,3383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>LibreOffice Logo<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>LibreOffice Logo<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Logo di LibreOffice<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>Logo di LibreOffice<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;ud0&gt;</bpt>Getting Started Guide<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph><bpt i="2" x="2">&lt;ud2&gt;</bpt>24.8<ept i="2">&lt;/ud2&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;ud0&gt;</bpt>Guida all'avvio<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph><bpt i="2" x="2">&lt;ud2&gt;</bpt>14.<ept i="2">&lt;/ud2&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Appendix A, <ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Appendice A, <ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tastiera Scorciatoie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Diritto d'autore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This document is Copyright © <bpt i="0" x="0">&lt;ud0&gt;</bpt>2024<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph>by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Questo documento è Copyright © <bpt i="0" x="0">&lt;ud0&gt;</bpt>2024<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph>dal team di documentazione LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors are listed below.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>I contributi sono elencati di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This document may be distributed and/or modified under the terms of either the GNU General Public License (<bpt i="2" x="2">&lt;a2&gt;</bpt>https://www.gnu.org/licenses/gpl.html<ept i="2">&lt;/a2&gt;</ept>), version 3 or later, or the Creative Commons Attribution License (<bpt i="3" x="3">&lt;a3&gt;</bpt>https://creativecommons.org/licenses/by/4.0/<ept i="3">&lt;/a3&gt;</ept>), version 4.0 or later.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Questo documento può essere distribuito e/o modificato con i termini della GNU General Public License (<bpt i="2" x="2">&lt;a2&gt;</bpt>https://www.gnu.org/licenses/gpl.html<ept i="2">&lt;/a2&gt;</ept>), versione 3 o successiva, o la licenza Creative Commons Attribuzione (<bpt i="3" x="3">&lt;a3&gt;</bpt>https://creativecommons.org/licenses/by/4.0/<ept i="3">&lt;/a3&gt;</ept>), versione 4.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All trademarks within this guide belong to their legitimate owners.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tutti i marchi all'interno di questa guida appartengono ai loro legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Contributori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors for this edition:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Contributori per questa edizione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Luciana Motta, <ept i="0">&lt;/f0&gt;</ept>B Antonio Fernandez , Olivier Hallot</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Luciana Motta, <ept i="0">&lt;/f0&gt;</ept>B Antonio Fernandez, Olivier Hallot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors for previous editions:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Contributori per le edizioni precedenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at <bpt i="0" x="0">&lt;a0&gt;</bpt>https://community.documentfoundation.org/c/documentation/loguides/<ept i="0">&lt;/a0&gt;</ept> (registration is required) or send an email to: <bpt i="1" x="1">&lt;a1&gt;</bpt>loguides@community.documentfoundation.org<ept i="1">&lt;/a1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Si prega di indirizzare qualsiasi commento o suggerimenti su questo documento al forum del team di documentazione al <bpt i="0" x="0">&lt;a0&gt;</bpt>https://community.documentfoundation.org/c/documentation/loguides/<ept i="0">&lt;/a0&gt;</ept> (la registrazione è richiesta) o inviare una email a: <bpt i="1" x="1">&lt;a1&gt;</bpt>loguides@community.documentfoundation.org<ept i="1">&lt;/a1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Everything you send to a mailing list or forum, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tutto ciò che invii a una mailing list o forum, compreso il tuo indirizzo email e qualsiasi altra informazione personale che è scritta nel messaggio, è archiviata pubblicamente e non può essere cancellata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Data di pubblicazione e versione software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Published <bpt i="0" x="0">&lt;f0&gt;</bpt>in <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;ud1&gt;</bpt>August<ept i="1">&lt;/ud1&gt;</ept><ph x="2">&lt;s2/&gt;</ph><bpt i="3" x="3">&lt;ud3&gt;</bpt>2024<ept i="3">&lt;/ud3&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Pubblicato <bpt i="0" x="0">&lt;f0&gt;</bpt>in <ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;ud1&gt;</bpt>Agosto<ept i="1">&lt;/ud1&gt;</ept><ph x="2">&lt;s2/&gt;</ph><bpt i="3" x="3">&lt;ud3&gt;</bpt>2024<ept i="3">&lt;/ud3&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Based on LibreOffice <bpt i="4" x="4">&lt;ud4&gt;</bpt>24.8<ept i="4">&lt;/ud4&gt;</ept><ph x="5">&lt;s5/&gt;</ph>Community.<ph x="6">&lt;br6/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sulla base di LibreOffice <bpt i="4" x="4">&lt;ud4&gt;</bpt>14.<ept i="4">&lt;/ud4&gt;</ept><ph x="5">&lt;s5/&gt;</ph>Comunità.<ph x="6">&lt;br6/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Altre versioni di LibreOffice possono differire in aspetto e funzionalità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Diritto d'autore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Contributori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Data di pubblicazione e versione software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice assistive tools</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Strumenti di assistenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>scorciatoie da tastiera macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Utilizzo delle scorciatoie da tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opening menus and menu items</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Menu di apertura e menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accessing menu commands</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Accedere ai comandi del menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accessing toolbar commands</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Accedere ai comandi della barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Navigazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Text selection and deletion</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Selezione del testo e cancellazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Controlling dialogs</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Controllo delle finestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Controlling documents and windows</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Controllo documenti e finestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Editing or formatting documents</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Modifica o formattazione dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sidebar keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gallery</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Database table keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Scorciatoie della tabella del database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Controlling macros</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Controllo delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Entering Unicode numbers</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Immissione di numeri Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defining keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Definizione delle scorciatoie da tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Further reading</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ulteriori informazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice can be used without requiring a pointing device, such as a mouse or trackball, by using the keyboard shortcuts that are available in Draw.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>LibreOffice può essere utilizzato senza richiedere un dispositivo di punta, come un mouse o un trackball, utilizzando le scorciatoie da tastiera che sono disponibili in Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tasks as varied and complex as docking and un-docking toolbars and windows, or changing the size or position of objects can all be accomplished with using keyboard shortcuts.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Le attività varie e complesse come docking e le barre degli strumenti e le finestre non docking, o cambiare la dimensione o la posizione degli oggetti possono tutti essere realizzate utilizzando scorciatoie della tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Although LibreOffice has an extensive set of keyboard shortcuts, each LibreOffice module has keyboard shortcuts that are specific to that module.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Anche se LibreOffice ha una vasta serie di scorciatoie da tastiera, ogni modulo LibreOffice ha scorciatoie da tastiera che sono specifiche per quel modulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This appendix lists some of the more common keyboard shortcuts that apply to multiple components of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Questa appendice elenca alcune delle scorciatoie tastiera più comuni che si applicano a più componenti di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For shortcuts specific to Writer, Calc, Impress, Draw, Math, or Base, refer to the relevant user guide for each module, or search the LibreOffice Help.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per le scorciatoie specifiche di Writer, Calc, Impress, Draw, Math o Base, fare riferimento alla guida utente per ogni modulo, o cercare la Guida LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To assist a user with identifying keyboard shortcuts, <bpt i="0" x="0">&lt;f0&gt;</bpt>these<ept i="0">&lt;/f0&gt;</ept> are indicated by text next to menu items and in tooltips for some tools on toolbars.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per aiutare un utente con l'identificazione delle scorciatoie della tastiera, <bpt i="0" x="0">&lt;f0&gt;</bpt>questi<ept i="0">&lt;/f0&gt;</ept> sono indicati per testo accanto agli elementi del menu e in tooltips per alcuni strumenti sulle barre degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" x="1">&lt;f1&gt;</bpt>For example, i<ept i="1">&lt;/f1&gt;</ept>n Writer some commonly used keyboard shortcuts are as follows:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="1" x="1">&lt;f1&gt;</bpt>Per esempio, i<ept i="1">&lt;/f1&gt;</ept>n Scrittore alcuni tasti di scelta rapida comunemente utilizzati sono i seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>File &gt; Open<ept i="0">&lt;/f0&gt;</ept> on the Menu bar includes text indicating that <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl+O<ept i="1">&lt;/f1&gt;</ept> (macOS ⌘<bpt i="2" x="2">&lt;f2&gt;</bpt>+O<ept i="2">&lt;/f2&gt;</ept>) is a keyboard shortcut.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>File &gt; Aperto<ept i="0">&lt;/f0&gt;</ept> sulla barra del menu include testo che indica che <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl+O<ept i="1">&lt;/f1&gt;</ept> (MAOS ⌘)<bpt i="2" x="2">&lt;f2&gt;</bpt>+<ept i="2">&lt;/f2&gt;</ept>) è una scorciatoia da tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Align Left<ept i="0">&lt;/f0&gt;</ept> tool in the Formatting toolbar has a tooltip indicating that <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl+L<ept i="1">&lt;/f1&gt;</ept> (macOS ⌘<bpt i="2" x="2">&lt;f2&gt;</bpt>+L<ept i="2">&lt;/f2&gt;</ept>) is a keyboard shortcut.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Allineare la sinistra<ept i="0">&lt;/f0&gt;</ept> strumento nella barra degli strumenti di formattazione ha un tooltip che indica che <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl+L<ept i="1">&lt;/f1&gt;</ept> (MAOS ⌘)<bpt i="2" x="2">&lt;f2&gt;</bpt>+<ept i="2">&lt;/f2&gt;</ept>) è una scorciatoia da tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A list of available keyboard shortcuts in LibreOffice can be found <bpt i="0" x="0">&lt;f0&gt;</bpt>in the keyboard tab of the Customize dialog box<ept i="0">&lt;/f0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Un elenco di scorciatoie da tastiera disponibili in LibreOffice può essere trovato <bpt i="0" x="0">&lt;f0&gt;</bpt>nella scheda tastiera della finestra di dialogo Personalizza<ept i="0">&lt;/f0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Go to <bpt i="1" x="1">&lt;f1&gt;</bpt>Tools &gt; Customize<ept i="1">&lt;/f1&gt;</ept> on the Menu bar and click on <bpt i="2" x="2">&lt;f2&gt;</bpt>Keyboard<ept i="2">&lt;/f2&gt;</ept> <bpt i="3" x="3">&lt;f3&gt;</bpt>section <ept i="3">&lt;/f3&gt;</ept>to open the <bpt i="4" x="4">&lt;f4&gt;</bpt>Keyboard<ept i="4">&lt;/f4&gt;</ept> <bpt i="5" x="5">&lt;f5&gt;</bpt>tab<ept i="5">&lt;/f5&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Vai a <bpt i="1" x="1">&lt;f1&gt;</bpt>Strumenti &gt; Personalizzare<ept i="1">&lt;/f1&gt;</ept> sulla barra del menu e cliccare su <bpt i="2" x="2">&lt;f2&gt;</bpt>Tastiera<ept i="2">&lt;/f2&gt;</ept> <bpt i="3" x="3">&lt;f3&gt;</bpt>sezione <ept i="3">&lt;/f3&gt;</ept>per aprire <bpt i="4" x="4">&lt;f4&gt;</bpt>Tastiera<ept i="4">&lt;/f4&gt;</ept> <bpt i="5" x="5">&lt;f5&gt;</bpt>scheda<ept i="5">&lt;/f5&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples of keyboard shortcuts for Linux/Windows see Figure <bpt i="6" x="6">&lt;t6&gt;</bpt>1<ept i="6">&lt;/t6&gt;</ept> and for macOS see Figure <bpt i="7" x="7">&lt;t7&gt;</bpt>2<ept i="7">&lt;/t7&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Esempi di scorciatoie da tastiera per Linux/Windows vedi Figura<bpt i="6" x="6">&lt;t6&gt;</bpt>1<ept i="6">&lt;/t6&gt;</ept> e per mac OS vedi Figura<bpt i="7" x="7">&lt;t7&gt;</bpt>2<ept i="7">&lt;/t7&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Customize dialog — Keyboard tab for Linux/Windows<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>Customize dialog — Keyboard tab for Linux/Windows<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Personalizzare la finestra di dialogo — Tastiera scheda per Linux/Windows<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>Personalizzare la finestra di dialogo — Tastiera scheda per Linux/Windows<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Figure <bpt i="0" x="0">&lt;seq0&gt;</bpt>1<ept i="0">&lt;/seq0&gt;</ept>: Customize dialog — Keyboard <bpt i="1" x="1">&lt;f1&gt;</bpt>tab<ept i="1">&lt;/f1&gt;</ept> for Linux/Windows</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Figura <bpt i="0" x="0">&lt;seq0&gt;</bpt>1<ept i="0">&lt;/seq0&gt;</ept>: Personalizzare la finestra di dialogo — tastiera <bpt i="1" x="1">&lt;f1&gt;</bpt>scheda<ept i="1">&lt;/f1&gt;</ept> per Linux/Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Customize dialog — Keyboard tab for Linux/Windows</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Personalizzare la finestra di dialogo — Tastiera scheda per Linux/Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Customize dialog — Keyboard tab for macOS<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>Customize dialog — Keyboard tab for macOS<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Personalizzare la finestra di dialogo — Tastiera scheda per macOS<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>Personalizzare la finestra di dialogo — Tastiera scheda per macOS<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Figure <bpt i="0" x="0">&lt;seq0&gt;</bpt>2<ept i="0">&lt;/seq0&gt;</ept>: Customize dialog — Keyboard <bpt i="1" x="1">&lt;f1&gt;</bpt>tab<ept i="1">&lt;/f1&gt;</ept> for macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Figura <bpt i="0" x="0">&lt;seq0&gt;</bpt>2<ept i="0">&lt;/seq0&gt;</ept>: Personalizzare la finestra di dialogo — tastiera <bpt i="1" x="1">&lt;f1&gt;</bpt>scheda<ept i="1">&lt;/f1&gt;</ept> per macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Customize dialog — Keyboard tab for macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Personalizzare la finestra di dialogo — Tastiera scheda per macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some keyboard shortcuts listed may not be available, if the computer operating system uses the same shortcuts as LibreOffice for other tasks.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Alcune scorciatoie da tastiera elencate potrebbero non essere disponibili, se il sistema operativo del computer utilizza le stesse scorciatoie di LibreOffice per altri compiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To <bpt i="0" x="0">&lt;f0&gt;</bpt>solve<ept i="0">&lt;/f0&gt;</ept> any conflicts, assign different keys to these shortcuts by reconfiguring either LibreOffice (see Chapter 13, Customizing LibreOffice), or the computer operating system (see <bpt i="1" x="1">&lt;f1&gt;</bpt>operating system <ept i="1">&lt;/f1&gt;</ept>documentation or help).</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>A <bpt i="0" x="0">&lt;f0&gt;</bpt>risolvere<ept i="0">&lt;/f0&gt;</ept> eventuali conflitti, assegnare chiavi diverse a queste scorciatoie riconfigurando sia LibreOffice (vedi Capitolo 13, Personalizzando LibreOffice), sia il sistema operativo del computer (vedere <bpt i="1" x="1">&lt;f1&gt;</bpt>sistema operativo <ept i="1">&lt;/f1&gt;</ept>documentazione o aiuto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice assistive tools</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Strumenti di assistenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to keyboard shortcuts, LibreOffice supports some assistive technology tools like screen magnification software, screen readers, and on-screen keyboards.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Oltre alle scorciatoie della tastiera, LibreOffice supporta alcuni strumenti di tecnologia assistiva come software di ingrandimento dello schermo, lettori dello schermo e tastiere sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please note that except for the Windows platform, accessibility support relies on Java technology for communication with assistive technology tools.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Si prega di notare che, ad eccezione della piattaforma Windows, il supporto di accessibilità si basa sulla tecnologia Java per la comunicazione con strumenti di tecnologia assistiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that the first program startup may take a few seconds longer, because the Java runtime environment has to be started as well.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ciò significa che la prima avvio del programma può richiedere alcuni secondi più a lungo, perché l'ambiente di runtime Java deve essere avviato pure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The current list of supported assistive tools can be found at <bpt i="0" x="0">&lt;a0&gt;</bpt>https://wiki.documentfoundation.org/Accessibility<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>L'elenco attuale degli strumenti assistivi supportati può essere trovato in <bpt i="0" x="0">&lt;a0&gt;</bpt>https://wiki.documentfoundation.org/accessibilità<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>scorciatoie da tastiera macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some keystrokes and menu items are different on a macOS computer from those used in Windows or Linux computers.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Alcuni tasti e le voci di menu sono diversi su un computer macOS da quelli utilizzati nei computer Windows o Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This due to the way the different <ph x="0">&lt;s0/&gt;</ph>systems work and the different types of keyboards used.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Questo a causa del modo in cui i diversi <ph x="0">&lt;s0/&gt;</ph>sistemi di lavoro e i diversi tipi di tastiere utilizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also, the <bpt i="1" x="1">&lt;f1&gt;</bpt>labeling<ept i="1">&lt;/f1&gt;</ept> on keyboards may vary depending on the age of the computer and style of keyboard being used.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inoltre, il <bpt i="1" x="1">&lt;f1&gt;</bpt>etichettatura<ept i="1">&lt;/f1&gt;</ept> sulle tastiere possono variare a seconda dell'età del computer e dello stile di tastiera utilizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tables <bpt i="0" x="0">&lt;t0&gt;</bpt>1<ept i="0">&lt;/t0&gt;</ept>, <bpt i="1" x="1">&lt;t1&gt;</bpt>2<ept i="1">&lt;/t1&gt;</ept><ph x="2">&lt;s2/&gt;</ph>and <bpt i="3" x="3">&lt;t3&gt;</bpt>3<ept i="3">&lt;/t3&gt;</ept><ph x="4">&lt;s4/&gt;</ph>show the most common variations in keyboard shortcuts and keyboard <bpt i="5" x="5">&lt;f5&gt;</bpt>labeling.<ept i="5">&lt;/f5&gt;</ept> Table <bpt i="6" x="6">&lt;t6&gt;</bpt>4<ept i="6">&lt;/t6&gt;</ept><ph x="7">&lt;s7/&gt;</ph>shows examples of using macOS keyboard shortcuts.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tavole <bpt i="0" x="0">&lt;t0&gt;</bpt>1<ept i="0">&lt;/t0&gt;</ept>♪ <bpt i="1" x="1">&lt;t1&gt;</bpt>2<ept i="1">&lt;/t1&gt;</ept><ph x="2">&lt;s2/&gt;</ph>e <bpt i="3" x="3">&lt;t3&gt;</bpt>3<ept i="3">&lt;/t3&gt;</ept><ph x="4">&lt;s4/&gt;</ph>mostrare le variazioni più comuni nelle scorciatoie da tastiera e tastiera <bpt i="5" x="5">&lt;f5&gt;</bpt>etichettare.<ept i="5">&lt;/f5&gt;</ept> Tabella <bpt i="6" x="6">&lt;t6&gt;</bpt>4<ept i="6">&lt;/t6&gt;</ept><ph x="7">&lt;s7/&gt;</ph>mostra esempi di utilizzo di tastiere macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more information on keyboard shortcuts, see LibreOffice Help.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per ulteriori informazioni sulle scorciatoie da tastiera, vedere LibreOffice Help.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>1<ept i="0">&lt;/seq0&gt;</ept>: Shift, Control and Alt keys</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>1<ept i="0">&lt;/seq0&gt;</ept>: chiavi Shift, Control e Alt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Control<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Controllo<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘ or <bpt i="0" x="0">&lt;f0&gt;</bpt>Cmd<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Command<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘ o <bpt i="0" x="0">&lt;f0&gt;</bpt>Cm.<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Comando<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌥ or <bpt i="0" x="0">&lt;f0&gt;</bpt>Option<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Alt<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌥ o <bpt i="0" x="0">&lt;f0&gt;</bpt>Opzione<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Alt<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Shift<ept i="0">&lt;/f0&gt;</ept> or ⇧</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Shift<ept i="0">&lt;/f0&gt;</ept> o ⇧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Shift<ept i="0">&lt;/f0&gt;</ept> or ⇧</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Shift<ept i="0">&lt;/f0&gt;</ept> o ⇧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Caps Lock</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tappi serratura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⇪ or <bpt i="0" x="0">&lt;f0&gt;</bpt>Caps Lock<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⇪ o <bpt i="0" x="0">&lt;f0&gt;</bpt>Tappi serratura<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Control<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Controllo<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌃ or <bpt i="0" x="0">&lt;f0&gt;</bpt>Control<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌃ o <bpt i="0" x="0">&lt;f0&gt;</bpt>Controllo<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>2<ept i="0">&lt;/seq0&gt;</ept>: Home and End keys</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>2<ept i="0">&lt;/seq0&gt;</ept>: Le chiavi di casa e di fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fn+Left Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Freccia Fn+Left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>End</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>3<ept i="0">&lt;/seq0&gt;</ept>: Page Up and Page Down</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>3<ept i="0">&lt;/seq0&gt;</ept>: Page Up e Page Down</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Screen Up</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Schermo su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Page Up</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌥ or <bpt i="0" x="0">&lt;f0&gt;</bpt>Option<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Alt<ept i="1">&lt;/f1&gt;</ept>+<bpt i="2" x="2">&lt;f2&gt;</bpt>Fn<ept i="2">&lt;/f2&gt;</ept>+<bpt i="3" x="3">&lt;f3&gt;</bpt>Up Arrow<ept i="3">&lt;/f3&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌥ o <bpt i="0" x="0">&lt;f0&gt;</bpt>Opzione<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Alt<ept i="1">&lt;/f1&gt;</ept>+<bpt i="2" x="2">&lt;f2&gt;</bpt>F<ept i="2">&lt;/f2&gt;</ept>+<bpt i="3" x="3">&lt;f3&gt;</bpt>Arrow<ept i="3">&lt;/f3&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Screen Down</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Schermo giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Fn<ept i="0">&lt;/f0&gt;</ept>+<bpt i="1" x="1">&lt;f1&gt;</bpt>Down Arrow<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>F<ept i="0">&lt;/f0&gt;</ept>+<bpt i="1" x="1">&lt;f1&gt;</bpt>Condividi su Facebook<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Page Down</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌥ or <bpt i="0" x="0">&lt;f0&gt;</bpt>Option<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Alt<ept i="1">&lt;/f1&gt;</ept>+<bpt i="2" x="2">&lt;f2&gt;</bpt>Fn<ept i="2">&lt;/f2&gt;</ept>+<bpt i="3" x="3">&lt;f3&gt;</bpt>Down Arrow<ept i="3">&lt;/f3&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌥ o <bpt i="0" x="0">&lt;f0&gt;</bpt>Opzione<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Alt<ept i="1">&lt;/f1&gt;</ept>+<bpt i="2" x="2">&lt;f2&gt;</bpt>F<ept i="2">&lt;/f2&gt;</ept>+<bpt i="3" x="3">&lt;f3&gt;</bpt>Condividi su Facebook<ept i="3">&lt;/f3&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>4<ept i="0">&lt;/seq0&gt;</ept>: Example of using macOS keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>4<ept i="0">&lt;/seq0&gt;</ept>: Esempio di utilizzo di tastiere macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS equivalent</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>macOS equivalente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tools &gt; Options</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Strumenti &gt; Opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice &gt; Preferences</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>LibreOffice &gt; Preferenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Opzioni di configurazione di accesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Fare clic con il pulsante destro del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Control<ept i="0">&lt;/f0&gt;</ept>+click or right‑click depending on computer setup</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Controllo<ept i="0">&lt;/f0&gt;</ept>+cliccare o fare clic con il pulsante destro del mouse a seconda della configurazione del computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens a context menu</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre un menu di contesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl<ept i="0">&lt;/f0&gt;</ept> (Control)</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl<ept i="0">&lt;/f0&gt;</ept> (Controllo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘ (Command)</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘ (Comando)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Usato con altre chiavi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌥ (Option) or <bpt i="0" x="0">&lt;f0&gt;</bpt>Alt<ept i="0">&lt;/f0&gt;</ept>, depending on keyboard</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>(Opzione) o <bpt i="0" x="0">&lt;f0&gt;</bpt>Alt<ept i="0">&lt;/f0&gt;</ept>, a seconda della tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Usato con altre chiavi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+T<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+ T<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open Styles deck in Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Mazzo Open Styles in Sidebar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Actual keys available on a macOS keyboard depend on the type of keyboard being used.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Le chiavi effettive disponibili su una tastiera macOS dipendono dal tipo di tastiera utilizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a macOS laptop keyboard does not have <bpt i="0" x="0">&lt;f0&gt;</bpt>the<ept i="0">&lt;/f0&gt;</ept> <bpt i="1" x="1">&lt;f1&gt;</bpt>Delete<ept i="1">&lt;/f1&gt;</ept> key, but a macOS keyboard with a numeric keypad does have <bpt i="2" x="2">&lt;f2&gt;</bpt>this <ept i="2">&lt;/f2&gt;</ept>key.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ad esempio, una tastiera per computer portatile macOS non ha <bpt i="0" x="0">&lt;f0&gt;</bpt>il<ept i="0">&lt;/f0&gt;</ept> <bpt i="1" x="1">&lt;f1&gt;</bpt>Cancella<ept i="1">&lt;/f1&gt;</ept> chiave, ma una tastiera macOS con una tastiera numerica ha <bpt i="2" x="2">&lt;f2&gt;</bpt>questo <ept i="2">&lt;/f2&gt;</ept>chiave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In computers using macOS, some keyboard shortcuts are not available and these unavailable keyboard shortcuts are indicated in the following tables with a blank cell.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Nei computer che utilizzano macOS, alcune scorciatoie da tastiera non sono disponibili e queste scorciatoie da tastiera non disponibili sono indicate nelle tabelle seguenti con una cella vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of the shortcut keys may be assigned to the computer operating system and are not available for LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Alcuni dei tasti di scelta rapida possono essere assegnati al sistema operativo del computer e non sono disponibili per LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Either assign different keys in LibreOffice using <ph x="0">&lt;t0/&gt;</ph><bpt i="1" x="1">&lt;f1&gt;</bpt>Tools &gt; Customize &gt; Keyboard<ept i="1">&lt;/f1&gt;</ept> on the Menu bar, or in the computer operating system.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Assegnare diverse chiavi in LibreOffice utilizzando <ph x="0">&lt;t0/&gt;</ph><bpt i="1" x="1">&lt;f1&gt;</bpt>Strumenti &gt; Personalizzare &gt; Tastiera<ept i="1">&lt;/f1&gt;</ept> sulla barra del menu, o nel sistema operativo del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more information, see Chapter 13, Customizing LibreOffice or the documentation/help for the computer operating system.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per ulteriori informazioni, vedere il capitolo 13, Personalizzazione di LibreOffice o la documentazione/aiuto per il sistema operativo del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Utilizzo delle scorciatoie da tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice functions can be used by using keyboard shortcuts.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Le funzioni LibreOffice possono essere utilizzate utilizzando le scorciatoie da tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, the <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+O<ept i="0">&lt;/f0&gt;</ept> (macOS <ph x="1">&lt;bs1/&gt;</ph><ph x="2">&lt;bs2/&gt;</ph><ph x="3">&lt;bs3/&gt;</ph><ph x="4">&lt;bs4/&gt;</ph><ph x="5">&lt;bs5/&gt;</ph><ph x="6">&lt;bs6/&gt;</ph>⌘<ph x="7">&lt;be7/&gt;</ph><ph x="8">&lt;be8/&gt;</ph><ph x="9">&lt;be9/&gt;</ph><ph x="10">&lt;be10/&gt;</ph><ph x="11">&lt;be11/&gt;</ph><ph x="12">&lt;be12/&gt;</ph><bpt i="13" x="13">&lt;f13&gt;</bpt>+O<ept i="13">&lt;/f13&gt;</ept>) shortcut is shown next to <bpt i="14" x="14">&lt;f14&gt;</bpt>Open<ept i="14">&lt;/f14&gt;</ept> in the <bpt i="15" x="15">&lt;f15&gt;</bpt>File<ept i="15">&lt;/f15&gt;</ept> menu on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per esempio, il <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+O<ept i="0">&lt;/f0&gt;</ept> (MAOS) <ph x="1">&lt;bs1/&gt;</ph><ph x="2">&lt;bs2/&gt;</ph><ph x="3">&lt;bs3/&gt;</ph><ph x="4">&lt;bs4/&gt;</ph><ph x="5">&lt;bs5/&gt;</ph><ph x="6">&lt;bs6/&gt;</ph>⌘<ph x="7">&lt;be7/&gt;</ph><ph x="8">&lt;be8/&gt;</ph><ph x="9">&lt;be9/&gt;</ph><ph x="10">&lt;be10/&gt;</ph><ph x="11">&lt;be11/&gt;</ph><ph x="12">&lt;be12/&gt;</ph><bpt i="13" x="13">&lt;f13&gt;</bpt>+<ept i="13">&lt;/f13&gt;</ept>) scorciatoia mostrata accanto <bpt i="14" x="14">&lt;f14&gt;</bpt>Aperto<ept i="14">&lt;/f14&gt;</ept> nel <bpt i="15" x="15">&lt;f15&gt;</bpt>File<ept i="15">&lt;/f15&gt;</ept> menu nella barra menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To use <bpt i="16" x="16">&lt;f16&gt;</bpt>it<ept i="16">&lt;/f16&gt;</ept>, press and hold down the <bpt i="17" x="17">&lt;f17&gt;</bpt>Ctrl<ept i="17">&lt;/f17&gt;</ept> (macOS <ph x="18">&lt;bs18/&gt;</ph><ph x="19">&lt;bs19/&gt;</ph><ph x="20">&lt;bs20/&gt;</ph><ph x="21">&lt;bs21/&gt;</ph><ph x="22">&lt;bs22/&gt;</ph><ph x="23">&lt;bs23/&gt;</ph>⌘<ph x="24">&lt;be24/&gt;</ph><ph x="25">&lt;be25/&gt;</ph><ph x="26">&lt;be26/&gt;</ph><ph x="27">&lt;be27/&gt;</ph><ph x="28">&lt;be28/&gt;</ph><ph x="29">&lt;be29/&gt;</ph>) key and then press the <bpt i="30" x="30">&lt;f30&gt;</bpt>O<ept i="30">&lt;/f30&gt;</ept> key.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per usare <bpt i="16" x="16">&lt;f16&gt;</bpt>è<ept i="16">&lt;/f16&gt;</ept>, premere e tenere premuto il <bpt i="17" x="17">&lt;f17&gt;</bpt>Ctrl<ept i="17">&lt;/f17&gt;</ept> (MAOS) <ph x="18">&lt;bs18/&gt;</ph><ph x="19">&lt;bs19/&gt;</ph><ph x="20">&lt;bs20/&gt;</ph><ph x="21">&lt;bs21/&gt;</ph><ph x="22">&lt;bs22/&gt;</ph><ph x="23">&lt;bs23/&gt;</ph>⌘<ph x="24">&lt;be24/&gt;</ph><ph x="25">&lt;be25/&gt;</ph><ph x="26">&lt;be26/&gt;</ph><ph x="27">&lt;be27/&gt;</ph><ph x="28">&lt;be28/&gt;</ph><ph x="29">&lt;be29/&gt;</ph>) chiave e quindi premere il tasto <bpt i="30" x="30">&lt;f30&gt;</bpt>O<ept i="30">&lt;/f30&gt;</ept> chiave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Release both keys together after the dialog opens.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Rilasciare entrambi i tasti insieme dopo l'apertura della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opening menus and menu items</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Menu di apertura e menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>5<ept i="0">&lt;/seq0&gt;</ept>: Keyboard shortcuts for opening menus and menu items</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>5<ept i="0">&lt;/seq0&gt;</ept>: Tastiera per menu di apertura e menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alt+&lt;?&gt;</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Alt+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Windows only)</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>(solo Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens a menu where &lt;?&gt; is an underlined character of the menu being opened.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre un menu dove &lt;?&gt; è un carattere sottolineato del menu in apertura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, <bpt i="0" x="0">&lt;f0&gt;</bpt>Alt<ept i="0">&lt;/f0&gt;</ept>+<bpt i="1" x="1">&lt;f1&gt;</bpt>F<ept i="1">&lt;/f1&gt;</ept> opens the File menu.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per esempio, <bpt i="0" x="0">&lt;f0&gt;</bpt>Alt<ept i="0">&lt;/f0&gt;</ept>+<bpt i="1" x="1">&lt;f1&gt;</bpt>F<ept i="1">&lt;/f1&gt;</ept> apre il menu File.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a menu is opened, there may be sub-menu items with underlined characters.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Quando un menu è aperto, ci possono essere elementi sub-menu con caratteri sottolineati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press the underlined character directly to carry out the action or option.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Premere direttamente il carattere sottolineato per eseguire l'azione o l'opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Where two menu items have the same underlined character, press the character key again to move to the next menu item.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Se due elementi del menu hanno lo stesso carattere sottolineato, premere nuovamente il tasto del carattere per passare alla voce del menu successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Menu items that have<ph x="0">&lt;bs0/&gt;</ph> no underlined character have to be clicked on directly.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Articoli per menu<ph x="0">&lt;bs0/&gt;</ph> nessun carattere sottolineato deve essere cliccato direttamente su.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Esc</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Articolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Esc</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Articolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Closes an open menu.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Chiude un menu aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Repeatedly pressing <bpt i="0" x="0">&lt;f0&gt;</bpt>F6<ept i="0">&lt;/f0&gt;</ept> switches the focus through the following objects:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Premere ripetutamente <bpt i="0" x="0">&lt;f0&gt;</bpt>F6<ept i="0">&lt;/f0&gt;</ept> commuta la messa a fuoco attraverso i seguenti oggetti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every toolbar from top to bottom and from left to right.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ogni barra degli strumenti dall'alto al basso e da sinistra a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every free window from left to right.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ogni finestra libera da sinistra a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Repeatedly pressing <bpt i="0" x="0">&lt;f0&gt;</bpt>F6<ept i="0">&lt;/f0&gt;</ept> switches the focus through the following objects:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Premere ripetutamente <bpt i="0" x="0">&lt;f0&gt;</bpt>F6<ept i="0">&lt;/f0&gt;</ept> commuta la messa a fuoco attraverso i seguenti oggetti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each toolbar from top to bottom and from left to right.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ogni barra degli strumenti dall'alto al basso e da sinistra a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Switches focus through objects in the opposite direction.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Interruttori si concentrano attraverso oggetti nella direzione opposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Switches the focus to the document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Cambia l'attenzione al documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Switches focus to the Menu bar and back.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Passa la messa a fuoco alla barra del menu e alla schiena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accessing menu commands</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Accedere ai comandi del menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press <bpt i="0" x="0">&lt;f0&gt;</bpt>Alt,<ept i="0">&lt;/f0&gt;</ept> <bpt i="1" x="1">&lt;f1&gt;</bpt>F6,<ept i="1">&lt;/f1&gt;</ept> or <bpt i="2" x="2">&lt;f2&gt;</bpt>F10<ept i="2">&lt;/f2&gt;</ept> to select the first item o<bpt i="3" x="3">&lt;f3&gt;</bpt>f<ept i="3">&lt;/f3&gt;</ept> the Menu bar (normally the <bpt i="4" x="4">&lt;f4&gt;</bpt>File<ept i="4">&lt;/f4&gt;</ept> menu).</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Rassegna <bpt i="0" x="0">&lt;f0&gt;</bpt>Alt,<ept i="0">&lt;/f0&gt;</ept> <bpt i="1" x="1">&lt;f1&gt;</bpt>F6<ept i="1">&lt;/f1&gt;</ept> o <bpt i="2" x="2">&lt;f2&gt;</bpt>F10<ept i="2">&lt;/f2&gt;</ept> per selezionare il primo elemento o<bpt i="3" x="3">&lt;f3&gt;</bpt>*<ept i="3">&lt;/f3&gt;</ept> la barra del menu (normalmente <bpt i="4" x="4">&lt;f4&gt;</bpt>File<ept i="4">&lt;/f4&gt;</ept> menu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In macOS, selection is the first tool on the Standard toolbar and this tool is normally <bpt i="5" x="5">&lt;f5&gt;</bpt>New<ept i="5">&lt;/f5&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>In macOS, la selezione è il primo strumento sulla barra degli strumenti standard e questo strumento è normalmente <bpt i="5" x="5">&lt;f5&gt;</bpt>Nuovo<ept i="5">&lt;/f5&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press the right, or left arrow, to move the selection right, or left.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Premere la freccia destra, o sinistra, per spostare la selezione a destra, o a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press the <bpt i="0" x="0">&lt;f0&gt;</bpt>Home<ept i="0">&lt;/f0&gt;</ept> key (macOS <bpt i="1" x="1">&lt;f1&gt;</bpt>Fn+left arrow<ept i="1">&lt;/f1&gt;</ept>) or <bpt i="2" x="2">&lt;f2&gt;</bpt>End<ept i="2">&lt;/f2&gt;</ept> key (macOS <bpt i="3" x="3">&lt;f3&gt;</bpt>Fn+right arrow<ept i="3">&lt;/f3&gt;</ept>) to move menu selection to the first or last item on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Premere il tasto <bpt i="0" x="0">&lt;f0&gt;</bpt>Home<ept i="0">&lt;/f0&gt;</ept> chiave (macOS) <bpt i="1" x="1">&lt;f1&gt;</bpt>Freccia Fn+left<ept i="1">&lt;/f1&gt;</ept>) o <bpt i="2" x="2">&lt;f2&gt;</bpt>Fine<ept i="2">&lt;/f2&gt;</ept> chiave (macOS) <bpt i="3" x="3">&lt;f3&gt;</bpt>Freccia Fn+destra<ept i="3">&lt;/f3&gt;</ept>) spostare la selezione del menu al primo o ultimo elemento sulla barra del menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press the down, or up arrow, to move the selection down, or up<ph x="0">&lt;be0/&gt;</ph>, the list of menu commands.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Premere la freccia verso il basso, o su, per spostare la selezione verso il basso, o su<ph x="0">&lt;be0/&gt;</ph>, l'elenco dei comandi menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If necessary, press the right arrow to open any sub-menus on the selected menu.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Se necessario, premere la freccia destra per aprire qualsiasi sub-menus sul menu selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sub-menus are indicated by a triangle ► or chevron <bpt i="0" x="0">&lt;f0&gt;</bpt>&gt;<ept i="0">&lt;/f0&gt;</ept> next to the name of a selected menu item.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sub-menus sono indicati da un triangolo ► o chevron <bpt i="0" x="0">&lt;f0&gt;</bpt>&gt;<ept i="0">&lt;/f0&gt;</ept> accanto al nome di una voce di menu selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If necessary, press the down, or up, arrow to move the selection down or up the list of sub-menu commands.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Se necessario, premere il verso il basso, o su, freccia per spostare la selezione verso il basso o su l'elenco dei comandi sub-menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If necessary, press the left arrow to close a sub-menu.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Se necessario, premere la freccia sinistra per chiudere un sub-menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press <bpt i="0" x="0">&lt;f0&gt;</bpt>Enter<ept i="0">&lt;/f0&gt;</ept> to run the selected menu, or sub-menu command.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Rassegna <bpt i="0" x="0">&lt;f0&gt;</bpt>Inserisci<ept i="0">&lt;/f0&gt;</ept> per eseguire il menu selezionato o il comando sub-menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accessing toolbar commands</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Accedere ai comandi della barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press <bpt i="0" x="0">&lt;f0&gt;</bpt>F6<ept i="0">&lt;/f0&gt;</ept> repeatedly until the first icon on a toolbar is selected.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Rassegna <bpt i="0" x="0">&lt;f0&gt;</bpt>F6<ept i="0">&lt;/f0&gt;</ept> ripetutamente fino a quando la prima icona su una barra degli strumenti è selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On a horizontal toolbar, press the right or left arrows to move tool selection to the right or left.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Su una barra degli strumenti orizzontale, premere le frecce destra o sinistra per spostare la selezione degli strumenti a destra o a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On a vertical toolbar, press the up or down arrows to move tool selection upward or downward.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Su una barra degli strumenti verticale, premere le frecce su o giù per spostare la selezione degli strumenti verso l'alto o verso il basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press the <bpt i="0" x="0">&lt;f0&gt;</bpt>Home<ept i="0">&lt;/f0&gt;</ept> key (macOS <bpt i="1" x="1">&lt;f1&gt;</bpt>Fn+left arrow<ept i="1">&lt;/f1&gt;</ept>) or <bpt i="2" x="2">&lt;f2&gt;</bpt>End<ept i="2">&lt;/f2&gt;</ept> key (macOS <bpt i="3" x="3">&lt;f3&gt;</bpt>Fn+right arrow<ept i="3">&lt;/f3&gt;</ept>) to move tool selection to the first or last tool on a toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Premere il tasto <bpt i="0" x="0">&lt;f0&gt;</bpt>Home<ept i="0">&lt;/f0&gt;</ept> chiave (macOS) <bpt i="1" x="1">&lt;f1&gt;</bpt>Freccia Fn+left<ept i="1">&lt;/f1&gt;</ept>) o <bpt i="2" x="2">&lt;f2&gt;</bpt>Fine<ept i="2">&lt;/f2&gt;</ept> chiave (macOS) <bpt i="3" x="3">&lt;f3&gt;</bpt>Freccia Fn+destra<ept i="3">&lt;/f3&gt;</ept>) spostare la selezione degli strumenti al primo o ultimo strumento su una barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press <bpt i="0" x="0">&lt;f0&gt;</bpt>Enter<ept i="0">&lt;/f0&gt;</ept> to action the selected tool on the toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Rassegna <bpt i="0" x="0">&lt;f0&gt;</bpt>Inserisci<ept i="0">&lt;/f0&gt;</ept> per attivare lo strumento selezionato sulla barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To insert an object into a drawing or presentation after selecting the required object on the Drawing toolbar, use the key combination <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+Enter<ept i="0">&lt;/f0&gt;</ept> (macOS <ph x="1">&lt;bs1/&gt;</ph><ph x="2">&lt;bs2/&gt;</ph><ph x="3">&lt;bs3/&gt;</ph>⌘<ph x="4">&lt;be4/&gt;</ph><ph x="5">&lt;be5/&gt;</ph><ph x="6">&lt;be6/&gt;</ph><bpt i="7" x="7">&lt;f7&gt;</bpt>+Enter<ept i="7">&lt;/f7&gt;</ept>) to insert the object in the center of the drawing page or slide.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per inserire un oggetto in un disegno o una presentazione dopo aver selezionato l'oggetto richiesto nella barra degli strumenti di disegno, utilizzare la combinazione chiave <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+Enter<ept i="0">&lt;/f0&gt;</ept> (MAOS) <ph x="1">&lt;bs1/&gt;</ph><ph x="2">&lt;bs2/&gt;</ph><ph x="3">&lt;bs3/&gt;</ph>⌘<ph x="4">&lt;be4/&gt;</ph><ph x="5">&lt;be5/&gt;</ph><ph x="6">&lt;be6/&gt;</ph><bpt i="7" x="7">&lt;f7&gt;</bpt>+Enter<ept i="7">&lt;/f7&gt;</ept>) inserire l'oggetto nel centro della pagina di disegno o diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a tool on a toolbar has an editable text field, for example <bpt i="0" x="0">&lt;f0&gt;</bpt>Load URL<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Line Width<ept i="1">&lt;/f1&gt;</ept>, <ph x="2">&lt;bs2/&gt;</ph>the<ph x="3">&lt;be3/&gt;</ph> <bpt i="4" x="4">&lt;f4&gt;</bpt>Tab<ept i="4">&lt;/f4&gt;</ept> or <bpt i="5" x="5">&lt;f5&gt;</bpt>Shift<ept i="5">&lt;/f5&gt;</ept>+<bpt i="6" x="6">&lt;f6&gt;</bpt>Tab<ept i="6">&lt;/f6&gt;</ept> keys are then used to move the selection right or left onto the next tool on the toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Se uno strumento su una barra degli strumenti ha un campo di testo modificabile, per esempio <bpt i="0" x="0">&lt;f0&gt;</bpt>URL del file<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Larghezza della linea<ept i="1">&lt;/f1&gt;</ept>♪ <ph x="2">&lt;bs2/&gt;</ph>il<ph x="3">&lt;be3/&gt;</ph> <bpt i="4" x="4">&lt;f4&gt;</bpt>Scheda<ept i="4">&lt;/f4&gt;</ept> o <bpt i="5" x="5">&lt;f5&gt;</bpt>Shift<ept i="5">&lt;/f5&gt;</ept>+<bpt i="6" x="6">&lt;f6&gt;</bpt>Scheda<ept i="6">&lt;/f6&gt;</ept> i tasti vengono poi utilizzati per spostare la selezione a destra o a sinistra sullo strumento successivo sulla barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Navigazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigate through a document using keyboard shortcuts as shown in Table  <bpt i="0" x="0">&lt;t0&gt;</bpt>6<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Navigare attraverso un documento utilizzando le scorciatoie della tastiera come mostrato nella tabella<bpt i="0" x="0">&lt;t0&gt;</bpt>6<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>6<ept i="0">&lt;/seq0&gt;</ept>: Keyboard shortcuts for navigation</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>6<ept i="0">&lt;/seq0&gt;</ept>: Tastiera per la navigazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Left Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow sinistro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Left Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow sinistro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor one character to the left.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore un carattere a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shift+Left Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow Shift+Left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shift+Left Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow Shift+Left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor one character to the left and selects the character.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore un carattere a sinistra e seleziona il carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ctrl+Left Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow Ctrl+Left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌥<bpt i="0" x="0">&lt;f0&gt;</bpt>+Left Arrow<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌥<bpt i="0" x="0">&lt;f0&gt;</bpt>+ Arrow di sinistra<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the beginning of the previous word.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore all'inizio della parola precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Right Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Freccia destra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Right Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Freccia destra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor one character to the right.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore un carattere a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor one character to the right and selects the character.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore un carattere a destra e seleziona il carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌥<bpt i="0" x="0">&lt;f0&gt;</bpt>+Right Arrow<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌥<bpt i="0" x="0">&lt;f0&gt;</bpt>+ Freccia destra<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the beginning of the next word.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore all'inizio della parola successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Up Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Up Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor up one line.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore su una riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shift+Up Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow Shift+Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shift+Up Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow Shift+Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor up one line in the text and selects the lines of text.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore su una riga nel testo e seleziona le linee di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the beginning of the paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore all'inizio del paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Down Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Condividi su Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Down Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Condividi su Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor down one line.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore su una linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the end of the paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore alla fine del paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the end of the paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore alla fine del paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Selects the text in the paragraph from the cursor position to the end of the paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Seleziona il testo nel paragrafo dalla posizione del cursore alla fine del paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Fn+Left Arrow<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl+A<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Freccia Fn+Left<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl+A<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the beginning of the current line.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore all'inizio della linea corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the beginning of the line and selects the text from the cursor position.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore all'inizio della riga e seleziona il testo dalla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the beginning of the document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore all'inizio del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>End</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Fn+Right Arrow<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl+E<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Fn+Right Arrow<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl+E<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the end of the current line.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore alla fine della linea corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the end of the line and selects the text from the cursor position.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore alla fine della riga e seleziona il testo dalla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the end of the document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore alla fine del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Page Up</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scrolls up one page.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Scorre una pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the header.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore sull'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Page Down</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scrolls down one page.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Scorri su una pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the footer.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore sul piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Text selection and deletion</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Selezione del testo e cancellazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select and delete text using keyboard shortcuts as follows:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Selezionare ed eliminare il testo utilizzando le scorciatoie della tastiera come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select text while moving the cursor, hold down the <bpt i="0" x="0">&lt;f0&gt;</bpt>Shift<ept i="0">&lt;/f0&gt;</ept> key as the cursor is moved.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Selezionare il testo mentre si sposta il cursore, tenere premuto il tasto <bpt i="0" x="0">&lt;f0&gt;</bpt>Shift<ept i="0">&lt;/f0&gt;</ept> chiave come il cursore viene spostato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Double‑click on a word with the cursor to select the word.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Fare doppio clic su una parola con il cursore per selezionare la parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Triple‑click in a sentence with the cursor to select the whole of the sentence.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Triple-click in una frase con il cursore per selezionare l'intera frase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click four times in a paragraph with the cursor to select the whole of the paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Fare clic quattro volte in un paragrafo con il cursore per selezionare l'intero paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all of the text or objects in a document, use <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+A<ept i="0">&lt;/f0&gt;</ept> (macOS ⌘<bpt i="1" x="1">&lt;f1&gt;</bpt>+A<ept i="1">&lt;/f1&gt;</ept>).</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Selezionare tutto il testo o gli oggetti in un documento, utilizzare <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+A<ept i="0">&lt;/f0&gt;</ept> (MAOS ⌘)<bpt i="1" x="1">&lt;f1&gt;</bpt>+<ept i="1">&lt;/f1&gt;</ept>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+Delete<ept i="0">&lt;/f0&gt;</ept> to delete everything from the cursor position to the end of the word.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Uso <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl + Cancellazione<ept i="0">&lt;/f0&gt;</ept> eliminare tutto dalla posizione del cursore alla fine della parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+Backspace<ept i="0">&lt;/f0&gt;</ept> to delete everything from the cursor position to the beginning of the word.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Uso <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+Backspace<ept i="0">&lt;/f0&gt;</ept> eliminare tutto dalla posizione del cursore all'inizio della parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For macOS, use ⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+Delete<ept i="0">&lt;/f0&gt;</ept> (if the keyboard has a <bpt i="1" x="1">&lt;f1&gt;</bpt>Delete<ept i="1">&lt;/f1&gt;</ept> key) to delete everything from the cursor position to the end of the word.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per macOS, utilizzare ⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+ Cancellazione<ept i="0">&lt;/f0&gt;</ept> (se la tastiera ha un <bpt i="1" x="1">&lt;f1&gt;</bpt>Cancella<ept i="1">&lt;/f1&gt;</ept> chiave) per eliminare tutto dalla posizione del cursore alla fine della parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For macOS, use ⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+Backspace<ept i="0">&lt;/f0&gt;</ept> to delete everything from the cursor position to the beginning of the line.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per macOS, utilizzare ⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+Backspace<ept i="0">&lt;/f0&gt;</ept> eliminare tutto dalla posizione del cursore all'inizio della riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Controlling dialogs</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Controllo delle finestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When opening any dialog, one element or option is highlighted indicating that the element or option has focus on it.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Quando si apre una finestra di dialogo, viene evidenziato un elemento o un'opzione che indica che l'elemento o l'opzione si concentra su di esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a button, option field, entry in a list box, or checkbox.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ad esempio, un pulsante, campo opzione, l'ingresso in una casella di elenco, o la casella di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How the element or option is highlighted depends on the computer operating system and how the computer is setup.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Il modo in cui l'elemento o l'opzione viene evidenziata dipende dal sistema operativo del computer e dal modo in cui il computer è impostato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>7<ept i="0">&lt;/seq0&gt;</ept>: Keyboard shortcuts for controlling dialogs</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>7<ept i="0">&lt;/seq0&gt;</ept>: Tasti di tastiere per il controllo delle finestre di dialogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shortcut Keys</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Result</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Risultato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activates selected button.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Attiva il pulsante selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When no button is selected, <bpt i="0" x="0">&lt;f0&gt;</bpt>Enter<ept i="0">&lt;/f0&gt;</ept> is equivalent to clicking <bpt i="1" x="1">&lt;f1&gt;</bpt>OK<ept i="1">&lt;/f1&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Quando non viene selezionato alcun pulsante, <bpt i="0" x="0">&lt;f0&gt;</bpt>Inserisci<ept i="0">&lt;/f0&gt;</ept> è equivalente a cliccare <bpt i="1" x="1">&lt;f1&gt;</bpt>Ok.<ept i="1">&lt;/f1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Esc</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Articolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Closes dialog without saving any changes made while the dialog was open.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Chiude la finestra di dialogo senza salvare eventuali modifiche apportate mentre la finestra di dialogo è stata aperta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Esc<ept i="0">&lt;/f0&gt;</ept> is also equivalent to clicking <bpt i="1" x="1">&lt;f1&gt;</bpt>Cancel<ept i="1">&lt;/f1&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Articolo<ept i="0">&lt;/f0&gt;</ept> è anche equivalente a cliccare <bpt i="1" x="1">&lt;f1&gt;</bpt>Annulla<ept i="1">&lt;/f1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a drop-down list is open and selected, <bpt i="2" x="2">&lt;f2&gt;</bpt>Esc<ept i="2">&lt;/f2&gt;</ept> closes the list.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Quando un elenco a discesa è aperto e selezionato, <bpt i="2" x="2">&lt;f2&gt;</bpt>Articolo<ept i="2">&lt;/f2&gt;</ept> chiude la lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Checks or clears an empty checkbox.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Controlla o cancella una casella di controllo vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Up<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Down Arrow<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Su.<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Condividi su Facebook<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves focus up or down a list.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta l'attenzione su o giù una lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increases or decreases value of a variable.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Aumenta o diminuisce il valore di una variabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves focus vertically within a section of dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta l'attenzione verticalmente all'interno di una sezione di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Left<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Right Arrow<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Sinistra<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Freccia destra<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves focus horizontally within a section of a dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta la messa a fuoco orizzontalmente all'interno di una sezione di una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Scheda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Advances focus to the next section or element of a dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>I progressi si concentrano sulla sezione successiva o elemento di una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Returns focus to the previous section or element in a dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Restituisce l'attenzione alla sezione precedente o elemento in una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(macOS ⌥<bpt i="2" x="2">&lt;f2&gt;</bpt>+Down Arrow<ept i="2">&lt;/f2&gt;</ept>)</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>(MAS)<bpt i="2" x="2">&lt;f2&gt;</bpt>+Down Arrow<ept i="2">&lt;/f2&gt;</ept>)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shows items in a drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Mostra articoli in un elenco a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Controlling documents and windows</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Controllo documenti e finestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The keyboard shortcuts for controlling documents and windows in LibreOffice are shown in Table <bpt i="0" x="0">&lt;t0&gt;</bpt>8<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Le scorciatoie della tastiera per il controllo di documenti e finestre in LibreOffice sono mostrate nella tabella<bpt i="0" x="0">&lt;t0&gt;</bpt>8<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>8<ept i="0">&lt;/seq0&gt;</ept>: Keyboard shortcuts for controlling documents and windows</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>8<ept i="0">&lt;/seq0&gt;</ept>: Tastiera per il controllo di documenti e finestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+O<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens the Open dialog to select and open a document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre la finestra di dialogo Apri per selezionare e aprire un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+S<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Saves the current document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Salva il documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the document is a previously unsaved file, the shortcut opens the Save As dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Se il documento è un file precedentemente non salvato, la scorciatoia apre la finestra di dialogo Salva con.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Creates a new document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Crea un nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens the Templates dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apri la finestra di dialogo Modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+P<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens the Print dialog to print the document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre la finestra di dialogo Stampa per stampare il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+F<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+ F<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens the Find toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre la barra degli strumenti Trova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌥+⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+F<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>OTTOBRE<bpt i="0" x="0">&lt;f0&gt;</bpt>+ F<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens the Find and Replace dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre la finestra di dialogo Trova e sostituisci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Searches for the last entered search term.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ricerca per l'ultimo termine di ricerca inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toggles the view between full-screen mode and normal mode in Writer or Calc.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Toggles la vista tra la modalità a schermo intero e la modalità normale in Writer o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens and closes the rulers.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre e chiude i righelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens the LibreOffice Help contents in your default browser.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre il LibreOffice Aiuta i contenuti nel tuo browser predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the local Help package is not installed, LibreOffice opens the online Help located at <bpt i="0" x="0">&lt;a0&gt;</bpt>https://help.libreoffice.org<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Se il pacchetto Aiuto locale non è installato, LibreOffice apre la Guida online situata a <bpt i="0" x="0">&lt;a0&gt;</bpt>https://help.libreoffice.org<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Turns the cursor into a What’s This?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Trasforma il cursore in una cosa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>question mark.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>punto interrogativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shows the tip for an item underneath the cursor.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Mostra la punta per un elemento sotto il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The shortcut does not work with the online help.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>La scorciatoia non funziona con l'aiuto online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Turns on Extended Tips for the currently selected command, icon or control.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Attiva Suggerimenti estesi per il comando, icona o controllo attualmente selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The shortcut does not work with the online help.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>La scorciatoia non funziona con l'aiuto online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Docks and undocks floating toolbars, Sidebar and Navigator.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Docks e annulla le barre degli strumenti galleggianti, Sidebar e Navigator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+F4<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Alt+F4<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+F4<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Alt+F4<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Closes the current document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Chiude il documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Closes LibreOffice when the last open document is closed.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Chiude LibreOffice quando l'ultimo documento aperto è chiuso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Editing or formatting documents</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Modifica o formattazione dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The keyboard shortcuts for editing and formatting documents in LibreOffice are shown in Table  <bpt i="0" x="0">&lt;t0&gt;</bpt>9<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Le scorciatoie della tastiera per la modifica e la formattazione dei documenti in LibreOffice sono mostrate nella tabella<bpt i="0" x="0">&lt;t0&gt;</bpt>9<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>9<ept i="0">&lt;/seq0&gt;</ept>: Keyboard shortcuts for editing and formatting documents</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>9<ept i="0">&lt;/seq0&gt;</ept>: Tasti di scelta rapida per la modifica e la formattazione dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When an OLE object is selected, activates the software used to create the OLE object.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Quando viene selezionato un oggetto OLE, attiva il software utilizzato per creare l'oggetto OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a drawing object is selected, activates text mode.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Quando viene selezionato un oggetto di disegno, attiva la modalità di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+X<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cuts selected text or objects from a document and places them in the clipboard.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tagli testo o oggetti selezionati da un documento e li colloca nella clipboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+C<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Copies selected text or objects and places them in the clipboard.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Copia il testo o gli oggetti selezionati e li colloca nel clipboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+V<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+ V<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Places text or objects from the clipboard that have copied or cut into the document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Posiziona testo o oggetti dal fermaglio che hanno copiato o tagliato nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pastes unformatted text from the clipboard.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Passa il testo non formattato dal clipboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The text is pasted using the format that exists at the insertion point.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Il testo è incollato utilizzando il formato che esiste al punto di inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens the Paste Special dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre la finestra di dialogo Incolla speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+A<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Selects all text and objects in a document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Seleziona tutti i testi e gli oggetti in un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+Z<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Undoes last action.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Annulla l'ultima azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+Y<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+ Sì.<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Redoes last action.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Redoes ultima azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Repeats last command.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ripete l'ultimo comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+I<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Applies the Italic attribute to selected characters and text.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Si applica l'attributo Italic a caratteri e testo selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+B<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Applies the Bold attribute to selected characters and text.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Riguarda l'attributo Bold a caratteri e testo selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+U<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Applies the Underline attribute to selected characters and text.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Riguarda l'attributo Underline a caratteri e testo selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+M<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Removes direct formatting from selected text or objects.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Rimuove la formattazione diretta da testo o oggetti selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This command is also available in <bpt i="0" x="0">&lt;f0&gt;</bpt>Format &gt; Clear Direct Formatting<ept i="0">&lt;/f0&gt;</ept> in the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Questo comando è disponibile anche in <bpt i="0" x="0">&lt;f0&gt;</bpt>Formato &gt; Cancella formattazione diretta<ept i="0">&lt;/f0&gt;</ept> nella barra del menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sidebar keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The general keyboard shortcuts for using the Sidebar in LibreOffice are shown in Table  <bpt i="0" x="0">&lt;t0&gt;</bpt>10<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Le scorciatoie della tastiera generale per l'utilizzo della barra laterale in LibreOffice sono mostrate nella tabella<bpt i="0" x="0">&lt;t0&gt;</bpt>10<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>10<ept i="0">&lt;/seq0&gt;</ept>: General keyboard shortcuts for Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>10<ept i="0">&lt;/seq0&gt;</ept>: Scorciatoie generali della tastiera per la barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Scheda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Scheda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the focus in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta l'attenzione nella barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the focus in the reverse direction in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta l'attenzione nella direzione inversa nella barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens a context menu for the selected element in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre un menu contestuale per l'elemento selezionato nella barra laterale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fn+Left Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Freccia Fn+Left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves focus to first entry.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta la messa a fuoco al primo ingresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>End</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves focus to last entry.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta la messa a fuoco all'ultimo ingresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Up or Down Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Su o giù Arrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Up or Down Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Su o giù Arrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the selection up or down and opens the panels in the selected deck.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta la selezione su o giù e apre i pannelli nel mazzo selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Right Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Freccia destra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Right Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Freccia destra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens any sub-elements in the selected element.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre eventuali sottoelementi nell'elemento selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Left Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow sinistro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Left Arrow</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Arrow sinistro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Closes any sub-elements in the selected element.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Chiude eventuali sottoelementi nell'elemento selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens the Properties dialog for the selected element.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre la finestra di dialogo Proprietà per l'elemento selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gallery</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The keyboard shortcuts for the Gallery on the Sidebar in LibreOffice are shown in Table  <bpt i="0" x="0">&lt;t0&gt;</bpt>11<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Le scorciatoie da tastiera per la Galleria sulla Barra laterale di LibreOffice sono mostrate nella tabella<bpt i="0" x="0">&lt;t0&gt;</bpt>11<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>11<ept i="0">&lt;/seq0&gt;</ept>: Keyboard shortcuts for the Gallery</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>11<ept i="0">&lt;/seq0&gt;</ept>: Tastiera per la Galleria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens the Enter Title dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre la finestra di dialogo Inserisci titolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only themes added to LibreOffice can be renamed.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Solo i temi aggiunti a LibreOffice possono essere rinominati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Themes installed with LibreOffice cannot be renamed.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>I temi installati con LibreOffice non possono essere rinominati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+D<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Deletes themes that have been added to LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Elimina i temi che sono stati aggiunti a LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Themes installed with LibreOffice cannot be deleted.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>I temi installati con LibreOffice non possono essere eliminati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inserts a new theme into the Gallery and opens the Insert of New Theme dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserire un nuovo tema nella Galleria e aprire il Inserisci di nuovo tema dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert<it pos="end" x="0">&lt;/f0&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserto<it pos="end" x="0">&lt;/f0&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inserts the selected object as a linked object into the current document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserire l'oggetto selezionato come oggetto collegato nel documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inserts a copy of the selected object into the current document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserire una copia dell'oggetto selezionato nel documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Inserisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Switches between a view of a list of object previews and a selected object.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Passa tra una visualizzazione di un elenco di anteprime degli oggetti e un oggetto selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Database table keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Scorciatoie della tabella del database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The keyboard shortcuts for using a database table in LibreOffice are shown in Table  <bpt i="0" x="0">&lt;t0&gt;</bpt>12<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Le scorciatoie da tastiera per l'utilizzo di una tabella di database in LibreOffice sono mostrate nella tabella<bpt i="0" x="0">&lt;t0&gt;</bpt>12<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>12<ept i="0">&lt;/seq0&gt;</ept>: Keyboard shortcuts for a database table</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>12<ept i="0">&lt;/seq0&gt;</ept>: Tasti di scelta rapida per una tabella di database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opens and closes a database table in a document for editing.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Apre e chiude una tabella di database in un documento per la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toggles row selection, except when the row is in edit mode.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Attiva la selezione delle righe, tranne quando la riga è in modalità edit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+Spacebar<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘<bpt i="0" x="0">&lt;f0&gt;</bpt>+Spaziobar<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toggles row selection.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Toggles selezione riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Barra spaziatrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Selects the current column.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Seleziona la colonna corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘+⌥<bpt i="0" x="0">&lt;f0&gt;</bpt> + Fn+ Up Arrow<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘+<bpt i="0" x="0">&lt;f0&gt;</bpt> + Fn+ Up Arrow<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the first row.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore sulla prima riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘+⌥<bpt i="0" x="0">&lt;f0&gt;</bpt> + Fn+ Down Arrow<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>⌘+<bpt i="0" x="0">&lt;f0&gt;</bpt> + Fn+ Down Arrow<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moves the cursor to the last row.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Sposta il cursore sull'ultima riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Controlling macros</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Controllo delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keyboard shortcuts for controlling macros in LibreOffice are shown in Table  <bpt i="0" x="0">&lt;t0&gt;</bpt>13<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Le scorciatoie della tastiera per il controllo delle macro in LibreOffice sono mostrate nella tabella<bpt i="0" x="0">&lt;t0&gt;</bpt>13<ept i="0">&lt;/t0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more information on macros, see Chapter 11, Getting Started with Macros.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per ulteriori informazioni sulle macro, vedere Capitolo 11, Iniziare con Macros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>13<ept i="0">&lt;/seq0&gt;</ept>: Keyboard shortcuts for controlling macros</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>13<ept i="0">&lt;/seq0&gt;</ept>: Tastiere per il controllo delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Runs a macro field.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Esegue un campo macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The multiplication sign is only available on a numeric keypad.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Il segno di moltiplicazione è disponibile solo su una tastiera numerica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stops a running macro.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ferma una macro in esecuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Entering Unicode numbers</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Immissione di numeri Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each character in LibreOffice can be entered into a document by typing its Unicode hexadecimal number and then the keyboard shortcut <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+Alt+X<ept i="0">&lt;/f0&gt;</ept> (mac OS ⌘+⌥<bpt i="1" x="1">&lt;f1&gt;</bpt>+X<ept i="1">&lt;/f1&gt;</ept>) to create <bpt i="2" x="2">&lt;f2&gt;</bpt>it<ept i="2">&lt;/f2&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ogni personaggio di LibreOffice può essere inserito in un documento digitando il suo numero esadecimale Unicode e quindi il collegamento della tastiera <bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl+Alt+X<ept i="0">&lt;/f0&gt;</ept> (mac OS ⌘+⌥)<bpt i="1" x="1">&lt;f1&gt;</bpt>+<ept i="1">&lt;/f1&gt;</ept>) creare <bpt i="2" x="2">&lt;f2&gt;</bpt>è<ept i="2">&lt;/f2&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, to enter the copyright sign into text, type <bpt i="3" x="3">&lt;f3&gt;</bpt>U+00A9<ept i="3">&lt;/f3&gt;</ept> followed immediately by <bpt i="4" x="4">&lt;f4&gt;</bpt>Ctrl+Alt+X<ept i="4">&lt;/f4&gt;</ept> (mac OS ⌘+⌥<bpt i="5" x="5">&lt;f5&gt;</bpt>+X<ept i="5">&lt;/f5&gt;</ept>) and the copyright sign © appears at the cursor position in the text.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per esempio, per inserire il segno del copyright nel testo, digitare <bpt i="3" x="3">&lt;f3&gt;</bpt>U+00A9<ept i="3">&lt;/f3&gt;</ept> seguito subito <bpt i="4" x="4">&lt;f4&gt;</bpt>Ctrl+Alt+X<ept i="4">&lt;/f4&gt;</ept> (mac OS ⌘+⌥)<bpt i="5" x="5">&lt;f5&gt;</bpt>+<ept i="5">&lt;/f5&gt;</ept>) e il segno del copyright © appare nella posizione del cursore nel testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unicode hexadecimal numbers in the range <bpt i="0" x="0">&lt;f0&gt;</bpt>U+0000<ept i="0">&lt;/f0&gt;</ept> to <bpt i="1" x="1">&lt;f1&gt;</bpt>U+0020<ept i="1">&lt;/f1&gt;</ept> are not converted into characters using the keyboard shortcut <bpt i="2" x="2">&lt;f2&gt;</bpt>Ctrl+Alt+X<ept i="2">&lt;/f2&gt;</ept> (mac OS ⌘+⌥<bpt i="3" x="3">&lt;f3&gt;</bpt>+X<ept i="3">&lt;/f3&gt;</ept>).</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Numeri esadecimali Unicode nella gamma <bpt i="0" x="0">&lt;f0&gt;</bpt>U+0000<ept i="0">&lt;/f0&gt;</ept> a <bpt i="1" x="1">&lt;f1&gt;</bpt>U+0020<ept i="1">&lt;/f1&gt;</ept> non vengono convertiti in caratteri utilizzando la scorciatoia della tastiera <bpt i="2" x="2">&lt;f2&gt;</bpt>Ctrl+Alt+X<ept i="2">&lt;/f2&gt;</ept> (mac OS ⌘+⌥)<bpt i="3" x="3">&lt;f3&gt;</bpt>+<ept i="3">&lt;/f3&gt;</ept>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defining keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Definizione delle scorciatoie da tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to using the built-in keyboard shortcuts listed in this Appendix, custom keyboard shortcuts can <bpt i="0" x="0">&lt;f0&gt;</bpt>also<ept i="0">&lt;/f0&gt;</ept> be defined.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Oltre a utilizzare le scorciatoie da tastiera integrate elencate in questo Appendice, le scorciatoie da tastiera personalizzate possono <bpt i="0" x="0">&lt;f0&gt;</bpt>anche<ept i="0">&lt;/f0&gt;</ept> essere definito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more information, see Chapter 13, Customizing LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per ulteriori informazioni, vedere il capitolo 13, Personalizzare LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To check if a keyboard shortcut is is already in use, open the Keyboard page in the Customize dialog and scroll though the listed keyboard shortcuts.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per verificare se una scorciatoia da tastiera è già in uso, aprire la pagina di tastiera nella finestra di dialogo Personalizza e scorrere anche se le scorciatoie da tastiera elencate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Go to <bpt i="0" x="0">&lt;f0&gt;</bpt>Tools &gt; Customize<ept i="0">&lt;/f0&gt;</ept> on the Menu bar to open the Customize dialog.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Vai a <bpt i="0" x="0">&lt;f0&gt;</bpt>Strumenti &gt; Personalizzare<ept i="0">&lt;/f0&gt;</ept> sulla barra del menu per aprire la finestra di dialogo Personalizza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Further reading</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Ulteriori informazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For help with keyboard shortcuts, or <bpt i="0" x="0">&lt;f0&gt;</bpt>to use<ept i="0">&lt;/f0&gt;</ept> LibreOffice with a keyboard only, search LibreOffice Help using the keywords “shortcut keys” or “accessibility”.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222146Z">
+        <seg>Per aiuto con scorciatoie da tastiera, o <bpt i="0" x="0">&lt;f0&gt;</bpt>da usare<ept i="0">&lt;/f0&gt;</ept> LibreOffice con una sola tastiera, cerca LibreOffice Aiuto utilizzando le parole chiave “chiavi di scelta rapida” o “accessibilità”.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

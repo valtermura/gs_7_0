@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>LibreOffice Logo<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>LibreOffice Logo<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Logo di LibreOffice<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>Logo di LibreOffice<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;ud0&gt;</bpt>Getting Started Guide<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph><bpt i="2" x="2">&lt;ud2&gt;</bpt>24.8<ept i="2">&lt;/ud2&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg><bpt i="0" x="0">&lt;ud0&gt;</bpt>Guida all'avvio<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph><bpt i="2" x="2">&lt;ud2&gt;</bpt>14.<ept i="2">&lt;/ud2&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Appendix B, <ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Appendice B, <ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open Source, Open Standards, OpenDocument</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Open Source, Standard aperti, OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Diritto d'autore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This document is Copyright © <bpt i="0" x="0">&lt;ud0&gt;</bpt>2024<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph>by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Questo documento è Copyright © <bpt i="0" x="0">&lt;ud0&gt;</bpt>2024<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph>dal team di documentazione LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors are listed below.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>I contributi sono elencati di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This document may be distributed and/or modified under the terms of either the GNU General Public License (<bpt i="2" x="2">&lt;a2&gt;</bpt>https://www.gnu.org/licenses/gpl.html<ept i="2">&lt;/a2&gt;</ept>), version 3 or later, or the Creative Commons Attribution License (<bpt i="3" x="3">&lt;a3&gt;</bpt>https://creativecommons.org/licenses/by/4.0/<ept i="3">&lt;/a3&gt;</ept>), version 4.0 or later.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Questo documento può essere distribuito e/o modificato con i termini della GNU General Public License (<bpt i="2" x="2">&lt;a2&gt;</bpt>https://www.gnu.org/licenses/gpl.html<ept i="2">&lt;/a2&gt;</ept>), versione 3 o successiva, o la licenza Creative Commons Attribuzione (<bpt i="3" x="3">&lt;a3&gt;</bpt>https://creativecommons.org/licenses/by/4.0/<ept i="3">&lt;/a3&gt;</ept>), versione 4.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All trademarks within this guide belong to their legitimate owners.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Tutti i marchi all'interno di questa guida appartengono ai loro legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Contributori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors for this edition:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Contributori per questa edizione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors for previous editions:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Contributori per le edizioni precedenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at <bpt i="0" x="0">&lt;a0&gt;</bpt>https://community.documentfoundation.org/c/documentation/loguides/<ept i="0">&lt;/a0&gt;</ept> (registration is required) or send an email to: <bpt i="1" x="1">&lt;a1&gt;</bpt>loguides@community.documentfoundation.org<ept i="1">&lt;/a1&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Si prega di indirizzare qualsiasi commento o suggerimenti su questo documento al forum del team di documentazione al <bpt i="0" x="0">&lt;a0&gt;</bpt>https://community.documentfoundation.org/c/documentation/loguides/<ept i="0">&lt;/a0&gt;</ept> (la registrazione è richiesta) o inviare una email a: <bpt i="1" x="1">&lt;a1&gt;</bpt>loguides@community.documentfoundation.org<ept i="1">&lt;/a1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Everything you send to a mailing list or forum, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Tutto ciò che invii a una mailing list o forum, compreso il tuo indirizzo email e qualsiasi altra informazione personale che è scritta nel messaggio, è archiviata pubblicamente e non può essere cancellata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Data di pubblicazione e versione software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Published <bpt i="0" x="0">&lt;f0&gt;</bpt>in<ept i="0">&lt;/f0&gt;</ept> <bpt i="1" x="1">&lt;ud1&gt;</bpt>August<ept i="1">&lt;/ud1&gt;</ept><ph x="2">&lt;s2/&gt;</ph><bpt i="3" x="3">&lt;ud3&gt;</bpt>2024<ept i="3">&lt;/ud3&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Pubblicato <bpt i="0" x="0">&lt;f0&gt;</bpt>in<ept i="0">&lt;/f0&gt;</ept> <bpt i="1" x="1">&lt;ud1&gt;</bpt>Agosto<ept i="1">&lt;/ud1&gt;</ept><ph x="2">&lt;s2/&gt;</ph><bpt i="3" x="3">&lt;ud3&gt;</bpt>2024<ept i="3">&lt;/ud3&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Based on LibreOffice <bpt i="4" x="4">&lt;ud4&gt;</bpt>24.8<ept i="4">&lt;/ud4&gt;</ept><ph x="5">&lt;s5/&gt;</ph>Community.<ph x="6">&lt;br6/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Sulla base di LibreOffice <bpt i="4" x="4">&lt;ud4&gt;</bpt>14.<ept i="4">&lt;/ud4&gt;</ept><ph x="5">&lt;s5/&gt;</ph>Comunità.<ph x="6">&lt;br6/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Altre versioni di LibreOffice possono differire in aspetto e funzionalità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using LibreOffice on macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Utilizzo di LibreOffice su macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Alcune tastiere e le voci di menu sono diverse su macOS da quelli utilizzati in Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The table below gives some common substitutions used in this document.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>La tabella seguente fornisce alcune sostituzioni comuni utilizzate in questo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For a detailed list, see LibreOffice Help.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Per una lista dettagliata, vedere LibreOffice Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>macOS equivalent</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>macOS equivalente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Tools &gt; Options<ept i="0">&lt;/f0&gt;</ept> <ph x="1">&lt;br1/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Strumenti &gt; Opzioni<ept i="0">&lt;/f0&gt;</ept> <ph x="1">&lt;br1/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>menu selection</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>selezione menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice &gt; Preferences</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>LibreOffice &gt; Preferenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Opzioni di configurazione di accesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Fare clic con il pulsante destro del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Control<ept i="0">&lt;/f0&gt;</ept>+click, <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl<ept i="1">&lt;/f1&gt;</ept>+click, or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Controllo<ept i="0">&lt;/f0&gt;</ept>+click, <bpt i="1" x="1">&lt;f1&gt;</bpt>Ctrl<ept i="1">&lt;/f1&gt;</ept>+click, o fare clic con il pulsante destro del mouse a seconda della configurazione del computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open a context menu</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Aprire un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Control<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Ctrl<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Controllo<ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌘ and/or <bpt i="0" x="0">&lt;f0&gt;</bpt>Cmd<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Command<ept i="1">&lt;/f1&gt;</ept>, depending on keyboard</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>⌘ e/o <bpt i="0" x="0">&lt;f0&gt;</bpt>Cm.<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Comando<ept i="1">&lt;/f1&gt;</ept>, a seconda della tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Usato con altre chiavi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>⌥ and/or <bpt i="0" x="0">&lt;f0&gt;</bpt>Alt<ept i="0">&lt;/f0&gt;</ept> or <bpt i="1" x="1">&lt;f1&gt;</bpt>Option<ept i="1">&lt;/f1&gt;</ept> depending on keyboard</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>⌥ e/o <bpt i="0" x="0">&lt;f0&gt;</bpt>Alt<ept i="0">&lt;/f0&gt;</ept> o <bpt i="1" x="1">&lt;f1&gt;</bpt>Opzione<ept i="1">&lt;/f1&gt;</ept> a seconda della tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Usato con altre chiavi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open the Styles deck in the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Aprire il ponte Styles nella barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Diritto d'autore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Contributori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Data di pubblicazione e versione software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using LibreOffice on macOS</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Utilizzo di LibreOffice su macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A short history of LibreOffice</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Una breve storia di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The LibreOffice community</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>La comunità di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How to participate in LibreOffice Community?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Come partecipare a LibreOffice Community?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How is LibreOffice licensed?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Come è concesso in licenza LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is open source?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Che cosa è open source?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What are open standards?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Quali sono gli standard aperti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is OpenDocument?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Cos'è OpenDocument?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OpenDocument filename extensions</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>estensioni di file OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice is a productivity suite that is compatible with other major office suites and available on a variety of platforms.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>LibreOffice è una suite di produttività che è compatibile con altre grandi suite di uffici e disponibile su una varietà di piattaforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is open source software and therefore free to download, use, and distribute.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>È software open source e quindi libero di scaricare, utilizzare e distribuire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are new to LibreOffice, this appendix will provide some information regarding its history, its community, and some of its technical specifications.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Se siete nuovi a LibreOffice, questa appendice fornirà alcune informazioni circa la sua storia, la sua comunità, e alcune delle sue specifiche tecniche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A short history of LibreOffice</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Una breve storia di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The OpenOffice.org project began when Sun Microsystems released the source code (“blueprints”) for its StarOffice® software to the open source community on 13 October 2000.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Il progetto OpenOffice.org è iniziato quando Sun Microsystems ha rilasciato il codice sorgente (“blueprints”) per il suo software StarOffice® alla comunità open source il 13 ottobre 2000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OpenOffice.org 1.0, the product, was released on 30 April 2002.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>OpenOffice.org 1.0, il prodotto, è stato rilasciato il 30 aprile 2002.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major updates to OpenOffice.org included version 2.0 in October 2005 and version 3.0 in October 2008.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Gli aggiornamenti principali di OpenOffice.org includevano la versione 2.0 nell'ottobre 2005 e la versione 3.0 nell'ottobre 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On 26 January 2010, Oracle Corporation acquired Sun Microsystems.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Il 26 gennaio 2010, Oracle Corporation ha acquisito Sun Microsystems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On 28 September 2010, the community of volunteers who develop and promote OpenOffice.org announced a major change in project structure.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Il 28 settembre 2010, la comunità di volontari che sviluppano e promuovono OpenOffice.org ha annunciato un cambiamento importante nella struttura del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After ten years <bpt i="0" x="0">&lt;f0&gt;</bpt>of<ept i="0">&lt;/f0&gt;</ept> successful growth with Sun Microsystems as founding and principle sponsor, the project launched an independent foundation called The Document Foundation, to fulfill the promise of independence written in the original charter.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Dopo dieci anni <bpt i="0" x="0">&lt;f0&gt;</bpt>di<ept i="0">&lt;/f0&gt;</ept> crescita di successo con Sun Microsystems come fondatore e sponsor di principio, il progetto ha lanciato una fondazione indipendente chiamata The Document Foundation, per soddisfare la promessa di indipendenza scritta nella carta originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This foundation is the cornerstone of a new ecosystem where individuals and organizations can contribute to and benefit from the availability of a truly free office suite.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Questa fondazione è la pietra angolare di un nuovo ecosistema in cui gli individui e le organizzazioni possono contribuire e beneficiare della disponibilità di una suite ufficio veramente libera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unable to acquire the trademarked OpenOffice.org name from Oracle Corporation, The Document Foundation named its product <bpt i="0" x="0">&lt;f0&gt;</bpt>as<ept i="0">&lt;/f0&gt;</ept> LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Incapace di acquisire il marchio OpenOffice.org nome da Oracle Corporation, The Document Foundation ha nominato il suo prodotto <bpt i="0" x="0">&lt;f0&gt;</bpt>come<ept i="0">&lt;/f0&gt;</ept> LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Continuing the version numbers from OpenOffice.org, LibreOffice 3.3 was released in January 2011 and version <bpt i="1" x="1">&lt;ud1&gt;</bpt>24.8<ept i="1">&lt;/ud1&gt;</ept><ph x="2">&lt;s2/&gt;</ph>was released in <bpt i="3" x="3">&lt;ud3&gt;</bpt>August<ept i="3">&lt;/ud3&gt;</ept><ph x="4">&lt;s4/&gt;</ph><bpt i="5" x="5">&lt;ud5&gt;</bpt>2024<ept i="5">&lt;/ud5&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Continuando i numeri di versione di OpenOffice.org, LibreOffice 3.3 è stato rilasciato nel gennaio 2011 e versione <bpt i="1" x="1">&lt;ud1&gt;</bpt>14.<ept i="1">&lt;/ud1&gt;</ept><ph x="2">&lt;s2/&gt;</ph>è stato rilasciato in <bpt i="3" x="3">&lt;ud3&gt;</bpt>Agosto<ept i="3">&lt;/ud3&gt;</ept><ph x="4">&lt;s4/&gt;</ph><bpt i="5" x="5">&lt;ud5&gt;</bpt>2024<ept i="5">&lt;/ud5&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In February 2012, The Document Foundation was incorporated in Berlin as a German Stiftung.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Nel febbraio 2012 la Fondazione Document è stata incorporata a Berlino come Stiftung tedesco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can read more about The Document Foundation at: <bpt i="0" x="0">&lt;a0&gt;</bpt>www.documentfoundation.org<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Puoi leggere di più su The Document Foundation a: <bpt i="0" x="0">&lt;a0&gt;</bpt>www.documentfoundation.org<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Timeline of major LibreOffice releases<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>Timeline of major LibreOffice releases<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Timeline delle principali versioni di LibreOffice<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>Timeline delle principali versioni di LibreOffice<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Figure <bpt i="0" x="0">&lt;seq0&gt;</bpt>1<ept i="0">&lt;/seq0&gt;</ept>: Timeline of major LibreOffice releases</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Figura <bpt i="0" x="0">&lt;seq0&gt;</bpt>1<ept i="0">&lt;/seq0&gt;</ept>: Timeline delle principali versioni di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Timeline of major LibreOffice releases</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Timeline delle principali versioni di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more detailed history of LibreOffice, visit <bpt i="0" x="0">&lt;a0&gt;</bpt>https://www.libreoffice.org/about-us/libreoffice-timeline/<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Per una storia più dettagliata di LibreOffice, visita <bpt i="0" x="0">&lt;a0&gt;</bpt>https://www.libreoffice.org/about-us/libreoffice-timeline/<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The LibreOffice community</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>La comunità di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Document Foundation’s mission is:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>La missione della Fondazione Documento è:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>“...to facilitate the evolution of the OpenOffice.org Community into a new open, independent, and meritocratic organizational structure within the next few months.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>“...per facilitare l’evoluzione della Comunità OpenOffice.org in una nuova struttura organizzativa aperta, indipendente e meritocratica nei prossimi mesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An independent Foundation is a better match to the values of our contributors, users, and supporters, and will enable a more effective, efficient, transparent, and inclusive Community.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Una Fondazione indipendente è una migliore corrispondenza con i valori dei nostri collaboratori, utenti e sostenitori, e consentirà una Comunità più efficace, efficiente, trasparente e inclusiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We will protect past investments by building on the solid achievements of our first decade, encourage wide participation in the Community, and co-ordinate activity across the Community.”</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Proteggeremo gli investimenti passati costruendo le solide realizzazioni del nostro primo decennio, incoraggiando un'ampia partecipazione alla Comunità e coordinando l'attività in tutta la Comunità. ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice is key in the drive to provide an office suite that is available to anyone, anywhere, for commercial or personal use, <bpt i="0" x="0">&lt;f0&gt;</bpt>w<ept i="0">&lt;/f0&gt;</ept>ith its open source software license, <bpt i="1" x="1">&lt;f1&gt;</bpt>that<ept i="1">&lt;/f1&gt;</ept> has been translated into <bpt i="2" x="2">&lt;f2&gt;</bpt>several<ept i="2">&lt;/f2&gt;</ept> languages and runs on all major operating systems.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>LibreOffice è la chiave nel drive per fornire una suite ufficio che è disponibile a chiunque, ovunque, per uso commerciale o personale, <bpt i="0" x="0">&lt;f0&gt;</bpt>#<ept i="0">&lt;/f0&gt;</ept>la sua licenza software open source, <bpt i="1" x="1">&lt;f1&gt;</bpt>che<ept i="1">&lt;/f1&gt;</ept> è stato tradotto in <bpt i="2" x="2">&lt;f2&gt;</bpt>diversi<ept i="2">&lt;/f2&gt;</ept> lingue e funziona su tutti i principali sistemi operativi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>New functionality can be added in the form of extensions.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Nuove funzionalità possono essere aggiunte sotto forma di estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How to participate in LibreOffice Community?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Come partecipare a LibreOffice Community?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The LibreOffice community invites contributors in all areas, including translators, software developers, graphic artists, technical writers, editors, donors, and end-user support.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>La comunità di LibreOffice invita i collaboratori in tutte le aree, tra cui traduttori, sviluppatori di software, artisti grafici, scrittori tecnici, editori, donatori e supporto dell'utente finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whatever you do best, you can make a difference in LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Qualsiasi cosa tu faccia meglio, puoi fare la differenza in LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The community operates internationally in all time zones and in many languages, linked through the internet at <bpt i="0" x="0">&lt;a0&gt;</bpt>www.libreoffice.org<ept i="0">&lt;/a0&gt;</ept> and <bpt i="1" x="1">&lt;a1&gt;</bpt>www.documentfoundation.org<ept i="1">&lt;/a1&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>La comunità opera a livello internazionale in tutti i fusi orari e in molte lingue, collegate attraverso internet <bpt i="0" x="0">&lt;a0&gt;</bpt>www.libreoffice.org<ept i="0">&lt;/a0&gt;</ept> e <bpt i="1" x="1">&lt;a1&gt;</bpt>www.documentfoundation.org<ept i="1">&lt;/a1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To guide new users in all <ph x="0">&lt;s0/&gt;</ph>possible activities in the LibreOffice project, please visit <bpt i="1" x="1">&lt;a1&gt;</bpt>https://whatcanidoforlibreoffice.org<ept i="1">&lt;/a1&gt;</ept> .</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Guidare nuovi utenti in tutti <ph x="0">&lt;s0/&gt;</ph>attività possibili nel progetto LibreOffice, visita <bpt i="1" x="1">&lt;a1&gt;</bpt>https://whatcanidoforlibreoffice.org<ept i="1">&lt;/a1&gt;</ept> .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How is LibreOffice licensed?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Come è concesso in licenza LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice is distributed under both the Mozilla Public License (MPL) 2.0 (<bpt i="0" x="0">&lt;a0&gt;</bpt>www.libreoffice.org/about-us/licenses/<ept i="0">&lt;/a0&gt;</ept>) and the GNU Lesser General Public License (LGPL) 3.0+ (<bpt i="1" x="1">&lt;a1&gt;</bpt>www.gnu.org/licenses/lgpl-3.0.en.html<ept i="1">&lt;/a1&gt;</ept>).</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>LibreOffice è distribuito sia sotto Mozilla Public License (MPL) 2.0 (<bpt i="0" x="0">&lt;a0&gt;</bpt>www.libreoffice.org/about-us/licenses/<ept i="0">&lt;/a0&gt;</ept>) e la GNU Lesser General Public License (LGPL) 3.0+<bpt i="1" x="1">&lt;a1&gt;</bpt>www.gnu.org/licenses/lgpl-3.0.en.html<ept i="1">&lt;/a1&gt;</ept>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is open source?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Che cosa è open source?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The four essential rights of open-source software are embodied within the Free Software Foundation family of the GNU General Public License (GPL):</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>I quattro diritti essenziali del software open source sono incorporati nella famiglia della Free Software Foundation della GNU General Public License (GPL):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The right to use the software for any purpose.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Il diritto di utilizzare il software per qualsiasi scopo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Freedom to redistribute the software for free or for a fee.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Libertà di ridistribuire il software gratuitamente o a pagamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Access to the complete source code of the program (that is, the “blueprints”).</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Accesso al codice sorgente completo del programma (cioè le “blueprint”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The right to modify any part of the source, or use portions of it in other programs.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Il diritto di modificare qualsiasi parte della fonte, o di utilizzarne porzioni in altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The basic idea behind open source is very simple: when programmers can read, redistribute, and modify the source code for a piece of software, the software evolves.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>L'idea di base dietro open source è molto semplice: quando i programmatori possono leggere, ridistribuire e modificare il codice sorgente per un pezzo di software, il software si evolve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>People improve it, people adapt it, people fix bugs.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>La gente lo migliora, la gente lo adatta, la gente corregge i bug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more information on Free and Open Source software, visit these websites:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Per ulteriori informazioni sul software Free and Open Source, visita questi siti web:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What are open standards?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Quali sono gli standard aperti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An open standard defines a method for accomplishing something that is independent of manufacturer or vendor.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Uno standard aperto definisce un metodo per realizzare qualcosa che è indipendente dal produttore o dal fornitore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, we are discussing open standards which allows competing software programs to freely use the same file formats.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>In questo caso, stiamo discutendo di standard aperti che consente ai programmi software concorrenti di utilizzare liberamente gli stessi formati di file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HTML, XML, and ODF are examples of open standards documents.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>HTML, XML e ODF sono esempi di documenti standard aperti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In computing, an open standard meets the following requirements:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Nel calcolo, uno standard aperto soddisfa i seguenti requisiti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is well documented with the complete specification publicly available, either free or at a nominal charge.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>È ben documentato con le specifiche complete pubblicamente disponibili, gratuitamente o a pagamento nominale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It can be freely copied, distributed, and used.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Può essere liberamente copiato, distribuito e utilizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The intellectual property of the standard is made irrevocably available on a royalty-free basis.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>La proprietà intellettuale dello standard è resa irrevocabilmente disponibile su base royalty-free.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is standardized and maintained in an independent, open forum (also called “standards organization”) using an open process.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>È standardizzato e mantenuto in un forum aperto indipendente (chiamato anche “organizzazione standard”) utilizzando un processo aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is OpenDocument?</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Cos'è OpenDocument?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OpenDocument (ODF) is an XML-based file format for office documents (text documents, spreadsheets, drawings, presentations, and more), developed at OASIS (<bpt i="0" x="0">&lt;a0&gt;</bpt>https://www.oasis-open.org/<ept i="0">&lt;/a0&gt;</ept>), an independent, international standards group.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>OpenDocument (ODF) è un formato di file basato su XML per documenti di ufficio (documenti di testo, fogli di calcolo, disegni, presentazioni e altro), sviluppato in OASIS (<bpt i="0" x="0">&lt;a0&gt;</bpt>https://www.oasis-open.org/<ept i="0">&lt;/a0&gt;</ept>), un gruppo indipendente di norme internazionali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OpenDocument version 1.2 was adopted by the International Standards Organization and named ISO/IEC 26300:2015 standard.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>OpenDocument versione 1.2 è stata adottata dalla International Standards Organization e nominata ISO/IEC 26300:2015 standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In December 2019, ODF 1.3 was approved as a committee specification.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Nel dicembre 2019, ODF 1.3 è stato approvato come specifica del comitato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The OASIS OpenDocument version 1.3 specifications are available in the following links:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Le specifiche OASIS OpenDocument versione 1.3 sono disponibili nei seguenti link:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Part 1, Introduction: <bpt i="0" x="0">&lt;a0&gt;</bpt>https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part1-introduction.html<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Parte 1, Introduzione: <bpt i="0" x="0">&lt;a0&gt;</bpt>https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part1-introduction.html<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Part 2, Packages: <bpt i="0" x="0">&lt;a0&gt;</bpt>https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part2-packages.html<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Parte 2, Pacchetti: <bpt i="0" x="0">&lt;a0&gt;</bpt>https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part2-packages.html<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Part 3, OpenDocument Schema: <bpt i="0" x="0">&lt;a0&gt;</bpt>https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part3-schema.html<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Parte 3, OpenDocument Schema: <bpt i="0" x="0">&lt;a0&gt;</bpt>https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part3-schema.html<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Part 4, <ept i="0">&lt;/f0&gt;</ept>Recalculated Formula (OpenFormula) Format: <bpt i="1" x="1">&lt;a1&gt;</bpt>https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part4-formula.html<ept i="1">&lt;/a1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>Parte 4, <ept i="0">&lt;/f0&gt;</ept>Formula ricalcolata (OpenFormula) Formato: <bpt i="1" x="1">&lt;a1&gt;</bpt>https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part4-formula.html<ept i="1">&lt;/a1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike other file formats, ODF (ISO/IEC 26300:2015) is an open standard.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>A differenza di altri formati di file, ODF (ISO/IEC 26300:2015) è uno standard aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is publicly available, royalty-free, and without legal or other restrictions; therefore ODF files are not tied to a specific office suite and <bpt i="0" x="0">&lt;f0&gt;</bpt>anyone<ept i="0">&lt;/f0&gt;</ept> can build a program that interprets these files.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>È disponibile pubblicamente, senza royalty, e senza restrizioni legali o altre; quindi i file ODF non sono legati a una specifica suite per uffici e <bpt i="0" x="0">&lt;f0&gt;</bpt>chiunque<ept i="0">&lt;/f0&gt;</ept> può costruire un programma che interpreta questi file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For this reason ODF is <bpt i="1" x="1">&lt;f1&gt;</bpt>important<ept i="1">&lt;/f1&gt;</ept> for government agencies, schools and other companies who prefer not to be too dependent on any software supplier.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Per questo motivo ODF è <bpt i="1" x="1">&lt;f1&gt;</bpt>importante<ept i="1">&lt;/f1&gt;</ept> per agenzie governative, scuole e altre aziende che preferiscono non essere troppo dipendenti da qualsiasi fornitore di software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice <bpt i="0" x="0">&lt;ud0&gt;</bpt>24.8<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph>saves documents in ODF 1.3 Extended by default.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Libreria <bpt i="0" x="0">&lt;ud0&gt;</bpt>14.<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph>salva i documenti in ODF 1.3 Esteso per impostazione predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice can also open and save in earlier versions of the ODF standard, as well as many other file formats, as summarized <bpt i="2" x="2">&lt;f2&gt;</bpt>in <ept i="2">&lt;/f2&gt;</ept>this <bpt i="3" x="3">&lt;f3&gt;</bpt>H<ept i="3">&lt;/f3&gt;</ept>elp page:</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>LibreOffice può anche aprire e salvare nelle versioni precedenti dello standard ODF, così come molti altri formati di file, come riassunto <bpt i="2" x="2">&lt;f2&gt;</bpt>in <ept i="2">&lt;/f2&gt;</ept>questo <bpt i="3" x="3">&lt;f3&gt;</bpt>H<ept i="3">&lt;/f3&gt;</ept>pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OpenDocument filename extensions</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>estensioni di file OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The most common filename extensions used for OpenDocument documents are <bpt i="0" x="0">&lt;f0&gt;</bpt>summarized<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt> in Table <ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt><bpt i="3" x="3">&lt;t3&gt;</bpt>1<ept i="3">&lt;/t3&gt;</ept><ept i="2">&lt;/f2&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Le estensioni di filename più comuni utilizzate per i documenti OpenDocument sono <bpt i="0" x="0">&lt;f0&gt;</bpt>riassunto<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt> Tabella<ept i="1">&lt;/f1&gt;</ept><bpt i="2" x="2">&lt;f2&gt;</bpt><bpt i="3" x="3">&lt;t3&gt;</bpt>1<ept i="3">&lt;/t3&gt;</ept><ept i="2">&lt;/f2&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table <bpt i="0" x="0">&lt;seq0&gt;</bpt>1<ept i="0">&lt;/seq0&gt;</ept>: Filenames extensions for OpenDocument files</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Tabella <bpt i="0" x="0">&lt;seq0&gt;</bpt>1<ept i="0">&lt;/seq0&gt;</ept>: Filenames extension for OpenDocument files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>‍<bpt i="0" x="0">&lt;f0&gt;</bpt>Document type<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Tipo di documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>‍<bpt i="0" x="0">&lt;f0&gt;</bpt>Document<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>‍<bpt i="0" x="0">&lt;f0&gt;</bpt>Template<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>W<ept i="0">&lt;/f0&gt;</ept>ord <ph x="1">&lt;s1/&gt;</ph>processing (text documents)</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>#<ept i="0">&lt;/f0&gt;</ept>Ord <ph x="1">&lt;s1/&gt;</ph>elaborazione (documenti di testo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>*.odt</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>‍<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><bpt i="2" x="2">&lt;f2&gt;</bpt>*.ott<ept i="2">&lt;/f2&gt;</ept><ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>S<ept i="0">&lt;/f0&gt;</ept>prea<bpt i="1" x="1">&lt;f1&gt;</bpt>d<ept i="1">&lt;/f1&gt;</ept>sheet<bpt i="2" x="2">&lt;f2&gt;</bpt>s<ept i="2">&lt;/f2&gt;</ept> *.ods</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>S<ept i="0">&lt;/f0&gt;</ept>Prea<bpt i="1" x="1">&lt;f1&gt;</bpt>D<ept i="1">&lt;/f1&gt;</ept>foglio<bpt i="2" x="2">&lt;f2&gt;</bpt>#<ept i="2">&lt;/f2&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>‍<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><bpt i="2" x="2">&lt;f2&gt;</bpt>*.ots<ept i="2">&lt;/f2&gt;</ept><ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>*.ods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Presentations</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>*.odp</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;f0&gt;</bpt>‍<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><bpt i="2" x="2">&lt;f2&gt;</bpt>*.otp<ept i="2">&lt;/f2&gt;</ept><ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Databases</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>*.odb</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Databases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>‍</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Drawings</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Disegni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>*.odg <bpt i="0" x="0">&lt;f0&gt;</bpt>‍<ept i="0">&lt;/f0&gt;</ept><bpt i="1" x="1">&lt;f1&gt;</bpt><bpt i="2" x="2">&lt;f2&gt;</bpt>*.otg<ept i="2">&lt;/f2&gt;</ept><ept i="1">&lt;/f1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Charts</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>*.odc</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Grafico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>‍</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Formulas and equations *.odf</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Formule ed equazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>‍</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>‍<bpt i="0" x="0">&lt;f0&gt;</bpt>Master documents (text documents)<ept i="0">&lt;/f0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>Documenti master (documenti di testo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>*.odm</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>*.otm</seg>
+      </tuv>
+      <tuv xml:lang="it-IT" creationid="OmegaT Aligner" creationdate="20241002T222220Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
