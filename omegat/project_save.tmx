@@ -1255,6 +1255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Closing LibreOffice</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204316Z" creationid="valter" creationdate="20241005T204316Z">
+        <seg>Chiusura di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Colleen Hayes</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101752Z" creationid="valter" creationdate="20211016T101752Z">
@@ -1935,6 +1943,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204218Z" creationid="valter" creationdate="20241005T204218Z">
+        <seg>Guida introduttiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started Guide</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193413Z" creationid="valter" creationdate="20211115T193413Z">
@@ -2420,6 +2436,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T151634Z" creationid="valter" creationdate="20240928T151634Z">
         <seg>Informazioni sull'installazione di LibreOffice nei vari sistemi operativi supportati si trovano in questa pagina web: &lt;a0&gt;https://it.libreoffice.org/supporto/installazione/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Installation</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204225Z" creationid="valter" creationdate="20241005T204225Z">
+        <seg>Installazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -3001,6 +3025,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Main LibreOffice window</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204410Z" creationid="valter" creationdate="20241005T204410Z">
+        <seg>Finestra principale di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240922T213404Z" creationid="valter" creationdate="20240922T213302Z">
@@ -3109,6 +3141,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101915Z" creationid="valter" creationdate="20240928T101915Z">
         <seg>Requisiti minimi per utilizzare LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Module Use</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204331Z" creationid="valter" creationdate="20241005T204254Z">
+        <seg>Uso del modulo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,6 +4030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start-Up</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204238Z" creationid="valter" creationdate="20241005T204238Z">
+        <seg>Avvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Starting Impress</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151745Z" creationid="Elisabetta Manuele" creationdate="20211110T151745Z">
@@ -4534,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204431Z" creationid="valter" creationdate="20241005T204431Z">
+        <seg>Barra del titolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the icon set used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184109Z" creationid="valter" creationdate="20211115T184109Z">
@@ -4872,6 +4928,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Windows and Linux</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204347Z" creationid="valter" creationdate="20241005T204347Z">
+        <seg>Windows e Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T154033Z" creationid="valter" creationdate="20240928T154033Z">
@@ -5156,6 +5220,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180959Z" creationid="valter" creationdate="20211115T180959Z">
         <seg>https://ask.libreoffice.org/en/questions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204358Z" creationid="valter" creationdate="20241005T204358Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
