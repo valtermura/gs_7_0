@@ -655,6 +655,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A desktop icon is created</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204843Z" creationid="valter" creationdate="20241005T204843Z">
+        <seg>Viene creata un'icona nel desktop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A dialog is a special type of window.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185945Z" creationid="valter" creationdate="20211115T185945Z">
@@ -2448,6 +2456,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Installation Effect</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204810Z" creationid="valter" creationdate="20241005T204810Z">
+        <seg>Effetto dell'installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Installing LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102039Z" creationid="valter" creationdate="20240928T102019Z">
@@ -2957,6 +2973,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163636Z" creationid="valter" creationdate="20240928T163636Z">
         <seg>Informazioni sulla licenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204516Z" creationid="valter" creationdate="20241005T204516Z">
+        <seg>Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -3473,6 +3497,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T163304Z" creationid="valter" creationdate="20240928T163304Z">
         <seg>Apre il browser predefinito alla pagina Partecipa del sito web di LibreOffice (&lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204802Z" creationid="valter" creationdate="20241005T204802Z">
+        <seg>Sistema operativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,10 +4118,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Results after installation in sup&lt;f1&gt;p&lt;/f1&gt;orted systems</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204756Z" creationid="valter" creationdate="20241005T204756Z">
+        <seg>Tabella &lt;seq0&gt;1&lt;/seq0&gt;: Risultati dopo l'installazione nei sistemi &lt;f1&gt;supportati&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;: Example of macOS keyboard shortcuts</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212508Z" creationid="valter" creationdate="20240928T212508Z">
         <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;: esempio di tasti di scelta rapida per macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table shows the effect of installation on each supported operating system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204712Z" creationid="valter" creationdate="20241005T204712Z">
+        <seg>La tabella mostra l'effetto dell'installazione su ciascun sistema operativo supportato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,6 +4354,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155303Z" creationid="valter" creationdate="20240928T155303Z">
         <seg>Le opzioni seguite da un segno ‡ nell'elenco sotto riportato sono accessibili solo se il computer è collegato a Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The process for installing LibreOffice varies by operating system.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204612Z" creationid="valter" creationdate="20241005T204612Z">
+        <seg>Il processo di installazione di LibreOffice varia in base al sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5276,6 +5332,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T165230Z" creationid="valter" creationdate="20240928T165230Z">
         <seg>‍&lt;f0&gt;Forum della comunità&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Linux</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204904Z" creationid="valter" creationdate="20241005T204904Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Windows</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="valter" changedate="20241005T204821Z" creationid="valter" creationdate="20241005T204821Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
