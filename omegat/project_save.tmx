@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -931,6 +931,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102813Z" creationid="valter" creationdate="20240928T102813Z">
         <seg>Chiunque volesse imparare velocemente a utilizzare LibreOffice, sia che non conosca i software per ufficio, sia che abbia già familiarità con altre suite per ufficio, troverà questa Guida introduttiva molto utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Appendix B, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="akurery" changedate="20241015T214737Z" creationid="akurery" creationdate="20241015T214737Z">
+        <seg>Appendice B, &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
