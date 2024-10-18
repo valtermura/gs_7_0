@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201639Z" creationid="it-libo-l10n" creationdate="20241018T201639Z">
+        <seg>Barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simple wildcards such as the asterisk (*), question mark (?), and tilde (~) from other spreadsheet applications are recognized by LibreOffice &lt;f0&gt;in formula expressions&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191336Z" creationid="akurery" creationdate="20211211T191336Z">
@@ -4194,6 +4202,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213649Z" creationid="valter" creationdate="20211115T190335Z">
         <seg>Casella di selezione (fare clic sulle frecce su e giù per modificare il numero visualizzato nella casella di testo adiacente oppure digitare nella casella di testo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spreadsheet layout</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201711Z" creationid="it-libo-l10n" creationdate="20241018T201711Z">
+        <seg>Spreadsheet layout</seg>
       </tuv>
     </tu>
     <tu>
