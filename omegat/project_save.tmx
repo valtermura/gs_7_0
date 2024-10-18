@@ -1175,6 +1175,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 2, Getting Started with Writer</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T193936Z" creationid="it-libo-l10n" creationdate="20241018T193936Z">
+        <seg>Chapter 2, Getting Started with Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 5 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T100301Z" creationid="akurery" creationdate="20211121T100301Z">
