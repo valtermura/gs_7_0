@@ -1407,6 +1407,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl (Control)</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T200950Z" creationid="it-libo-l10n" creationdate="20241018T200950Z">
+        <seg>Ctrl (Control)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dan Lewis</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101832Z" creationid="valter" creationdate="20211016T101832Z">
@@ -4826,8 +4834,8 @@
       <tuv lang="en-US">
         <seg>Used with other keys</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T185554Z" creationid="valter" creationdate="20211115T185554Z">
-        <seg>Usato con altri tasti</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201130Z" creationid="valter" creationdate="20211115T185554Z">
+        <seg>Usato in combinazione con altri tasti</seg>
       </tuv>
     </tu>
     <tu>
@@ -5474,8 +5482,8 @@
       <tuv lang="en-US">
         <seg>⌘ (Command)</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T185549Z" creationid="valter" creationdate="20211115T185549Z">
-        <seg>⌘ (Command, Cmd)</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201008Z" creationid="valter" creationdate="20211115T185549Z">
+        <seg>⌘ (Comando, Cmd)</seg>
       </tuv>
     </tu>
     <tu>
