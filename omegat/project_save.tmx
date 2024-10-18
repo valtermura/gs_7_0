@@ -1999,6 +1999,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 3, Getting Started with Calc</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T194411Z" creationid="it-libo-l10n" creationdate="20241018T194226Z">
+        <seg>Guida introduttiva 24.8 - Capitolo 1, Introduzione a Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started Guide 24.8 - Preface</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T095152Z" creationid="valter" creationdate="20240928T095152Z">
