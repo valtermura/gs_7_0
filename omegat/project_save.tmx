@@ -761,8 +761,8 @@
       <tuv lang="en-US">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211016T101626Z" creationid="valter" creationdate="20211016T101626Z">
-        <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195235Z" creationid="valter" creationdate="20211016T101626Z">
+        <seg>Tutti i marchi registrati citati in questo documento appartengono ai rispettivi legittimi proprietari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5260,6 +5260,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T091958Z" creationid="valter" creationdate="20211016T091958Z">
         <seg>Sia che siate principianti, sia che abbiate familiarità con altre suite per ufficio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a2&gt;http://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195209Z" creationid="it-libo-l10n" creationdate="20241018T195209Z">
+        <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (&lt;a2&gt;http://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versione 3 o successiva, o della Creative Commons Attribution License (&lt;a3&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versione 4.0 o successiva.</seg>
       </tuv>
     </tu>
     <tu>
