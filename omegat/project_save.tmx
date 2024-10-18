@@ -959,6 +959,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B Antonio Fernandez</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195344Z" creationid="it-libo-l10n" creationdate="20241018T195344Z">
+        <seg>B Antonio Fernandez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Base (database)</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092111Z" creationid="valter" creationdate="20211016T092111Z">
@@ -3629,6 +3637,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team’s forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required) or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195622Z" creationid="it-libo-l10n" creationdate="20241018T195622Z">
+        <seg>Si prega di indirizzare qualsiasi commento o suggerimento relativo a questo documento sul forum del Team di documentazione all'indirizzo &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (è richiesta la registrazione) o di inviare una email a: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102527Z" creationid="valter" creationdate="20211016T102527Z">
@@ -3801,6 +3817,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101754Z" creationid="valter" creationdate="20211016T101754Z">
         <seg>Rob Westein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Robert Thornton</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195300Z" creationid="it-libo-l10n" creationdate="20241018T195300Z">
+        <seg>Robert Thornton</seg>
       </tuv>
     </tu>
     <tu>
@@ -3978,6 +4002,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191336Z" creationid="akurery" creationdate="20211211T191336Z">
         <seg>I caratteri jolly semplici, come l'asterisco (*), il punto interrogativo (?) e la tilde (~), usati da altre applicazioni per fogli di calcolo, sono riconosciuti da LibreOffice nelle espressioni delle formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skip Masonsmith</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195330Z" creationid="it-libo-l10n" creationdate="20241018T195330Z">
+        <seg>Skip Masonsmith</seg>
       </tuv>
     </tu>
     <tu>
@@ -4727,6 +4759,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To previous editions</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195329Z" creationid="it-libo-l10n" creationdate="20241018T195329Z">
+        <seg>Alle edizioni precedenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To start Impress without the Select a Template dialog (Figure &lt;t0&gt;124&lt;/t0&gt;), deselect &lt;f1&gt;Show this dialog at startup&lt;/f1&gt; in the lower left of the dialog.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153959Z" creationid="Elisabetta Manuele" creationdate="20211111T153959Z">
@@ -4748,6 +4788,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193231Z" creationid="valter" creationdate="20211115T193231Z">
         <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To this edition</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195252Z" creationid="it-libo-l10n" creationdate="20241018T195252Z">
+        <seg>A questa edizione</seg>
       </tuv>
     </tu>
     <tu>
@@ -4828,6 +4876,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101907Z" creationid="valter" creationdate="20211016T101907Z">
         <seg>Valerii Goncharuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vasudev Narayanan</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195334Z" creationid="it-libo-l10n" creationdate="20241018T195334Z">
+        <seg>Vasudev Narayanan</seg>
       </tuv>
     </tu>
     <tu>
