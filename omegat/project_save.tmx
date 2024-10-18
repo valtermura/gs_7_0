@@ -1031,6 +1031,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on LibreOffice &lt;ud3&gt;24.8&lt;/ud3&gt;&lt;s4/&gt;Community.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195853Z" creationid="it-libo-l10n" creationdate="20241018T195853Z">
+        <seg>Basato su LibreOffice &lt;ud3&gt;24.8&lt;/ud3&gt;&lt;s4/&gt;Community.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on LibreOffice &lt;ud3&gt;24.8&lt;/ud3&gt;&lt;s4/&gt;Community.&lt;br5/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T100940Z" creationid="valter" creationdate="20240928T100940Z">
@@ -3599,8 +3607,8 @@
       <tuv lang="en-US">
         <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T101039Z" creationid="valter" creationdate="20240928T101039Z">
-        <seg>Le altre versioni di LibreOffice potrebbero essere diverse in aspetto e funzionalità.</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195940Z" creationid="valter" creationdate="20240928T101039Z">
+        <seg>Altre versioni di LibreOffice potrebbero differire per aspetto e funzionalità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4464,8 +4472,8 @@
       <tuv lang="en-US">
         <seg>The table below gives some common substitutions for the instructions in this book.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20211115T185323Z" creationid="valter" creationdate="20211115T185323Z">
-        <seg>La tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo manuale.</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T200526Z" creationid="valter" creationdate="20211115T185323Z">
+        <seg>La tabella che segue fornisce alcune corrispondenze comuni alle istruzioni di questo manuale.</seg>
       </tuv>
     </tu>
     <tu>
