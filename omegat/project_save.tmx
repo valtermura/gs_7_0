@@ -1143,6 +1143,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc main window</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201530Z" creationid="it-libo-l10n" creationdate="20241018T201510Z">
+        <seg>Finestra principale di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can LibreOffice be distributed to anyone?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T214013Z" creationid="valter" creationdate="20240928T214013Z">
@@ -1911,6 +1919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formula bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201623Z" creationid="it-libo-l10n" creationdate="20241018T201623Z">
+        <seg>Barra di calcolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formula syntax</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191340Z" creationid="akurery" creationdate="20211211T191340Z">
@@ -1987,6 +2003,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101903Z" creationid="valter" creationdate="20211016T101903Z">
         <seg>Frédéric Parrenin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Functions</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201449Z" creationid="it-libo-l10n" creationdate="20241018T201449Z">
+        <seg>Funzioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -3089,6 +3113,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Macros</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201443Z" creationid="it-libo-l10n" creationdate="20241018T201430Z">
+        <seg>Macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include LibreOffice Basic, Python, BeanShell, and JavaScript.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191227Z" creationid="akurery" creationdate="20211211T191227Z">
@@ -3221,6 +3253,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T191806Z" creationid="valter" creationdate="20211115T191806Z">
         <seg>È possibile usare il codice sorgente di LibreOffice nel mio programma?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Menu bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201553Z" creationid="it-libo-l10n" creationdate="20241018T201553Z">
+        <seg>Barra dei menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spreadsheets, sheets, and cells</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201508Z" creationid="it-libo-l10n" creationdate="20241018T201508Z">
+        <seg>Fogli elettronici, fogli e celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start Impress using any of the methods described in Chapter 1, Introducing LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T144216Z" creationid="Elisabetta Manuele" creationdate="20211111T144216Z">
@@ -4178,6 +4226,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T151745Z" creationid="Elisabetta Manuele" creationdate="20211110T151745Z">
         <seg>Avviare Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201632Z" creationid="it-libo-l10n" creationdate="20241018T201632Z">
+        <seg>Barra di stato</seg>
       </tuv>
     </tu>
     <tu>
@@ -4844,6 +4900,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T150935Z" creationid="Elisabetta Manuele" creationdate="20211110T150935Z">
         <seg>L'uso di Impress per una presentazione che non sia di livello estremamente semplice richiede la conoscenza degli elementi contenuti nelle diapositive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbars</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201604Z" creationid="it-libo-l10n" creationdate="20241018T201604Z">
+        <seg>Barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
