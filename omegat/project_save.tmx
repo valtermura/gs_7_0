@@ -543,6 +543,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;⌥&lt;/f0&gt; (Option) or Alt, depending on keyboard</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201212Z" creationid="it-libo-l10n" creationdate="20241018T201212Z">
+        <seg>&lt;f0&gt;⌥&lt;/f0&gt; (Opzione) o Alt, a seconda della tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f1&gt;As a&lt;/f1&gt; user &lt;f2&gt;you&lt;/f2&gt; can select &lt;bk3/&gt;&lt;f4&gt;your own&lt;/f4&gt; preferred set.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T183313Z" creationid="valter" creationdate="20211115T183313Z">
@@ -3433,6 +3441,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open Styles deck in Sidebar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201300Z" creationid="it-libo-l10n" creationdate="20241018T201300Z">
+        <seg>Apre il pannello Stili nella barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a context menu</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185527Z" creationid="valter" creationdate="20211115T185527Z">
@@ -5500,6 +5516,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T185604Z" creationid="valter" creationdate="20211115T185604Z">
         <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘+T</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201226Z" creationid="it-libo-l10n" creationdate="20241018T201226Z">
+        <seg>⌘+T</seg>
       </tuv>
     </tu>
     <tu>
