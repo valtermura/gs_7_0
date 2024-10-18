@@ -5426,8 +5426,8 @@
       <tuv lang="en-US">
         <seg>menu selection</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20241005T203506Z" creationid="valter" creationdate="20241005T203506Z">
-        <seg>selezione menu</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T200831Z" creationid="valter" creationdate="20241005T203506Z">
+        <seg>selezione dal menu</seg>
       </tuv>
     </tu>
     <tu>
