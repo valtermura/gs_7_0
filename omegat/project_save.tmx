@@ -249,8 +249,8 @@
       <tuv lang="en-US">
         <seg>&lt;d0&gt;The Document Foundation&lt;/d0&gt;&lt;d1&gt;The LibreOffice Documentation Team&lt;/d1&gt;</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="valter" changedate="20240928T095629Z" creationid="valter" creationdate="20240928T095629Z">
-        <seg>&lt;d0&gt;The Document Foundation&lt;/d0&gt;&lt;d1&gt;The LibreOffice Documentation Team&lt;/d1&gt;</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T194550Z" creationid="valter" creationdate="20240928T095629Z">
+        <seg>&lt;d0&gt;The Document Foundation&lt;/d0&gt;&lt;d1&gt;Team di documentazione di LibreOffice&lt;/d1&gt;</seg>
       </tuv>
     </tu>
     <tu>
