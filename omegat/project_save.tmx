@@ -1607,6 +1607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Everything you send to a mailing list or forum, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195753Z" creationid="it-libo-l10n" creationdate="20241018T195753Z">
+        <seg>Tutto ciò che viene inviato a una mailing list o forum, compreso l'indirizzo email del mittente e qualsiasi altra informazione personale scritta nel messaggio, è archiviata pubblicamente e non può essere cancellata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T102754Z" creationid="valter" creationdate="20211016T102754Z">
