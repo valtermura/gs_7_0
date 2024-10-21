@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>15</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214732Z" creationid="it-libo-l10n" creationdate="20241021T214732Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214812Z" creationid="it-libo-l10n" creationdate="20241021T214812Z">
+        <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101136Z" creationid="valter" creationdate="20240928T101136Z">
@@ -1663,6 +1679,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exporting a whole sheet as one page</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214811Z" creationid="it-libo-l10n" creationdate="20241021T214811Z">
+        <seg>Esportazione di un foglio intero come singola pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exporting contents as an image</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214731Z" creationid="it-libo-l10n" creationdate="20241021T214731Z">
+        <seg>Esportazione dei contenuti come immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exporting values and formulas as a CSV file</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214715Z" creationid="it-libo-l10n" creationdate="20241021T214715Z">
+        <seg>Esportazione di valori e formule come file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extensions</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T102100Z" creationid="valter" creationdate="20240928T102100Z">
@@ -2379,6 +2419,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191309Z" creationid="akurery" creationdate="20211211T191309Z">
         <seg>Importazione ed esportazione di fogli elettronici in più formati, inclusi HTML, CSV, PDF e PostScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Importing external data – Web Query</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215023Z" creationid="it-libo-l10n" creationdate="20241021T215023Z">
+        <seg>Importazione di dati esterni – Ricerca web</seg>
       </tuv>
     </tu>
     <tu>
@@ -3957,10 +4005,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saving files in different formats</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214618Z" creationid="it-libo-l10n" creationdate="20241021T214554Z">
+        <seg>Salvataggio dei file in diversi formati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving spreadsheets</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214520Z" creationid="it-libo-l10n" creationdate="20241021T214520Z">
-        <seg>Saving spreadsheets</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214553Z" creationid="it-libo-l10n" creationdate="20241021T214520Z">
+        <seg>Salvataggio dei fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
