@@ -286,10 +286,74 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>46</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221553Z" creationid="it-libo-l10n" creationdate="20241021T221553Z">
+        <seg>46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>47</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221630Z" creationid="it-libo-l10n" creationdate="20241021T221630Z">
+        <seg>47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>48</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221659Z" creationid="it-libo-l10n" creationdate="20241021T221659Z">
+        <seg>48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>49</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221705Z" creationid="it-libo-l10n" creationdate="20241021T221705Z">
+        <seg>49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101846Z" creationid="valter" creationdate="20240928T101846Z">
         <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>50</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221750Z" creationid="it-libo-l10n" creationdate="20241021T221750Z">
+        <seg>50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>51</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221804Z" creationid="it-libo-l10n" creationdate="20241021T221804Z">
+        <seg>51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>52</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221822Z" creationid="it-libo-l10n" creationdate="20241021T221822Z">
+        <seg>52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>53</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221842Z" creationid="it-libo-l10n" creationdate="20241021T221842Z">
+        <seg>53</seg>
       </tuv>
     </tu>
     <tu>
@@ -1095,6 +1159,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analyzing data</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221841Z" creationid="it-libo-l10n" creationdate="20241021T221841Z">
+        <seg>Analisi dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Andrew Jensen</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101827Z" creationid="valter" creationdate="20211016T101827Z">
@@ -1423,6 +1495,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cell comments</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221803Z" creationid="it-libo-l10n" creationdate="20241021T221803Z">
+        <seg>Commenti delle celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cell fields</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220335Z" creationid="it-libo-l10n" creationdate="20241021T220030Z">
@@ -1435,6 +1515,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215135Z" creationid="it-libo-l10n" creationdate="20241021T215135Z">
         <seg>Navigazione nelle celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cell protection</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221724Z" creationid="it-libo-l10n" creationdate="20241021T221724Z">
+        <seg>Protezione delle celle</seg>
       </tuv>
     </tu>
     <tu>
@@ -1679,6 +1767,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating formulas</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221832Z" creationid="it-libo-l10n" creationdate="20241021T221832Z">
+        <seg>Creazione di formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cross-platform</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114002Z" creationid="valter" creationdate="20240928T114002Z">
@@ -1743,6 +1839,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defining a new AutoFormat</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221620Z" creationid="it-libo-l10n" creationdate="20241021T221620Z">
+        <seg>Definizione di una nuova Formattazione Automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deleting cells</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215415Z" creationid="it-libo-l10n" creationdate="20241021T215415Z">
@@ -1795,6 +1899,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113952Z" creationid="valter" creationdate="20240928T113952Z">
         <seg>Grazie alle licenze Open Source di LibreOffice è possibile distribuire, copiare e modificare il software in base alle proprie esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Document themes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221658Z" creationid="it-libo-l10n" creationdate="20241021T221658Z">
+        <seg>Temi di documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -2123,6 +2235,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220653Z" creationid="it-libo-l10n" creationdate="20241021T220653Z">
         <seg>Riempimento delle celle con testo da elenchi di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filtering data</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221713Z" creationid="it-libo-l10n" creationdate="20241021T221713Z">
+        <seg>Filtraggio dei dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -4253,6 +4373,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pivot tables and pivot charts</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221855Z" creationid="it-libo-l10n" creationdate="20241021T221855Z">
+        <seg>Tavole pivot e grafici pivot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required), or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200620Z" creationid="valter" creationdate="20240929T200620Z">
@@ -4830,6 +4958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sorting records</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221749Z" creationid="it-libo-l10n" creationdate="20241021T221749Z">
+        <seg>Ordinamento dei record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Speeding up data entry</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220406Z" creationid="it-libo-l10n" creationdate="20241021T220406Z">
@@ -4866,6 +5002,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201711Z" creationid="it-libo-l10n" creationdate="20241018T201711Z">
         <seg>Spreadsheet layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spreadsheet themes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221638Z" creationid="it-libo-l10n" creationdate="20241021T221638Z">
+        <seg>Temi del foglio di calcolo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5624,6 +5768,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using AutoFormat</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221609Z" creationid="it-libo-l10n" creationdate="20241021T221609Z">
+        <seg>Utilizzo della formattazione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using AutoFormat on cells</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221552Z" creationid="it-libo-l10n" creationdate="20241021T221552Z">
@@ -5648,10 +5800,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using conditional formatting</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221704Z" creationid="it-libo-l10n" creationdate="20241021T221704Z">
+        <seg>Utilizzo della formattazione condizionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using formulas and functions</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221822Z" creationid="it-libo-l10n" creationdate="20241021T221822Z">
+        <seg>Uso di formule e funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using spreadsheets in LibreOffice</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T194823Z" creationid="it-libo-l10n" creationdate="20241018T194823Z">
         <seg>Utilizzo dei fogli elettronici in LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using themes</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221629Z" creationid="it-libo-l10n" creationdate="20241021T221629Z">
+        <seg>Utilizzo dei temi</seg>
       </tuv>
     </tu>
     <tu>
