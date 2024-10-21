@@ -246,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>40</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221014Z" creationid="it-libo-l10n" creationdate="20241021T221014Z">
+        <seg>40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>42</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221202Z" creationid="it-libo-l10n" creationdate="20241021T221202Z">
+        <seg>42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101846Z" creationid="valter" creationdate="20240928T101846Z">
@@ -1407,6 +1423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing data</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220957Z" creationid="it-libo-l10n" creationdate="20241021T220957Z">
+        <seg>Modifica dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing document view</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215634Z" creationid="it-libo-l10n" creationdate="20241021T215634Z">
@@ -1707,6 +1731,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215401Z" creationid="it-libo-l10n" creationdate="20241021T215401Z">
         <seg>Eliminazione di colonne o righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting data</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221013Z" creationid="it-libo-l10n" creationdate="20241021T221013Z">
+        <seg>Eliminazione dei dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -2235,6 +2267,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T170439Z" creationid="valter" creationdate="20240928T170439Z">
         <seg>Per scuole, enti di formazione e di ricerca, e organizzazioni di grandi dimensioni, vedere la pagina web &lt;a0&gt;https://www.libreoffice.org/download/libreoffice-in-business/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting data</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221018Z" creationid="it-libo-l10n" creationdate="20241021T221018Z">
+        <seg>Formattazione dei dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -3657,6 +3697,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Merging cells</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221209Z" creationid="it-libo-l10n" creationdate="20241021T221209Z">
+        <seg>Unione di celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Miklos Vajna</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101906Z" creationid="valter" creationdate="20211016T101906Z">
@@ -3709,6 +3757,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215501Z" creationid="it-libo-l10n" creationdate="20241021T215501Z">
         <seg>Spostare e copiare i fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple lines of text</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221133Z" creationid="it-libo-l10n" creationdate="20241021T221133Z">
+        <seg>Linee multiple di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,6 +4638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shrinking text to fit the cell</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221201Z" creationid="it-libo-l10n" creationdate="20241021T221201Z">
+        <seg>Restringere il testo per adattarlo alla cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sidebar</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201639Z" creationid="it-libo-l10n" creationdate="20241018T201639Z">
@@ -4714,6 +4778,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213649Z" creationid="valter" creationdate="20211115T190335Z">
         <seg>Casella di selezione (fare clic sulle frecce su e giù per modificare il numero visualizzato nella casella di testo adiacente oppure digitare nella casella di testo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Splitting cells</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221241Z" creationid="it-libo-l10n" creationdate="20241021T221241Z">
+        <seg>Dividere celle</seg>
       </tuv>
     </tu>
     <tu>
