@@ -198,6 +198,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>33</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220353Z" creationid="it-libo-l10n" creationdate="20241021T220353Z">
+        <seg>33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>34</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220407Z" creationid="it-libo-l10n" creationdate="20241021T220407Z">
+        <seg>34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101311Z" creationid="valter" creationdate="20240928T101311Z">
@@ -1095,6 +1111,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AutoCorrect Options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220352Z" creationid="it-libo-l10n" creationdate="20241021T220352Z">
+        <seg>Opzioni della correzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AutoInput tool</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220455Z" creationid="it-libo-l10n" creationdate="20241021T220455Z">
+        <seg>Digitazione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B Antonio Fernandez</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T195344Z" creationid="it-libo-l10n" creationdate="20241018T195344Z">
@@ -1979,6 +2011,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115341Z" creationid="valter" creationdate="20240928T115341Z">
         <seg>Compatibilità tra file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filling cells</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220507Z" creationid="it-libo-l10n" creationdate="20241021T220507Z">
+        <seg>Riempimento delle celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filling text cells with selection lists</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220653Z" creationid="it-libo-l10n" creationdate="20241021T220653Z">
+        <seg>Riempimento delle celle con testo da elenchi di selezione</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,6 +4642,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T152501Z" creationid="valter" creationdate="20240928T152501Z">
         <seg>Alcune impostazioni sono pensate per gli utenti avanzati e i programmatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Speeding up data entry</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T220406Z" creationid="it-libo-l10n" creationdate="20241021T220406Z">
+        <seg>Velocizzare l'inserimento dei dati</seg>
       </tuv>
     </tu>
     <tu>
