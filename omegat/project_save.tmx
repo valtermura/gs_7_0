@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>17</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215109Z" creationid="it-libo-l10n" creationdate="20241021T215109Z">
+        <seg>17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101136Z" creationid="valter" creationdate="20240928T101136Z">
@@ -1211,6 +1219,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101831Z" creationid="valter" creationdate="20211016T101831Z">
         <seg>Cathy Crumbley</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cell navigation</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215135Z" creationid="it-libo-l10n" creationdate="20241021T215135Z">
+        <seg>Navigazione nelle celle</seg>
       </tuv>
     </tu>
     <tu>
@@ -3397,6 +3413,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T182259Z" creationid="Elisabetta Manuele" creationdate="20211111T182259Z">
         <seg>Spostatevi nella cella dove avrà inizio la pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigating within spreadsheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215107Z" creationid="it-libo-l10n" creationdate="20241021T215107Z">
+        <seg>Navigazione nei fogli di calcolo</seg>
       </tuv>
     </tu>
     <tu>
