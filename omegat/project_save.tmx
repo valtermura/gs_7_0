@@ -150,6 +150,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>25</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215503Z" creationid="it-libo-l10n" creationdate="20241021T215503Z">
+        <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>26</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215514Z" creationid="it-libo-l10n" creationdate="20241021T215514Z">
+        <seg>26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>27</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215550Z" creationid="it-libo-l10n" creationdate="20241021T215550Z">
+        <seg>27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>28</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215715Z" creationid="it-libo-l10n" creationdate="20241021T215715Z">
+        <seg>28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101311Z" creationid="valter" creationdate="20240928T101311Z">
@@ -1295,6 +1327,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing document view</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215634Z" creationid="it-libo-l10n" creationdate="20241021T215634Z">
+        <seg>Cambiare modo di visualizzazione del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 2, Getting Started with Writer</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T193936Z" creationid="it-libo-l10n" creationdate="20241018T193936Z">
@@ -1575,6 +1615,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deleting sheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215533Z" creationid="it-libo-l10n" creationdate="20241021T215533Z">
+        <seg>Eliminare fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213412Z" creationid="valter" creationdate="20240928T213412Z">
@@ -1747,6 +1795,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T120038Z" creationid="valter" creationdate="20240928T120038Z">
         <seg>Migliorie, eliminazione di errori e date di rilascio sono coordinati dalla comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Entering data using the keyboard</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215740Z" creationid="it-libo-l10n" creationdate="20241021T215740Z">
+        <seg>Inserimento dei dati utilizzando la tastiera</seg>
       </tuv>
     </tu>
     <tu>
@@ -2119,6 +2175,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Freezing rows and columns</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215700Z" creationid="it-libo-l10n" creationdate="20241021T215700Z">
+        <seg>Fissare righe e colonne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Frequently asked questions</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190701Z" creationid="valter" creationdate="20211115T190455Z">
@@ -2315,6 +2379,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215342Z" creationid="it-libo-l10n" creationdate="20241021T215342Z">
         <seg>Nascondere e mostrare colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hiding and showing sheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215513Z" creationid="it-libo-l10n" creationdate="20241021T215513Z">
+        <seg>Nascondere e mostrare i fogli</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,6 +3585,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moving and copying sheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215501Z" creationid="it-libo-l10n" creationdate="20241021T215501Z">
+        <seg>Spostare e copiare i fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Native language support</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T181314Z" creationid="valter" creationdate="20211115T181314Z">
@@ -4085,6 +4165,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Renaming sheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215523Z" creationid="it-libo-l10n" creationdate="20241021T215523Z">
+        <seg>Rinominare i fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restart in Safe Mode</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T162845Z" creationid="valter" creationdate="20240928T162447Z">
@@ -4474,6 +4562,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213649Z" creationid="valter" creationdate="20211115T190335Z">
         <seg>Casella di selezione (fare clic sulle frecce su e giù per modificare il numero visualizzato nella casella di testo adiacente oppure digitare nella casella di testo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Splitting the screen</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215715Z" creationid="it-libo-l10n" creationdate="20241021T215715Z">
+        <seg>Dividere lo schermo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5284,6 +5380,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133404Z" creationid="valter" creationdate="20240928T133404Z">
         <seg>Le versioni di LibreOffice per Windows, Linux e macOS sono disponibili a titolo gratuito e sono scaricabili da &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Viewing a spreadsheet</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215549Z" creationid="it-libo-l10n" creationdate="20241021T215549Z">
+        <seg>Visualizzazione di un foglio di calcolo</seg>
       </tuv>
     </tu>
     <tu>
