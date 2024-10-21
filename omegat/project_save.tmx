@@ -1223,6 +1223,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 4, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214337Z" creationid="it-libo-l10n" creationdate="20241021T214337Z">
+        <seg>Capitolo 4, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 5 &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T100301Z" creationid="akurery" creationdate="20211121T100301Z">
@@ -2075,6 +2083,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T194411Z" creationid="it-libo-l10n" creationdate="20241018T194226Z">
         <seg>Guida introduttiva 24.8 - Capitolo 1, Introduzione a Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 4, Working with Styles, Templates, and Hyperlinks</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214318Z" creationid="it-libo-l10n" creationdate="20241021T214318Z">
+        <seg>Getting Started Guide 24.8 - Chapter 4, Working with Styles, Templates, and Hyperlinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 5, Working with Images and Graphics</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214441Z" creationid="it-libo-l10n" creationdate="20241021T214441Z">
+        <seg>Getting Started Guide 24.8 - Chapter 5, Working with Images and Graphics</seg>
       </tuv>
     </tu>
     <tu>
@@ -3529,6 +3553,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opening and importing a CSV file</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214515Z" creationid="it-libo-l10n" creationdate="20241021T214515Z">
+        <seg>Apertura e importazione di un file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens a context menu</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T212700Z" creationid="valter" creationdate="20240928T212700Z">
@@ -3921,6 +3953,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101847Z" creationid="valter" creationdate="20211016T101847Z">
         <seg>Ron Faile Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving spreadsheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214520Z" creationid="it-libo-l10n" creationdate="20241021T214520Z">
+        <seg>Saving spreadsheets</seg>
       </tuv>
     </tu>
     <tu>
@@ -5244,6 +5284,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101756Z" creationid="valter" creationdate="20211016T101756Z">
         <seg>Winston Min Tjong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with Styles, Templates, and Hyperlinks</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214439Z" creationid="it-libo-l10n" creationdate="20241021T214439Z">
+        <seg>Lavorare con stili, modelli e collegamenti ipertestuali</seg>
       </tuv>
     </tu>
     <tu>
