@@ -4351,8 +4351,8 @@
       <tuv lang="en-US">
         <seg>Other features provided by Calc include:</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="akurery" changedate="20211121T095645Z" creationid="akurery" creationdate="20211121T095645Z">
-        <seg>Altre funzionalità fornite da Calc includono:</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T222332Z" creationid="akurery" creationdate="20211121T095645Z">
+        <seg>Le altre funzionalità fornite da Calc includono:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6340,6 +6340,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182737Z" creationid="valter" creationdate="20211115T182737Z">
         <seg>È possibile utilizzare sia le finestre di dialogo del vostro sistema sia quelle fornite da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to discover results.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T222304Z" creationid="it-libo-l10n" creationdate="20241021T222304Z">
+        <seg>È possibile inserire i dati (solitamente numerici) in un foglio di calcolo e poi manipolarli per ottenere dei risultati.</seg>
       </tuv>
     </tu>
     <tu>
