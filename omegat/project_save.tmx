@@ -262,6 +262,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>43</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221251Z" creationid="it-libo-l10n" creationdate="20241021T221251Z">
+        <seg>43</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>44</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221331Z" creationid="it-libo-l10n" creationdate="20241021T221331Z">
+        <seg>44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>45</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221340Z" creationid="it-libo-l10n" creationdate="20241021T221340Z">
+        <seg>45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101846Z" creationid="valter" creationdate="20240928T101846Z">
@@ -2271,10 +2295,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formatting cell background</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221339Z" creationid="it-libo-l10n" creationdate="20241021T221339Z">
+        <seg>Formattazione dello sfondo della cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting cell borders</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221330Z" creationid="it-libo-l10n" creationdate="20241021T221330Z">
+        <seg>Formattazione dei bordi della cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formatting data</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221018Z" creationid="it-libo-l10n" creationdate="20241021T221018Z">
         <seg>Formattazione dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting default cell styles</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221507Z" creationid="it-libo-l10n" creationdate="20241021T221507Z">
+        <seg>Formattazione degli stili di cella predefiniti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting fonts and text in cells</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221319Z" creationid="it-libo-l10n" creationdate="20241021T221319Z">
+        <seg>Formattazione dei caratteri e del testo nelle celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting numbers</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221250Z" creationid="it-libo-l10n" creationdate="20241021T221250Z">
+        <seg>Formattazione dei numeri</seg>
       </tuv>
     </tu>
     <tu>
@@ -5556,6 +5620,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T095607Z" creationid="akurery" creationdate="20211121T095607Z">
         <seg>Utilizzo dei &lt;f0&gt;f&lt;/f0&gt;ogli elettronici in LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using AutoFormat on cells</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221552Z" creationid="it-libo-l10n" creationdate="20241021T221552Z">
+        <seg>Utilizzo della formattazione automatica per le celle</seg>
       </tuv>
     </tu>
     <tu>
