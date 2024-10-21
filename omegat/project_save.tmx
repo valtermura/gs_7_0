@@ -358,6 +358,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>54</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221913Z" creationid="it-libo-l10n" creationdate="20241021T221913Z">
+        <seg>54</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>55</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221942Z" creationid="it-libo-l10n" creationdate="20241021T221942Z">
+        <seg>55</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>56</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T222041Z" creationid="it-libo-l10n" creationdate="20241021T222041Z">
+        <seg>56</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>57</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T222101Z" creationid="it-libo-l10n" creationdate="20241021T222101Z">
+        <seg>57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101923Z" creationid="valter" creationdate="20240928T101923Z">
@@ -1433,8 +1465,8 @@
       <tuv lang="en-US">
         <seg>Calc is the spreadsheet component of LibreOffice.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="akurery" changedate="20211121T095623Z" creationid="akurery" creationdate="20211121T095623Z">
-        <seg>Calc è il componente per fogli elettronici di LibreOffice.</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T222153Z" creationid="akurery" creationdate="20211121T095623Z">
+        <seg>Calc è il componente di LibreOffice per i fogli elettronici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2699,6 +2731,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101846Z" creationid="valter" creationdate="20211016T101846Z">
         <seg>Hazel Russman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headers and footers</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T222100Z" creationid="it-libo-l10n" creationdate="20241021T222100Z">
+        <seg>Intestazioni e piè di pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -4349,6 +4389,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page breaks</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T222050Z" creationid="it-libo-l10n" creationdate="20241021T222050Z">
+        <seg>Interruzioni di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182105Z" creationid="valter" creationdate="20211115T182105Z">
@@ -4369,6 +4417,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101728Z" creationid="valter" creationdate="20211016T101728Z">
         <seg>Peter Schofield</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pivot charts</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221912Z" creationid="it-libo-l10n" creationdate="20241021T221912Z">
+        <seg>Grafici pivot</seg>
       </tuv>
     </tu>
     <tu>
@@ -4433,6 +4489,30 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240929T200154Z" creationid="valter" creationdate="20240929T200154Z">
         <seg>Stampa di un dépliant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print ranges</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221933Z" creationid="it-libo-l10n" creationdate="20241021T221933Z">
+        <seg>Aree di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printing</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221919Z" creationid="it-libo-l10n" creationdate="20241021T221919Z">
+        <seg>Stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printing options</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221941Z" creationid="it-libo-l10n" creationdate="20241021T221941Z">
+        <seg>Opzioni di stampa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4545,6 +4625,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215523Z" creationid="it-libo-l10n" creationdate="20241021T215523Z">
         <seg>Rinominare i fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeat printing of rows or columns</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T222040Z" creationid="it-libo-l10n" creationdate="20241021T222040Z">
+        <seg>Righe e colonne da ripetere in stampa</seg>
       </tuv>
     </tu>
     <tu>
