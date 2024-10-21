@@ -86,10 +86,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>18</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215149Z" creationid="it-libo-l10n" creationdate="20241021T215149Z">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>19</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215205Z" creationid="it-libo-l10n" creationdate="20241021T215205Z">
+        <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T101136Z" creationid="valter" creationdate="20240928T101136Z">
         <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>20</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215238Z" creationid="it-libo-l10n" creationdate="20241021T215238Z">
+        <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>21</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215255Z" creationid="it-libo-l10n" creationdate="20241021T215255Z">
+        <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>22</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215303Z" creationid="it-libo-l10n" creationdate="20241021T215303Z">
+        <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>23</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215323Z" creationid="it-libo-l10n" creationdate="20241021T215323Z">
+        <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>24</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215417Z" creationid="it-libo-l10n" creationdate="20241021T215417Z">
+        <seg>24</seg>
       </tuv>
     </tu>
     <tu>
@@ -1471,6 +1527,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customizing the Enter key</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215217Z" creationid="it-libo-l10n" creationdate="20241021T215217Z">
+        <seg>Personalizzazione del tasto Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dan Lewis</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101832Z" creationid="valter" creationdate="20211016T101832Z">
@@ -1491,6 +1555,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101731Z" creationid="valter" creationdate="20211016T101731Z">
         <seg>Dave Barton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting cells</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215415Z" creationid="it-libo-l10n" creationdate="20241021T215415Z">
+        <seg>Eliminazione di celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting columns or rows</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215401Z" creationid="it-libo-l10n" creationdate="20241021T215401Z">
+        <seg>Eliminazione di colonne o righe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2231,6 +2311,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hiding and showing columns and rows</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215342Z" creationid="it-libo-l10n" creationdate="20241021T215342Z">
+        <seg>Nascondere e mostrare colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192651Z" creationid="valter" creationdate="20211115T192651Z">
@@ -2632,6 +2720,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inserting columns and rows</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215333Z" creationid="it-libo-l10n" creationdate="20241021T215333Z">
+        <seg>Inserimento di colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inserting new sheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215435Z" creationid="it-libo-l10n" creationdate="20241021T215435Z">
+        <seg>Inserimento di nuovi fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Installation</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204225Z" creationid="valter" creationdate="20241005T204225Z">
@@ -2909,6 +3013,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101849Z" creationid="valter" creationdate="20211016T101849Z">
         <seg>Kevin O’Brien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard navigation</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215204Z" creationid="it-libo-l10n" creationdate="20241021T215204Z">
+        <seg>Navigazione da tastiera</seg>
       </tuv>
     </tu>
     <tu>
@@ -4150,10 +4262,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selecting cells</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215245Z" creationid="it-libo-l10n" creationdate="20241021T215245Z">
+        <seg>Selezione delle celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting columns and rows</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215254Z" creationid="it-libo-l10n" creationdate="20241021T215254Z">
+        <seg>Selezione di colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting items in a spreadsheet</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215236Z" creationid="it-libo-l10n" creationdate="20241021T215236Z">
+        <seg>Selezione degli elementi in un foglio di calcolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting rows and columns in a database table</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T141904Z" creationid="Elisabetta Manuele" creationdate="20211110T141904Z">
         <seg>Selezionare righe e colonne in una tabella di database (aperta con F4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting sheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215311Z" creationid="it-libo-l10n" creationdate="20241021T215300Z">
+        <seg>Selezione dei fogli</seg>
       </tuv>
     </tu>
     <tu>
@@ -4186,6 +4330,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T153257Z" creationid="valter" creationdate="20240928T153257Z">
         <seg>Varie estensioni sono state integrate all'interno del &lt;f2&gt;software&lt;/f2&gt;, insieme con estensioni aggiuntive acquisite dal deposito ufficiale delle estensioni (&lt;a3&gt;https://extensions.libreoffice.org/&lt;/a3&gt;) o da altre fonti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sheet navigation</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215147Z" creationid="it-libo-l10n" creationdate="20241021T215147Z">
+        <seg>Navigazione tra i fogli</seg>
       </tuv>
     </tu>
     <tu>
@@ -5372,6 +5524,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214439Z" creationid="it-libo-l10n" creationdate="20241021T214439Z">
         <seg>Lavorare con stili, modelli e collegamenti ipertestuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with columns and rows</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215320Z" creationid="it-libo-l10n" creationdate="20241021T215320Z">
+        <seg>Lavorare con colonne e righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with sheets</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215425Z" creationid="it-libo-l10n" creationdate="20241021T215425Z">
+        <seg>Lavorare con i fogli</seg>
       </tuv>
     </tu>
     <tu>
