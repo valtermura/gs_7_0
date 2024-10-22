@@ -2447,6 +2447,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on formula syntax, see Chapter 8, Using Formulas and Functions, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T215632Z" creationid="it-libo-l10n" creationdate="20241022T215632Z">
+        <seg>Per ulteriori informazioni sulla sintassi delle formule, vedere il capitolo 8, Utilizzo di formule e le funzioni, nella &lt;f0&gt;Guida di Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see Appendix B, Open Source, Open Standards, OpenDocument.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104230Z" creationid="valter" creationdate="20240928T104230Z">
@@ -3973,6 +3981,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221209Z" creationid="it-libo-l10n" creationdate="20241021T221209Z">
         <seg>Unione di celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsoft Office uses Visual Basic for Applications (VBA) code, and LibreOffice uses Basic code based on the LibreOffice API.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T215946Z" creationid="it-libo-l10n" creationdate="20241022T215946Z">
+        <seg>Microsoft Office utilizza codice scritto in Visual Basic for Applications (VBA), mentre LibreOffice utilizza codice in Basic che fa riferimento alle API di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
