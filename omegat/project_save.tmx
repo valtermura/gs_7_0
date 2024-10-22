@@ -1407,6 +1407,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, Calc uses its own formula syntax, referred to as Calc A1, rather than the default Excel A1 syntax used by Microsoft Excel.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T215238Z" creationid="it-libo-l10n" creationdate="20241022T215238Z">
+        <seg>Per impostazione predefinita, LibreOffice Calc utilizza una propria sintassi per le formule, denominata Calc A1, anziché la sintassi Excel A1 utilizzata da Microsoft Excel. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, LibreOffice Calc uses its own formula syntax, referred to as Calc &lt;f0&gt;A&lt;/f0&gt;1, rather than the Excel &lt;f1&gt;A&lt;/f1&gt;1 syntax that is used by Microsoft Excel.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191447Z" creationid="akurery" creationdate="20211211T191447Z">
@@ -4962,6 +4970,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201639Z" creationid="it-libo-l10n" creationdate="20241018T201639Z">
         <seg>Barra laterale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple wildcards such as the asterisk (*), question mark (?), and tilde (~) from other spreadsheet applications are recognized by Calc in formula expressions.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T215058Z" creationid="it-libo-l10n" creationdate="20241022T215058Z">
+        <seg>I caratteri jolly semplici, come l'asterisco (*), il punto interrogativo (?) e la tilde (~), usati da altre applicazioni per fogli di calcolo, sono riconosciuti da LibreOffice nelle espressioni delle formule.</seg>
       </tuv>
     </tu>
     <tu>
