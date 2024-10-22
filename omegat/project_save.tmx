@@ -3023,6 +3023,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to use macros written in Microsoft Excel using the VBA macro code in LibreOffice, you must first edit the code in the LibreOffice Basic IDE editor.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T220432Z" creationid="it-libo-l10n" creationdate="20241022T220432Z">
+        <seg>Se si desidera utilizzare in LibreOffice le macro scritte in Microsoft Excel usando il codice VBA, è necessario prima modificare il codice nell'editor IDE Basic di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T182418Z" creationid="valter" creationdate="20211115T182418Z">
