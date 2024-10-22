@@ -1487,6 +1487,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc will translate seamlessly between the two.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T215252Z" creationid="it-libo-l10n" creationdate="20241022T215252Z">
+        <seg>LibreOffice tradurrà senza problemi l'una nell'altra. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can LibreOffice be distributed to anyone?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T214013Z" creationid="valter" creationdate="20240928T214013Z">
@@ -2875,6 +2883,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T115316Z" creationid="valter" creationdate="20240928T115316Z">
         <seg>In ogni caso, le opzioni di LibreOffice possono essere configurate a livello di modulo o addirittura a livello di singolo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, if you are familiar with Excel you may wish to change the default syntax by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula &lt;/f0&gt;and choosing &lt;f1&gt;Excel A1&lt;/f1&gt; or &lt;f2&gt;Excel R1C1&lt;/f2&gt; in the &lt;f3&gt;Formula syntax&lt;/f3&gt; drop-down menu.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T215508Z" creationid="it-libo-l10n" creationdate="20241022T215508Z">
+        <seg>Tuttavia, chi ha familiarità con Excel potrebbe voler cambiare la sintassi predefinita andando in &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Formula &lt;/f0&gt; e scegliendo &lt;f1&gt;Excel A1&lt;/f1&gt; o &lt;f2&gt;Excel R1C1&lt;/f2&gt; dal menu a discesa &lt;f3&gt;Sintassi della formula&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
