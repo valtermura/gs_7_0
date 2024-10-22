@@ -2463,6 +2463,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, refer to Chapter 13, Macros, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T220513Z" creationid="it-libo-l10n" creationdate="20241022T220513Z">
+        <seg>Per ulteriori informazioni, fare riferimento al capitolo 13, Macro, della &lt;f0&gt;Guida di Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see Appendix B, Open Source, Open Standards, OpenDocument.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T104230Z" creationid="valter" creationdate="20240928T104230Z">
