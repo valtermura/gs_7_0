@@ -2991,6 +2991,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and DIF.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T214815Z" creationid="it-libo-l10n" creationdate="20241022T214815Z">
+        <seg>Importazione ed esportazione di fogli di calcolo numerosi formati, tra cui HTML, CSV, PDF e DIF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and PostScript.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191309Z" creationid="akurery" creationdate="20211211T191309Z">
@@ -4729,6 +4737,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T214553Z" creationid="it-libo-l10n" creationdate="20241021T214520Z">
         <seg>Salvataggio dei fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Seamless collaboration with other users by sharing spreadsheets.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T215001Z" creationid="it-libo-l10n" creationdate="20241022T215001Z">
+        <seg>Collaborazione continua con altri utenti attraverso la condivisione dei fogli di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
