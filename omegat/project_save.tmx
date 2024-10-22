@@ -1847,6 +1847,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data statistics tools, to perform complex data analysis.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T214537Z" creationid="it-libo-l10n" creationdate="20241022T214537Z">
+        <seg>Strumenti di statistica, per eseguire analisi dei dati complesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Database functions, to arrange, store, and filter data.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211121T160156Z" creationid="akurery" creationdate="20211121T160156Z">
@@ -2035,6 +2043,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T175249Z" creationid="akurery" creationdate="20211211T175249Z">
         <seg>Grafici dinamici,&lt;f0&gt; compresa&lt;/f0&gt; una vasta gamma di grafici 2D e 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dynamic charts, including a wide range of 2D and 3D charts.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T214622Z" creationid="it-libo-l10n" creationdate="20241022T214622Z">
+        <seg>Grafici dinamici, compresa una vasta gamma di grafici 2D e 3D.</seg>
       </tuv>
     </tu>
     <tu>
