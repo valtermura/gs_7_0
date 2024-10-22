@@ -1151,6 +1151,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T220042Z" creationid="it-libo-l10n" creationdate="20241022T220042Z">
+        <seg>Sebbene il linguaggio di programmazione sia lo stesso, gli oggetti e i metodi sono diversi e quindi non completamente compatibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amanda Labby</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T101829Z" creationid="valter" creationdate="20211016T101829Z">
@@ -3621,6 +3629,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193548Z" creationid="valter" creationdate="20211115T193548Z">
         <seg>LibreOffice è anche in grado di aprire e salvare documenti in molti altri formati, compresi quelli utilizzati da varie versioni di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice can run some Excel Visual Basic scripts if you enable this feature at &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; VBA Properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T220212Z" creationid="it-libo-l10n" creationdate="20241022T220212Z">
+        <seg>LibreOffice può eseguire alcuni script di Excel Visual Basic se si attiva la funzionalità in &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Proprietà VBA&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
