@@ -5606,6 +5606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The parts of this window are described below.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T221134Z" creationid="it-libo-l10n" creationdate="20241025T221107Z">
+        <seg>Gli elementi di questa finestra sono descritte di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The process for installing LibreOffice varies by operating system.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20241005T204612Z" creationid="valter" creationdate="20241005T204612Z">
@@ -6232,6 +6240,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When Calc is started, the main window opens (Figure &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T221041Z" creationid="it-libo-l10n" creationdate="20241025T221041Z">
+        <seg>Quando Calc viene avviato, si apre la finestra principale (Figura &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When LibreOffice is acquired through official app stores, follow the installation instructions provided by the store.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T151749Z" creationid="valter" creationdate="20240928T151749Z">
@@ -6556,6 +6572,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195858Z" creationid="valter" creationdate="20211115T195858Z">
         <seg>Con Math è possibile salvare le formule nel formato standard Mathematical Markup Language (MathML) e inserirle in pagine web e altri documenti non creati da LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can show or hide many of the parts as desired, using the View menu on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T221239Z" creationid="it-libo-l10n" creationdate="20241025T221123Z">
+        <seg>È possibile mostrare o nascondere molti elementi come desiderato, utilizzando il menu Visualizza della barra del menu.</seg>
       </tuv>
     </tu>
     <tu>
