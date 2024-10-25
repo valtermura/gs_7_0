@@ -1599,6 +1599,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cells hold the individual elements – text, numbers, formulas, and so on – that make up the data to display and manipulate.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T220743Z" creationid="it-libo-l10n" creationdate="20241025T220743Z">
+        <seg>Le celle contengono i singoli elementi – testo, numeri, formule e così via – che costituiscono i dati da visualizzare e manipolare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the icon set used in a LibreOffice installation as follows:</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T180732Z" creationid="valter" creationdate="20240928T180732Z">
@@ -2107,6 +2115,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T220700Z" creationid="it-libo-l10n" creationdate="20241025T220700Z">
         <seg>Ogni foglio contiene delle celle disposte in righe e colonne, ogni cella è identificata dal suo numero di riga e lettera di colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each spreadsheet can have up to 10,000 sheets, and each sheet can have a maximum of 1,048,576 rows and a maximum of 16,384 columns.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T220939Z" creationid="it-libo-l10n" creationdate="20241025T220939Z">
+        <seg>Ogni foglio di calcolo può contenere fino a 10.000 fogli e ciascuno di essi può avere un massimo di 1.048.576 righe e 16.384 colonne.</seg>
       </tuv>
     </tu>
     <tu>
