@@ -4209,6 +4209,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that there are some functions within Calc that are not in accordance with &lt;f7&gt;OpenFormula,&lt;/f7&gt; but many of these are included specifically to improve the exchange of files between Calc and Microsoft Excel.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T220445Z" creationid="it-libo-l10n" creationdate="20241025T220445Z">
+        <seg>È da tener presente che alcune funzioni all'interno di Calc non sono conformi a &lt;f7&gt;OpenFormula,&lt;/f7&gt; ma la maggior parte di queste sono state incluse specificamente per migliorare lo scambio di file tra Calc e Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184218Z" creationid="valter" creationdate="20211115T184218Z">
