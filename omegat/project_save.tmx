@@ -1503,6 +1503,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc’s general support for &lt;f6&gt;OpenFormula&lt;/f6&gt; leads to a level of inherent compatibility with the function set of any other spreadsheet application that follows the same standard.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T220226Z" creationid="it-libo-l10n" creationdate="20241025T220226Z">
+        <seg>Il supporto generale di Calc per &lt;f6&gt;OpenFormula&lt;/f6&gt; porta ad un livello di compatibilità intrinseco all'insieme di funzioni di qualsiasi altra applicazione per i fogli di calcolo che rispetta lo stesso standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can LibreOffice be distributed to anyone?</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T214013Z" creationid="valter" creationdate="20240928T214013Z">
