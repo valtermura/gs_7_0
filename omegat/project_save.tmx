@@ -1495,6 +1495,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc uses spreadsheets, which consist of a number of individual sheets.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T220612Z" creationid="it-libo-l10n" creationdate="20241025T220612Z">
+        <seg>Calc utilizza dei fogli di calcolo, che sono costituiti da diversi singoli fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc will translate seamlessly between the two.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T215252Z" creationid="it-libo-l10n" creationdate="20241022T215252Z">
@@ -2091,6 +2099,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T214622Z" creationid="it-libo-l10n" creationdate="20241022T214622Z">
         <seg>Grafici dinamici, compresa una vasta gamma di grafici 2D e 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each sheet contains cells arranged in rows and columns, and each cell is identified by its row number and column letter.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241025T220700Z" creationid="it-libo-l10n" creationdate="20241025T220700Z">
+        <seg>Ogni foglio contiene delle celle disposte in righe e colonne, ogni cella è identificata dal suo numero di riga e lettera di colonna.</seg>
       </tuv>
     </tu>
     <tu>
