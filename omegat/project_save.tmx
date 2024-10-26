@@ -1423,6 +1423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, Calc’s commands are grouped in menus and toolbars, as described in this chapter.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241026T191402Z" creationid="it-libo-l10n" creationdate="20241026T191402Z">
+        <seg>By default, Calc’s commands are grouped in menus and toolbars, as described in this chapter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, LibreOffice Calc uses its own formula syntax, referred to as Calc &lt;f0&gt;A&lt;/f0&gt;1, rather than the Excel &lt;f1&gt;A&lt;/f1&gt;1 syntax that is used by Microsoft Excel.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191447Z" creationid="akurery" creationdate="20211211T191447Z">
