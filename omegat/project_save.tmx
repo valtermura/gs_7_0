@@ -1775,6 +1775,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commands for handling sheets, including options for inserting and deleting elements; renaming, moving, and copying sheets; changing a sheet tab’s highlight color; and navigating through multiple sheets.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T210554Z" creationid="it-libo-l10n" creationdate="20241027T210554Z">
+        <seg>Comandi per la gestione dei fogli, comprese le opzioni per l'inserimento e l'eliminazione di elementi; per rinominare, spostare e copiare fogli; modificare il colore della linguetta di un foglio e per navigare attraverso più fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compatibility with other spreadsheet applications</seg>
       </tuv>
       <tuv lang="it-IT" changeid="akurery" changedate="20211211T191323Z" creationid="akurery" creationdate="20211211T191323Z">
@@ -5102,6 +5110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sheet</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T210346Z" creationid="it-libo-l10n" creationdate="20241027T210346Z">
+        <seg>Foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sheet navigation</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215147Z" creationid="it-libo-l10n" creationdate="20241021T215147Z">
@@ -5618,6 +5634,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114900Z" creationid="valter" creationdate="20240928T114900Z">
         <seg>I singoli moduli di LibreOffice sono ben integrati tra loro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The menus specific to Calc are Sheet and Data; in addition, several important data analysis tools are found in the Tools menu and the View menu contains several options that are of specific interest to Calc users.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T210350Z" creationid="it-libo-l10n" creationdate="20241027T210323Z">
+        <seg>I menu specifici di Calc sono Foglio e Dati; inoltre, diversi importanti strumenti di analisi dei dati si trovano nel menu Strumenti e il menu Visualizza contiene diverse opzioni che sono di particolare interesse per gli utenti di Calc.</seg>
       </tuv>
     </tu>
     <tu>
