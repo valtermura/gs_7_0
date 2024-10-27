@@ -1425,8 +1425,8 @@
       <tuv lang="en-US">
         <seg>By default, Calc’s commands are grouped in menus and toolbars, as described in this chapter.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241026T191402Z" creationid="it-libo-l10n" creationdate="20241026T191402Z">
-        <seg>By default, Calc’s commands are grouped in menus and toolbars, as described in this chapter.</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T205329Z" creationid="it-libo-l10n" creationdate="20241026T191402Z">
+        <seg>Per impostazione predefinita, i comandi di Calc sono raggruppati in menu e barre degli strumenti, come descritto in questo capitolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2551,6 +2551,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see Chapter 16, User Interface Variants, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T205513Z" creationid="it-libo-l10n" creationdate="20241027T205435Z">
+        <seg>Per ulteriori informazioni, vedere il Capitolo 16, Varianti dell'interfaccia utente, nella &lt;f0&gt;Guida di Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For quick tips when a toolbar is visible, place the cursor over any of the tool icons to see a small tooltip box with a brief explanation of the tool function.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155541Z" creationid="valter" creationdate="20240928T155541Z">
@@ -3227,6 +3235,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T180329Z" creationid="valter" creationdate="20211115T180310Z">
         <seg>In aggiunta ai collegamenti contenuti nel menu Aiuto citati sopra, sono disponibili opzioni in linea di assistenza da parte della comunità, si veda la tabella sotto riportata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, Calc provides other user interface variations, displaying contextual groups of commands and contents.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T205407Z" creationid="it-libo-l10n" creationdate="20241027T205311Z">
+        <seg>Inoltre, Calc fornisce altre varianti di interfaccia utente, visualizzando gruppi contestuali di comandi e contenuti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5498,6 +5514,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T193850Z" creationid="valter" creationdate="20211115T193850Z">
         <seg>Il Gestore di scenari fornisce analisi del tipo "what if" (cosa succede se).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Title bar, located at the top, shows the name of the current spreadsheet.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T205543Z" creationid="it-libo-l10n" creationdate="20241027T205543Z">
+        <seg>La barra del titolo, situata in alto, mostra il nome del foglio di calcolo corrente.</seg>
       </tuv>
     </tu>
     <tu>
