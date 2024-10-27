@@ -5520,8 +5520,8 @@
       <tuv lang="en-US">
         <seg>The Title bar, located at the top, shows the name of the current spreadsheet.</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T205543Z" creationid="it-libo-l10n" creationdate="20241027T205543Z">
-        <seg>La barra del titolo, situata in alto, mostra il nome del foglio di calcolo corrente.</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T205701Z" creationid="it-libo-l10n" creationdate="20241027T205543Z">
+        <seg>La barra del titolo, nella parte superiore della finestra, mostra il nome del foglio elettronico attualmente in uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,6 +6040,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Under the Title bar is the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T205836Z" creationid="it-libo-l10n" creationdate="20241027T205836Z">
+        <seg>Sotto la barra del Titolo c'è la barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Used with other keys</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201130Z" creationid="valter" creationdate="20211115T185554Z">
@@ -6288,6 +6296,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a spreadsheet is newly created from a template or a blank document, its name is &lt;f0&gt;Untitled X&lt;/f0&gt;, where X is a number.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T205648Z" creationid="it-libo-l10n" creationdate="20241027T205648Z">
+        <seg>Se il foglio elettronico è appena stato creato da un modello o da un documento vuoto, il suo nome sarà &lt;f0&gt;Senza nome X&lt;/f0&gt;, dove &lt;f1&gt;X&lt;/f1&gt; è un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190402Z" creationid="valter" creationdate="20211115T190402Z">
@@ -6300,6 +6316,22 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T213753Z" creationid="valter" creationdate="20240928T213753Z">
         <seg>Quando si chiude la finestra di dialogo dopo l'uso (normalmente, facendo clic su OK oppure su un altro pulsante, le modifiche vengono salvate e la finestra di dialogo viene chiusa), è possibile lavorare di nuovo col documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you save a spreadsheet for the first time, you are prompted to enter a name of your choice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T205825Z" creationid="it-libo-l10n" creationdate="20241027T205825Z">
+        <seg>Quando si salva un foglio di calcolo per la prima volta, viene richiesto di inserire un nome di libera scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select one of the menu items, a sub-menu drops down to show commands.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T210004Z" creationid="it-libo-l10n" creationdate="20241027T210004Z">
+        <seg>Quando si sceglie una delle voci del menu, viene visualizzato un sottomenu con ulteriori opzioni.</seg>
       </tuv>
     </tu>
     <tu>
