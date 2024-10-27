@@ -4153,6 +4153,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most of the menus are similar to those in other components of LibreOffice, although the specific commands and tools may vary.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T210210Z" creationid="it-libo-l10n" creationdate="20241027T210210Z">
+        <seg>La maggior parte dei menu sono simili a quelli degli altri componenti di LibreOffice, anche se i comandi e gli strumenti specifici possono variare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving and copying sheets</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215501Z" creationid="it-libo-l10n" creationdate="20241021T215501Z">
@@ -6564,6 +6572,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T162817Z" creationid="valter" creationdate="20240928T162817Z">
         <seg>È possibile anche &lt;/f3&gt;ripristinare il software alle sue impostazioni predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also customize the Menu bar; see Chapter 13, Customizing LibreOffice, for more information.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T210124Z" creationid="it-libo-l10n" creationdate="20241027T210124Z">
+        <seg>È possibile anche personalizzare la barra del menu; vedere il Capitolo 13, Personalizzazione di LibreOffice, per ulteriori informazioni.</seg>
       </tuv>
     </tu>
     <tu>
