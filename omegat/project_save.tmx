@@ -5182,6 +5182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select Function</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T215031Z" creationid="it-libo-l10n" creationdate="20241109T215031Z">
+        <seg>Seleziona funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option and the default web browser opens at the LibreOffice online help pages in the LibreOffice website.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T155125Z" creationid="valter" creationdate="20240928T155125Z">
