@@ -1793,8 +1793,8 @@
       <tuv lang="en-US">
         <seg>Compatibility with other spreadsheet applications</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="akurery" changedate="20211211T191323Z" creationid="akurery" creationdate="20211211T191323Z">
-        <seg>Compatibilità con altre applicazioni per fogli di calcolo</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T211044Z" creationid="akurery" creationdate="20211211T191323Z">
+        <seg>Compatibilità con altre applicazioni per fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
