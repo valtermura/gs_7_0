@@ -2055,6 +2055,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays the current active cell reference using a combination of a letter and a number, for example A1.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213720Z" creationid="it-libo-l10n" creationdate="20241109T213720Z">
+        <seg>Visualizza il riferimento alla cella attiva corrente utilizzando una combinazione di una lettera e un numero, ad esempio A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distribute, copy, and modify the software as required, in accordance with the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T113952Z" creationid="valter" creationdate="20240928T113952Z">
@@ -2775,6 +2783,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From left to right, the Formula bar includes the following:</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213619Z" creationid="it-libo-l10n" creationdate="20241109T213619Z">
+        <seg>Da sinistra a destra, la Barra della formula include i seguenti elementi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From there you can report bugs, suggest new features and communicate with others in the LibreOffice community.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T174933Z" creationid="valter" creationdate="20211016T104858Z">
@@ -3179,6 +3195,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211110T145046Z" creationid="Elisabetta Manuele" creationdate="20211110T145046Z">
         <seg>Se avete già una certa esperienza sulla realizzazione di una presentazione, consigliamo di utilizzare la &lt;f1&gt;Guida a Impress&lt;/f1&gt; come fonte di informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have selected a range of cells that is also a named range, the name of the range is shown in this box.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213843Z" creationid="it-libo-l10n" creationdate="20241109T213843Z">
+        <seg>Se è selezionato un intervallo di celle a cui è stato assegnato un nome, il nome dell'intervallo sarà mostrato in questa casella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4285,6 +4309,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221133Z" creationid="it-libo-l10n" creationdate="20241021T221133Z">
         <seg>Linee multiple di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name Box</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213637Z" creationid="it-libo-l10n" creationdate="20241109T213637Z">
+        <seg>La Casella del nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -5746,6 +5778,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T114900Z" creationid="valter" creationdate="20240928T114900Z">
         <seg>I singoli moduli di LibreOffice sono ben integrati tra loro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The letter indicates the column and the number indicates the row of the selected cell.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213733Z" creationid="it-libo-l10n" creationdate="20241109T213733Z">
+        <seg>La lettera indica la colonna e il numero indica la riga della cella selezionata.</seg>
       </tuv>
     </tu>
     <tu>
