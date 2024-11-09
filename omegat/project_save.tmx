@@ -903,6 +903,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Formula bar&lt;/s0&gt;&lt;s1&gt;Formula bar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213449Z" creationid="it-libo-l10n" creationdate="20241109T213449Z">
+        <seg>&lt;s0&gt;Barra della formula&lt;/s0&gt;&lt;s1&gt;Barra della formula&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt;&lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T095653Z" creationid="valter" creationdate="20240928T095653Z">
@@ -2383,6 +2391,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Formula bar</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213459Z" creationid="it-libo-l10n" creationdate="20241109T213459Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Barra della formula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Options LibreOffice View dialog</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T172602Z" creationid="valter" creationdate="20240928T172602Z">
@@ -2689,8 +2705,8 @@
       <tuv lang="en-US">
         <seg>Formula bar</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201623Z" creationid="it-libo-l10n" creationdate="20241018T201623Z">
-        <seg>Barra di calcolo</seg>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213528Z" creationid="it-libo-l10n" creationdate="20241018T201623Z">
+        <seg>Barra della formula</seg>
       </tuv>
     </tu>
     <tu>
