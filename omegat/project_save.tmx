@@ -3207,6 +3207,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you type the name of a named range and press the &lt;f1&gt;Enter&lt;/f1&gt; key, the named range is selected and displayed.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T214205Z" creationid="it-libo-l10n" creationdate="20241109T214205Z">
+        <seg>Digitando il nome di un intervallo e premendo il tasto &lt;f1&gt;Invio&lt;/f1&gt;, l'intervallo con nome viene selezionato e visualizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to use LibreOffice features that require Java, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T192543Z" creationid="valter" creationdate="20211115T192422Z">
@@ -6772,6 +6780,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T210124Z" creationid="it-libo-l10n" creationdate="20241027T210124Z">
         <seg>È possibile anche personalizzare la barra del menu; vedere il Capitolo 13, Personalizzazione di LibreOffice, per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also jump to a specific cell by typing a cell reference in the &lt;f0&gt;Name Box&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T214009Z" creationid="it-libo-l10n" creationdate="20241109T214009Z">
+        <seg>È anche possibile saltare ad una cella specifica digitando il suo riferimento nella &lt;f0&gt;Casella del nome&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
