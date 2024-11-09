@@ -1783,6 +1783,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commands for checking and customizing the spreadsheet, including options for spell checking; defining AutoCorrect preferences; applying Goal Seek; using the Solver to solve mathematical equations by goal-seeking methods; using the Detective to investigate dependencies between cells; creating scenarios; sharing and protecting; and using macros.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T212315Z" creationid="it-libo-l10n" creationdate="20241109T212315Z">
+        <seg>Comandi per il controllo e la personalizzazione del foglio di calcolo, comprese le opzioni per il controllo ortografico; la definizione delle preferenze della Correzione automatica; l'applicazione della Ricerca valore destinazione; l'utilizzo del Risolutore per le equazioni matematiche con metodi di ricerca del valore desiderato; l'utilizzo del Detective per ispezionare le dipendenze tra le celle; la creazione di scenari; la condivisione, la protezione e l'utilizzo di macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Commands for handling sheets, including options for inserting and deleting elements; renaming, moving, and copying sheets; changing a sheet tab’s highlight color; and navigating through multiple sheets.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241027T210554Z" creationid="it-libo-l10n" creationdate="20241027T210554Z">
@@ -6100,6 +6108,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201604Z" creationid="it-libo-l10n" creationdate="20241018T201604Z">
         <seg>Barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T211947Z" creationid="it-libo-l10n" creationdate="20241109T211947Z">
+        <seg>Strumenti</seg>
       </tuv>
     </tu>
     <tu>
