@@ -1791,6 +1791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commands for manipulating and analyzing data, including options for sorting and filtering; defining database ranges; creating pivot tables; defining validity rules; creating subtotals; consolidating; grouping and outlining; and performing various types of statistical analysis.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T211935Z" creationid="it-libo-l10n" creationdate="20241109T211935Z">
+        <seg>Comandi per la manipolazione e l'analisi dei dati, comprese le opzioni per: la selezione e il filtraggio; la definizione di intervalli di database; la creazione di tabelle pivot; la definizione delle regole di validità; la creazione di subtotali; il consolidamento, il raggruppamento, l'evidenziazione e l'esecuzione di vari tipi di analisi statistiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compatibility with other spreadsheet applications</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T211044Z" creationid="akurery" creationdate="20211211T191323Z">
@@ -4227,7 +4235,7 @@
       <tuv lang="en-US">
         <seg>Navigating within spreadsheets</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215107Z" creationid="it-libo-l10n" creationdate="20241021T215107Z">
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T211302Z" creationid="it-libo-l10n" creationdate="20241021T215107Z">
         <seg>Navigazione nei fogli di calcolo</seg>
       </tuv>
     </tu>
@@ -5072,7 +5080,7 @@
       <tuv lang="en-US">
         <seg>Selecting items in a spreadsheet</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215236Z" creationid="it-libo-l10n" creationdate="20241021T215236Z">
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T211309Z" creationid="it-libo-l10n" creationdate="20241021T215236Z">
         <seg>Selezione degli elementi in un foglio di calcolo</seg>
       </tuv>
     </tu>
@@ -5344,7 +5352,7 @@
       <tuv lang="en-US">
         <seg>Spreadsheet themes</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T221638Z" creationid="it-libo-l10n" creationdate="20241021T221638Z">
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T211321Z" creationid="it-libo-l10n" creationdate="20241021T221638Z">
         <seg>Temi del foglio di calcolo</seg>
       </tuv>
     </tu>
@@ -6242,7 +6250,7 @@
       <tuv lang="en-US">
         <seg>Viewing a spreadsheet</seg>
       </tuv>
-      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241021T215549Z" creationid="it-libo-l10n" creationdate="20241021T215549Z">
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T211315Z" creationid="it-libo-l10n" creationdate="20241021T215549Z">
         <seg>Visualizzazione di un foglio di calcolo</seg>
       </tuv>
     </tu>
