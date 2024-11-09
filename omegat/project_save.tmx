@@ -5662,6 +5662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f1&gt;Name Box&lt;/f1&gt; now displays a drop-down list of the most frequently used functions, for a quick access to the function name and syntax.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T215356Z" creationid="it-libo-l10n" creationdate="20241109T215356Z">
+        <seg>The &lt;f1&gt;Name Box&lt;/f1&gt; now displays a drop-down list of the most frequently used functions, for a quick access to the function name and syntax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Formula bar (Figure &lt;t0&gt;2&lt;/t0&gt;) is located at the top of the cell grid in the Calc workspace.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213120Z" creationid="it-libo-l10n" creationdate="20241109T213120Z">
