@@ -2575,6 +2575,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information about toolbars, see Chapter 1, LibreOffice Basics.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T212924Z" creationid="it-libo-l10n" creationdate="20241109T212924Z">
+        <seg>Per ulteriori informazioni sulle barre degli strumenti, vedere il capitolo 1, Introduzione a LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on formula syntax, see Chapter 8, Using Formulas and Functions, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241022T215632Z" creationid="it-libo-l10n" creationdate="20241022T215632Z">
@@ -3540,6 +3548,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T190855Z" creationid="valter" creationdate="20211115T190855Z">
         <seg>Si basa sul codice di Apache OpenOffice reso disponibile sotto Apache License 2.0, ma include anche software che differisce da versione a versione e che si trova sotto altre licenze open source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is consistent across all LibreOffice applications.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T212851Z" creationid="it-libo-l10n" creationdate="20241109T212851Z">
+        <seg>È coerente in tutte le applicazioni LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
