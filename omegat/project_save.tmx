@@ -2815,6 +2815,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Function Wizard</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T214233Z" creationid="it-libo-l10n" creationdate="20241109T214233Z">
+        <seg>Creazione guidata funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Functions</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241018T201449Z" creationid="it-libo-l10n" creationdate="20241018T201449Z">
@@ -4601,6 +4609,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens a dialog from which you can search through lists of available functions.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T214410Z" creationid="it-libo-l10n" creationdate="20241109T214410Z">
+        <seg>Apre una finestra di dialogo nella quale è possibile cercare negli elenchi delle funzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens a dialog window giving options to restart LibreOffice and &lt;f0&gt;performs&lt;/f0&gt;&lt;f1&gt; several diagnostics in an eventual &lt;/f1&gt;&lt;f2&gt;misbehavior&lt;/f2&gt;&lt;f3&gt; of your installation.</seg>
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T162741Z" creationid="valter" creationdate="20240928T162741Z">
@@ -6002,6 +6018,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211016T092259Z" creationid="valter" creationdate="20211016T092259Z">
         <seg>Questo libro, le altre guide utente di LibreOffice, il sistema di aiuto integrato, e i sistemi di assistenza agli utilizzatori presuppongono che da parte vostra vi sia un minimo di familiarità con il vostro computer e con funzioni basilari quali l'avvio di un programma, l'apertura e il salvataggio di un file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can be very useful because it also shows how the functions are formatted.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T214629Z" creationid="it-libo-l10n" creationdate="20241109T214629Z">
+        <seg>Questo può risultare molto utile perché mostra anche come le funzioni sono strutturate.</seg>
       </tuv>
     </tu>
     <tu>
