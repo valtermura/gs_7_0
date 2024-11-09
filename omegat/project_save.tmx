@@ -3055,6 +3055,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, it can be hidden or made visible by going to &lt;f1&gt;View &gt; Formula Bar&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213422Z" creationid="it-libo-l10n" creationdate="20241109T213422Z">
+        <seg>Tuttavia, può essere nascosta o visualizzata andando in &lt;f1&gt;Visualizza &gt; Barra della formula&lt;/f1&gt; nella Barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, templates will adapt to other &lt;/f0&gt;&lt;f1&gt;available &lt;/f1&gt;&lt;f2&gt;sizes, &lt;/f2&gt;&lt;f3&gt;which &lt;/f3&gt;&lt;f4&gt;can be selected by going to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Slide &gt; Properties &gt; Paper Format&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; on the Menu bar &lt;/f7&gt;&lt;f8&gt;or &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Format&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; in the Slide section in the Properties deck on the Sidebar.&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="it-IT" changeid="Elisabetta Manuele" changedate="20211111T153837Z" creationid="Elisabetta Manuele" creationdate="20211111T153837Z">
@@ -3572,6 +3580,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T195119Z" creationid="valter" creationdate="20211115T195119Z">
         <seg>È integrato con le funzioni grafiche avanzate dei componenti Draw e Math di LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is permanently docked in this position and cannot be used as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213205Z" creationid="it-libo-l10n" creationdate="20241109T213205Z">
+        <seg>È fissata permanentemente in questa posizione e non può essere utilizzata come barra degli strumenti fluttuante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5522,6 +5538,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20211115T184726Z" creationid="valter" creationdate="20211115T184726Z">
         <seg>Essi &lt;f1&gt;&lt;/f1&gt; possono essere riaggiunti scaricandoli e installandoli &lt;f2&gt;come estensione da &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://extensions.libreoffice.org/en/extensions/&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Formula bar (Figure &lt;t0&gt;2&lt;/t0&gt;) is located at the top of the cell grid in the Calc workspace.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T213120Z" creationid="it-libo-l10n" creationdate="20241109T213120Z">
+        <seg>Nello spazio di lavoro di Calc, la Barra della formula (Figura &lt;t0&gt;2&lt;/t0&gt;) si trova sopra alla griglia delle celle.</seg>
       </tuv>
     </tu>
     <tu>
