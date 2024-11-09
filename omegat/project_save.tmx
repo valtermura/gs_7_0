@@ -1807,6 +1807,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commands of particular interest to Calc users include Value Highlighting; Column/Row Highlighting; Hidden Row/Column Indicator; and Show Formula.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T212601Z" creationid="it-libo-l10n" creationdate="20241109T212601Z">
+        <seg>Comandi di particolare interesse per gli utenti di Calc, che includono Evidenzia valori; Evidenzia colonna/riga; Indicatore righe/colonne nascoste e Mostra formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compatibility with other spreadsheet applications</seg>
       </tuv>
       <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T211044Z" creationid="akurery" creationdate="20211211T191323Z">
@@ -3267,6 +3275,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="calem" changedate="20211118T190839Z" creationid="calem" creationdate="20211118T190839Z">
         <seg>In Windows o Linux, accedete a Strumenti&amp;gt; Opzioni&amp;gt; LibreOffice Impress&amp;gt; Generale nella barra dei menu e deselezionate l'opzione Inizia con la selezione del modello nell'area Nuovo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a default LibreOffice installation, the top toolbar under the Menu bar is called the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T212736Z" creationid="it-libo-l10n" creationdate="20241109T212736Z">
+        <seg>In un'installazione predefinita di LibreOffice, la barra degli strumenti che si trova in alto sotto alla Barra dei menu è chiamata Barre degli strumenti standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6260,6 +6276,14 @@
       </tuv>
       <tuv lang="it-IT" changeid="valter" changedate="20240928T133404Z" creationid="valter" creationdate="20240928T133404Z">
         <seg>Le versioni di LibreOffice per Windows, Linux e macOS sono disponibili a titolo gratuito e sono scaricabili da &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="it-libo-l10n" changedate="20241109T212329Z" creationid="it-libo-l10n" creationdate="20241109T212329Z">
+        <seg>Visualizza</seg>
       </tuv>
     </tu>
     <tu>
